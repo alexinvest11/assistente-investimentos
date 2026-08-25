@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+yfinance
+requests
+python-dotenv
+openai
+apscheduler
+httpx
+pydantic
+sqlalchemy
+python-telegram-bot
