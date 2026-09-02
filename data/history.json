@@ -239,5 +239,45 @@
         "kind": "fii"
       }
     }
+  },
+  {
+    "date": "2026-09-02 20:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN  EDJ N2",
+        "price": 48.1,
+        "change_pct": 2.62,
+        "currency": "BRL",
+        "dividend_yield": 0.0925,
+        "pe_ratio": 4.6890836,
+        "sector": "Energy",
+        "market_cap": 657350328320,
+        "news": [
+          "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
+          "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
+          "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
+        ],
+        "score": 80.0,
+        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGRE11.SA",
+        "name": "FII HGRE PAXCI",
+        "price": 118.25,
+        "change_pct": 2.11,
+        "currency": "BRL",
+        "dividend_yield": 0.0993,
+        "pe_ratio": 18.740095,
+        "sector": "Real Estate",
+        "market_cap": 1397451008,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.9% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
   }
 ]
