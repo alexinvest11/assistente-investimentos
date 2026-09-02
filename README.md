@@ -1,22 +1,22 @@
 # Assistente de Investimentos
 
-Aplicativo pessoal focado no **Brasil**.
+Aplicativo pessoal de análises — **somente Brasil e criptomoedas**.
 
-## O que analisa
+## O que faz
 
 - **Ações** brasileiras
-- **Fundos Imobiliários (FIIs)**
+- **Fundos imobiliários (FIIs)**
 - **Criptomoedas** (quando há movimento interessante)
 
-A análise considera preço, proventos e **notícias recentes** do ativo.
+A análise considera preço, proventos e **notícias recentes**.
 
 ## Frequência
 
-Atualização a cada **2 horas** (aviso no Telegram + registro no app).
+Atualização **a cada 1 hora** (aviso no Telegram + registro no app).
 
-## Interface
+## App
 
-App com abas:
+Abas no aplicativo:
 1. Ações
 2. Fundos Imobiliários
 3. Criptomoedas
@@ -27,4 +27,4 @@ Rico (ativos brasileiros)
 
 ## Aviso
 
-Isto não é recomendação de investimento.
+Isto não é recomendação de investimento. Faça sua própria análise.
