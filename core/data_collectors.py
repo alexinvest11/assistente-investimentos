@@ -5,10 +5,10 @@ import yfinance as yf
 from typing import List, Dict, Optional
 
 
-def normalize_dividend_yield(raw) -> Optional[float]:
+def normalize_dividend_yield(raw, ticker: str = "") -> Optional[float]:
     """
-    Normaliza o Dividend Yield para ficar sempre entre 0 e 1 (ex: 0.12 = 12%).
-    yfinance às vezes devolve valor já em percentual ou números inconsistentes.
+    Normaliza o Dividend Yield para ficar entre 0 e 1 (ex: 0.05 = 5%).
+    Descarta valores absurdos.
     """
     if raw is None:
         return None
@@ -17,19 +17,21 @@ def normalize_dividend_yield(raw) -> Optional[float]:
     except (TypeError, ValueError):
         return None
 
-    # Se veio como 12.5 (em vez de 0.125), divide por 100
+    # Se veio como percentual (ex: 5.2 em vez de 0.052)
     if dy > 1:
         dy = dy / 100
 
-    # Valores absurdos (acima de 50% ao ano) são ignorados
-    if dy > 0.50 or dy < 0:
+    # Limites realistas:
+    # - Ações EUA/Europa: raramente acima de 8%
+    # - Brasil / FIIs: podem chegar a ~15-18%
+    # Acima de 20% tratamos como erro de dados
+    if dy < 0 or dy > 0.20:
         return None
 
     return dy
 
 
 def get_ticker_info(ticker: str) -> Optional[Dict]:
-    """Retorna informações básicas de um ticker."""
     try:
         t = yf.Ticker(ticker)
         info = t.info
@@ -42,7 +44,7 @@ def get_ticker_info(ticker: str) -> Optional[Dict]:
         prev_close = hist["Close"].iloc[-2] if len(hist) > 1 else price
         change_pct = ((price - prev_close) / prev_close) * 100 if prev_close else 0
 
-        dy = normalize_dividend_yield(info.get("dividendYield"))
+        dy = normalize_dividend_yield(info.get("dividendYield"), ticker)
 
         return {
             "ticker": ticker,
