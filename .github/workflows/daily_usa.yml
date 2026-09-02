@@ -1,45 +1,11 @@
-name: Dica Diária EUA
+name: Dica Diária EUA (desativado)
 
+# Removido a pedido do usuário (tributação sobre rendimentos no exterior)
 on:
-  schedule:
-    - cron: '30 12 * * 1-5'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  analyze:
+  noop:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run USA analysis
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python -c "from jobs.daily_analysis import run_analysis; run_analysis(['usa'])"
-
-      - name: Commit and push tips
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f data/latest_tips.json data/history.json || true
-          if git diff --staged --quiet; then
-            echo "Nenhuma mudança para gravar"
-          else
-            git commit -m "Atualiza dicas EUA"
-            git pull --rebase origin main || true
-            git push origin HEAD:main
-          fi
+      - run: echo "Workflow desativado."
