@@ -2,29 +2,39 @@ name: Dica Diária Europa
 
 on:
   schedule:
-    # 04:00 horário de Brasília (07:00 UTC) - aproximadamente 1h antes da abertura europeia
     - cron: '0 7 * * 1-5'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   analyze:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
+
       - name: Run Europe analysis
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python -c "from jobs.daily_analysis import run_analysis; run_analysis(['europe'])"
+
+      - name: Commit tips to repository
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/latest_tips.json data/history.json || true
+          git diff --staged --quiet || git commit -m "Atualiza dicas Europa"
+          git push
