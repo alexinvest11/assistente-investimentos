@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,10 +33,14 @@ jobs:
         run: |
           python -c "from jobs.daily_analysis import run_analysis; run_analysis(['crypto'])"
 
-      - name: Commit tips to repository
+      - name: Commit and push tips
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add data/latest_tips.json data/history.json || true
-          git diff --staged --quiet || git commit -m "Atualiza dicas Cripto"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ || true
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança para gravar"
+          else
+            git commit -m "Atualiza dicas Cripto"
+            git push
+          fi

@@ -46,7 +46,7 @@ if tips_data:
 
         col1, col2 = st.columns(2)
         with col1:
-            st.metric("Ticker", tip.get("ticker", "-"))
+            st.metric("Código", tip.get("ticker", "-"))
             st.write(f"**{tip.get('name', '')}**")
         with col2:
             price = tip.get("price")
@@ -57,13 +57,12 @@ if tips_data:
 
         dy = tip.get("dividend_yield")
         if dy:
-            st.write(f"Dividend Yield: **{dy*100:.1f}%**")
+            st.write(f"Dividendos (aprox.): **{dy*100:.1f}% ao ano**")
 
         reason = tip.get("reason")
         if reason:
             st.info(f"**Por que foi indicado:**  \n{reason}")
 
-        st.caption(f"Score interno: {tip.get('score', 'N/A')}")
         st.markdown("---")
 
     show_tip("🇧🇷 Brasil (Ações / FIIs)", tips.get("brazil"))
@@ -72,12 +71,12 @@ if tips_data:
 
     crypto_tip = tips.get("crypto")
     if crypto_tip:
-        show_tip("₿ Criptomoedas (oportunidade)", crypto_tip)
+        show_tip("₿ Criptomoedas", crypto_tip)
     else:
         st.subheader("₿ Criptomoedas")
         st.info("Nenhuma oportunidade forte no momento. O sistema avisa no Telegram quando surgir algo interessante.")
 else:
-    st.info("Ainda não há análises geradas. As dicas aparecerão aqui após a próxima execução diária.")
+    st.info("Ainda não há análises gravadas. As dicas aparecerão aqui após as próximas execuções.")
 
 st.markdown("---")
 st.caption("Corretora prioritária para Brasil: **Rico**  \nIsto não é recomendação de investimento. Faça sua própria análise.")

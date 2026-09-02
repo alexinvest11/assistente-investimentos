@@ -1,8 +1,7 @@
 """
-Job diário que gera as dicas, salva no repositório e envia avisos pelo Telegram.
+Job diário: gera dicas, grava no repositório e envia aviso no Telegram.
 """
 import json
-import os
 from datetime import datetime
 from pathlib import Path
 
@@ -29,7 +28,6 @@ def save_tips(payload: dict):
     with open(TIPS_FILE, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2, default=str)
 
-    # Histórico simples (mantém as últimas 30 entradas)
     history = []
     if HISTORY_FILE.exists():
         try:
@@ -53,16 +51,16 @@ def format_tip(region: str, tip: dict) -> str:
         return f"{region}: nenhuma dica encontrada hoje."
 
     dy = tip.get("dividend_yield")
-    dy_str = f"{dy*100:.1f}%" if dy else "N/A"
+    dy_str = f"{dy*100:.1f}% ao ano" if dy else "não disponível"
     reason = tip.get("reason", "")
 
     text = (
         f"<b>{region}</b>\n"
-        f"Ticker: <b>{tip['ticker']}</b>\n"
+        f"Código: <b>{tip['ticker']}</b>\n"
         f"Nome: {tip.get('name', '')}\n"
-        f"Preço: {tip.get('currency', '')} {tip.get('price')}\n"
-        f"Variação: {tip.get('change_pct')}%\n"
-        f"Dividend Yield: {dy_str}\n\n"
+        f"Preço atual: {tip.get('currency', '')} {tip.get('price')}\n"
+        f"Variação recente: {tip.get('change_pct')}%\n"
+        f"Dividendos (aprox.): {dy_str}\n\n"
         f"<b>Por que foi indicado:</b>\n{reason}"
     )
     return text

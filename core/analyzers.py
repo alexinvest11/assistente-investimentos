@@ -1,7 +1,5 @@
 """
-Lógica de seleção das dicas do dia.
-Foco em potencial de valorização e dividendos (quando aplicável).
-Gera também um resumo explicando o porquê da indicação.
+Lógica de seleção das dicas do dia + texto simples para leigos.
 """
 from typing import List, Dict, Optional
 from core.data_collectors import (
@@ -63,9 +61,9 @@ def score_crypto(asset: Dict) -> float:
 
 
 def generate_reason(asset: Dict, is_crypto: bool = False) -> str:
-    """Gera um resumo curto em português explicando o porquê da indicação."""
+    """Texto bem simples, para quem não entende de investimentos."""
     if not asset:
-        return "Nenhuma indicação disponível."
+        return "Nenhuma indicação disponível hoje."
 
     name = asset.get("name") or asset.get("ticker")
     ticker = asset.get("ticker")
@@ -74,37 +72,57 @@ def generate_reason(asset: Dict, is_crypto: bool = False) -> str:
 
     if is_crypto:
         if change > 5:
-            motivo = f"apresentou forte alta de {change:.1f}% no período recente"
-        elif change > 2:
-            motivo = f"mostra momentum positivo de {change:.1f}%"
-        else:
-            motivo = f"teve variação de {change:.1f}%"
-
+            return (
+                f"{name} ({ticker}) subiu bastante nos últimos dias ({change:.1f}%). "
+                f"Por isso chamou atenção entre as principais criptomoedas. "
+                f"Lembre-se: criptomoedas oscilam muito e o risco é alto."
+            )
+        if change > 2:
+            return (
+                f"{name} ({ticker}) está em alta de {change:.1f}%. "
+                f"Foi a que teve melhor movimento entre as criptomoedas acompanhadas. "
+                f"Criptomoedas são voláteis — use com cuidado."
+            )
         return (
-            f"{name} ({ticker}) foi selecionado porque {motivo}. "
-            f"Entre as principais criptomoedas monitoradas, apresentou o melhor desempenho no momento."
+            f"{name} ({ticker}) teve variação de {change:.1f}%. "
+            f"Foi destacada entre as principais criptomoedas do momento."
         )
 
+    # Ações / FIIs / REITs — linguagem leiga
     partes = []
-    if dy and dy > 0.05:
-        partes.append(f"oferece Dividend Yield atrativo de {dy*100:.1f}%")
-    elif dy and dy > 0.03:
-        partes.append(f"paga dividendos de {dy*100:.1f}% ao ano")
+
+    if dy and dy >= 0.06:
+        partes.append(
+            f"ela distribui uma boa parte do lucro aos acionistas "
+            f"(cerca de {dy*100:.1f}% ao ano em dividendos)"
+        )
+    elif dy and dy >= 0.03:
+        partes.append(
+            f"ela paga dividendos de cerca de {dy*100:.1f}% ao ano"
+        )
 
     if change > 2:
-        partes.append(f"mostra valorização recente de {change:.1f}%")
+        partes.append(f"o preço subiu {change:.1f}% recentemente")
     elif change > 0:
-        partes.append(f"está com leve alta de {change:.1f}%")
+        partes.append(f"o preço está em leve alta ({change:.1f}%)")
     elif change > -2:
-        partes.append("preço estável no curto prazo")
+        partes.append("o preço está relativamente estável")
 
     if not partes:
-        partes.append("apresentou o melhor equilíbrio entre dividendos e momentum entre os ativos analisados")
+        return (
+            f"{name} ({ticker}) foi a que se saiu melhor hoje entre as opções analisadas, "
+            f"combinando pagamento de dividendos e comportamento do preço."
+        )
 
-    motivo = " e ".join(partes)
+    if len(partes) == 1:
+        motivo = partes[0]
+    else:
+        motivo = partes[0] + " e " + partes[1]
+
     return (
-        f"{name} ({ticker}) foi a melhor opção do dia porque {motivo}. "
-        f"A seleção considera Dividend Yield, variação recente de preço e liquidez."
+        f"{name} ({ticker}) foi escolhida porque {motivo}. "
+        f"Isso a deixou como a opção mais interessante do dia nesta carteira. "
+        f"Isso não é uma recomendação de compra — é apenas um destaque automático para você avaliar."
     )
 
 
@@ -122,15 +140,13 @@ def pick_best(assets: List[Dict], scorer, is_crypto: bool = False) -> Optional[D
 def analyze_brazil() -> Optional[Dict]:
     stocks = get_multiple(BRAZIL_STOCKS)
     fiis = get_multiple(BRAZIL_FIIS)
-    all_assets = stocks + fiis
-    return pick_best(all_assets, score_dividend_asset)
+    return pick_best(stocks + fiis, score_dividend_asset)
 
 
 def analyze_usa() -> Optional[Dict]:
     stocks = get_multiple(US_STOCKS)
     reits = get_multiple(US_REITS)
-    all_assets = stocks + reits
-    return pick_best(all_assets, score_dividend_asset)
+    return pick_best(stocks + reits, score_dividend_asset)
 
 
 def analyze_europe() -> Optional[Dict]:
