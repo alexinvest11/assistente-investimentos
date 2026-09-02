@@ -13,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,10 +35,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ || true
+          git add -f data/latest_tips.json data/history.json || true
           if git diff --staged --quiet; then
             echo "Nenhuma mudança para gravar"
           else
             git commit -m "Atualiza dicas Europa"
-            git push
+            git pull --rebase origin main || true
+            git push origin HEAD:main
           fi

@@ -5,5 +5,10 @@ __pycache__/
 venv/
 .env.local
 .DS_Store
-data/
 *.db
+
+# Permite gravar as dicas no repositório
+!data/
+!data/latest_tips.json
+!data/history.json
+!data/.gitkeep
