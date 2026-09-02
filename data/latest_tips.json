@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-02T18:10:36.557487",
+  "updated_at": "2026-09-02T18:35:26.189994",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN  EDJ N2",
-      "price": 48.02,
-      "change_pct": 2.45,
+      "price": 48.08,
+      "change_pct": 2.58,
       "currency": "BRL",
       "dividend_yield": 0.0925,
-      "pe_ratio": 4.6803117,
+      "pe_ratio": 4.68616,
       "sector": "Energy",
-      "market_cap": 656120610816,
+      "market_cap": 656940400640,
       "news": [
         "Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz",
         "Petrobras Eyes LNG Exports to Asia as Gas Demand Surges",
         "The U.S. doesn’t have a state-owned oil giant. But in Venezuela, the federal government will control a company with the world’s 2nd largest reserves"
       ],
       "score": 80.0,
-      "reason": "O ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacado porque distribui uma boa parte do resultado aos cotistas/acionistas (cerca de 9.2% ao ano) e o preço subiu 2.5% recentemente. Nas notícias recentes: \"Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -33,7 +33,7 @@
       "market_cap": 1068336064,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacado porque distribui uma boa parte do resultado aos cotistas/acionistas (cerca de 19.5% ao ano) e o preço subiu 2.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 19.5% ao ano) e o preço subiu 2.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
