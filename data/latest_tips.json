@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:53:33.947550",
+  "updated_at": "2026-09-02T16:10:47.362432",
   "tips": {
     "usa": {
       "ticker": "AAPL",
@@ -26,6 +26,7 @@
       "market_cap": 640407568384,
       "score": 75.0,
       "reason": "PETROBRAS   PN  EDJ N2 (PETR4.SA) foi escolhida porque ela distribui uma boa parte do lucro aos acionistas (cerca de 9.2% ao ano em dividendos) e o preço subiu 4.1% recentemente. Isso a deixou como a opção mais interessante do dia nesta carteira. Isso não é uma recomendação de compra — é apenas um destaque automático para você avaliar."
-    }
+    },
+    "crypto": null
   }
 }
