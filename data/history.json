@@ -16,5 +16,36 @@
         "reason": "Apple Inc. (AAPL) foi escolhida porque ela distribui uma boa parte do lucro aos acionistas (cerca de 33.0% ao ano em dividendos) e o preço subiu 2.6% recentemente. Isso a deixou como a opção mais interessante do dia nesta carteira. Isso não é uma recomendação de compra — é apenas um destaque automático para você avaliar."
       }
     }
+  },
+  {
+    "date": "2026-09-02 12:53",
+    "tips": {
+      "usa": {
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "price": 325.13,
+        "change_pct": 2.61,
+        "currency": "USD",
+        "dividend_yield": 0.33,
+        "pe_ratio": 37.328358,
+        "sector": "Technology",
+        "market_cap": 4745005629440,
+        "score": 75.0,
+        "reason": "Apple Inc. (AAPL) foi escolhida porque ela distribui uma boa parte do lucro aos acionistas (cerca de 33.0% ao ano em dividendos) e o preço subiu 2.6% recentemente. Isso a deixou como a opção mais interessante do dia nesta carteira. Isso não é uma recomendação de compra — é apenas um destaque automático para você avaliar."
+      },
+      "brazil": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN  EDJ N2",
+        "price": 46.87,
+        "change_pct": 4.11,
+        "currency": "BRL",
+        "dividend_yield": 0.0925,
+        "pe_ratio": 4.568226,
+        "sector": "Energy",
+        "market_cap": 640407568384,
+        "score": 75.0,
+        "reason": "PETROBRAS   PN  EDJ N2 (PETR4.SA) foi escolhida porque ela distribui uma boa parte do lucro aos acionistas (cerca de 9.2% ao ano em dividendos) e o preço subiu 4.1% recentemente. Isso a deixou como a opção mais interessante do dia nesta carteira. Isso não é uma recomendação de compra — é apenas um destaque automático para você avaliar."
+      }
+    }
   }
 ]
