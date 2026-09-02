@@ -1,8 +1,14 @@
 """
-Coleta de dados de ações, FIIs e criptomoedas (Brasil) + notícias.
+Coleta de dados de ações, FIIs e criptomoedas (Brasil) + notícias em português.
 """
 import yfinance as yf
 from typing import List, Dict, Optional
+
+try:
+    from deep_translator import GoogleTranslator
+    _translator = GoogleTranslator(source="auto", target="pt")
+except Exception:
+    _translator = None
 
 
 def normalize_dividend_yield(raw, ticker: str = "") -> Optional[float]:
@@ -16,27 +22,41 @@ def normalize_dividend_yield(raw, ticker: str = "") -> Optional[float]:
     if dy > 1:
         dy = dy / 100
 
-    # Brasil/FIIs podem ter DY mais altos; acima de 20% tratamos como erro
     if dy < 0 or dy > 0.20:
         return None
     return dy
 
 
+def translate_to_pt(text: str) -> str:
+    """Traduz texto para português (se já estiver em PT, mantém)."""
+    if not text or not text.strip():
+        return text
+    if _translator is None:
+        return text
+    try:
+        # Evita traduzir textos muito curtos ou que já parecem PT
+        translated = _translator.translate(text[:500])
+        return translated.strip() if translated else text
+    except Exception as e:
+        print(f"Erro ao traduzir: {e}")
+        return text
+
+
 def get_news(ticker: str, limit: int = 3) -> List[str]:
-    """Busca manchetes recentes do ativo (quando disponível)."""
+    """Busca manchetes recentes e traduz para português."""
     headlines = []
     try:
         t = yf.Ticker(ticker)
         news = t.news or []
         for item in news[:limit]:
-            # yfinance pode devolver formatos diferentes
             title = None
             if isinstance(item, dict):
-                title = item.get("title") or item.get("content", {}).get("title")
-                if not title and "content" in item and isinstance(item["content"], dict):
+                title = item.get("title")
+                if not title and isinstance(item.get("content"), dict):
                     title = item["content"].get("title")
             if title:
-                headlines.append(str(title).strip())
+                title_pt = translate_to_pt(str(title).strip())
+                headlines.append(title_pt)
     except Exception as e:
         print(f"Erro ao buscar notícias de {ticker}: {e}")
     return headlines
