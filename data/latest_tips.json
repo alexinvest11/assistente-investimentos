@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-03T12:07:17.451289",
+  "updated_at": "2026-09-03T13:05:43.176039",
   "tips": {
-    "crypto": null,
+    "crypto": {
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 78562.51,
+      "change_pct": 1.63,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 1578167697408,
+      "news": [
+        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
+        "A SEC está se preparando para blockchain e negociação 24 horas por dia. Aqui está o que você deve saber.",
+        "Três maneiras pelas quais os rendimentos historicamente elevados dos títulos estão impactando os investidores em ETFs"
+      ],
+      "score": 40.0,
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.6%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta ma...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN  EDJ N2",
@@ -9,16 +27,16 @@
       "change_pct": 2.84,
       "currency": "BRL",
       "dividend_yield": 0.09,
-      "pe_ratio": 4.5687203,
+      "pe_ratio": 4.7254906,
       "sector": "Energy",
       "market_cap": 658580045824,
       "news": [
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
+        "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
