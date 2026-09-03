@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-03T15:05:35.709061",
+  "updated_at": "2026-09-03T16:06:13.663392",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 80744.6,
-      "change_pct": 4.46,
+      "price": 80925.01,
+      "change_pct": 4.69,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1623958093824,
+      "market_cap": 1623154622464,
       "news": [
-        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "A SEC está se preparando para blockchain e negociação 24 horas por dia. Aqui está o que você deve saber.",
-        "Três maneiras pelas quais os rendimentos historicamente elevados dos títulos estão impactando os investidores em ETFs"
+        "Por que o Bitcoin poderia atingir um valor de mercado de US$ 12 trilhões, de acordo com Anthony Scaramucci"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.5%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta ma...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.7%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN  EDJ N2",
-      "price": 48.51,
-      "change_pct": 0.64,
+      "price": 48.23,
+      "change_pct": 0.06,
       "currency": "BRL",
       "dividend_yield": 0.09,
-      "pe_ratio": 4.7558823,
+      "pe_ratio": 4.728431,
       "sector": "Energy",
-      "market_cap": 662815703040,
+      "market_cap": 658989907968,
       "news": [
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
-        "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
-        "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.6%). Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.1%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI  ES",
-      "price": 147.97,
-      "change_pct": 0.1,
+      "ticker": "KNRI11.SA",
+      "name": "FII KINEA   CI",
+      "price": 156.96,
+      "change_pct": 0.54,
       "currency": "BRL",
-      "dividend_yield": 0.095,
-      "pe_ratio": 9.59598,
+      "dividend_yield": 0.08460000000000001,
+      "pe_ratio": 10.6507435,
       "sector": "Real Estate",
-      "market_cap": 4999547904,
+      "market_cap": 4426907648,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
