@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:06:00.373584",
+  "updated_at": "2026-09-03T11:05:56.206908",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,7 +8,7 @@
       "price": 48.2,
       "change_pct": 2.84,
       "currency": "BRL",
-      "dividend_yield": 0.0925,
+      "dividend_yield": 0.09,
       "pe_ratio": 4.5687203,
       "sector": "Energy",
       "market_cap": 658580045824,
@@ -18,7 +18,7 @@
         "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -27,13 +27,13 @@
       "price": 118.4,
       "change_pct": 2.24,
       "currency": "BRL",
-      "dividend_yield": 0.0993,
+      "dividend_yield": 0.0971,
       "pe_ratio": 18.35659,
       "sector": "Real Estate",
       "market_cap": 1399223680,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.9% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
