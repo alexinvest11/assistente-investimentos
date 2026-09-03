@@ -639,5 +639,45 @@
         "kind": "fii"
       }
     }
+  },
+  {
+    "date": "2026-09-03 08:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN  EDJ N2",
+        "price": 46.87,
+        "change_pct": 4.11,
+        "currency": "BRL",
+        "dividend_yield": 0.0925,
+        "pe_ratio": 4.697856,
+        "sector": "Energy",
+        "market_cap": 658580045824,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 80.0,
+        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 4.1% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGRE11.SA",
+        "name": "FII HGRE PAXCI",
+        "price": 118.4,
+        "change_pct": 2.24,
+        "currency": "BRL",
+        "dividend_yield": 0.0993,
+        "pe_ratio": 18.35659,
+        "sector": "Real Estate",
+        "market_cap": 1399223680,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.9% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
   }
 ]
