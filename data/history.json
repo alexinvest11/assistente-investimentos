@@ -1187,5 +1187,63 @@
         "kind": "fii"
       }
     }
+  },
+  {
+    "date": "2026-09-03 19:05",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 81436.29,
+        "change_pct": 5.35,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1631545982976,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Novo sinal de alta pode enviar bitcoin para cima",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 75.0,
+        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.3%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN  EDJ N2",
+        "price": 47.78,
+        "change_pct": -0.87,
+        "currency": "BRL",
+        "dividend_yield": 0.0925,
+        "pe_ratio": 4.684314,
+        "sector": "Energy",
+        "market_cap": 652841320448,
+        "news": [
+          "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
+          "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ES",
+        "price": 147.99,
+        "change_pct": 0.12,
+        "currency": "BRL",
+        "dividend_yield": 0.095,
+        "pe_ratio": 9.597277,
+        "sector": "Real Estate",
+        "market_cap": 5000223744,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
   }
 ]
