@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-02 18:35",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN  EDJ N2",
-        "price": 48.08,
-        "change_pct": 2.58,
-        "currency": "BRL",
-        "dividend_yield": 0.0925,
-        "pe_ratio": 4.68616,
-        "sector": "Energy",
-        "market_cap": 656940400640,
-        "news": [
-          "Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz",
-          "Petrobras Eyes LNG Exports to Asia as Gas Demand Surges",
-          "The U.S. doesn’t have a state-owned oil giant. But in Venezuela, the federal government will control a company with the world’s 2nd largest reserves"
-        ],
-        "score": 80.0,
-        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "TGAR11.SA",
-        "name": "FII TG ATIVOCI",
-        "price": 45.33,
-        "change_pct": 2.3,
-        "currency": "BRL",
-        "dividend_yield": 0.195,
-        "pe_ratio": null,
-        "sector": "Real Estate",
-        "market_cap": 1068336064,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 19.5% ao ano) e o preço subiu 2.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-02 18:45",
     "tips": {
       "crypto": null,
@@ -1991,6 +1951,64 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 18.5% ao ano) e o preço subiu 2.4% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-04 11:05",
+    "tips": {
+      "crypto": {
+        "ticker": "ETH-USD",
+        "name": "Ethereum USD",
+        "price": 2522.86,
+        "change_pct": 5.49,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 307758235648,
+        "news": [
+          "A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia",
+          "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
+          "O preço do Bitcoin sobe para US$ 81 mil com as maiores entradas de ETF desde janeiro, Waller Rate Signal antes do relatório de empregos de agosto"
+        ],
+        "score": 70.0,
+        "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.5%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN  EDJ N2",
+        "price": 48.2,
+        "change_pct": 2.84,
+        "currency": "BRL",
+        "dividend_yield": 0.09,
+        "pe_ratio": 4.7135777,
+        "sector": "Energy",
+        "market_cap": 649835380736,
+        "news": [
+          "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
+          "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
+          "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
+        ],
+        "score": 80.0,
+        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGRE11.SA",
+        "name": "FII HGRE PAXCI",
+        "price": 118.4,
+        "change_pct": 2.24,
+        "currency": "BRL",
+        "dividend_yield": 0.0971,
+        "pe_ratio": 18.359015,
+        "sector": "Real Estate",
+        "market_cap": 1408086912,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
