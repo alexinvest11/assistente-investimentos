@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-04T02:05:43.700904",
+  "updated_at": "2026-09-04T03:05:58.290648",
   "tips": {
     "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 80867.81,
-      "change_pct": 4.61,
+      "ticker": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2513.01,
+      "change_pct": 5.08,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1623894654976,
+      "market_cap": 306513903616,
       "news": [
-        "Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’",
-        "Novo sinal de alta pode enviar bitcoin para cima",
-        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força"
+        "A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia",
+        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
+        "A expansão da criptografia e os controles de risco mais rígidos de Schwab mudam a defesa de Charles Schwab (SCHW)?"
       ],
-      "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.6%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "score": 70.0,
+      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN  EDJ N2",
-      "price": 47.56,
-      "change_pct": -1.33,
+      "price": 48.2,
+      "change_pct": 2.84,
       "currency": "BRL",
       "dividend_yield": 0.0925,
       "pe_ratio": 4.6627455,
@@ -35,23 +35,23 @@
         "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
         "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 80.0,
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI  ES",
-      "price": 148.49,
-      "change_pct": 0.45,
+      "ticker": "HGRE11.SA",
+      "name": "FII HGRE PAXCI",
+      "price": 118.4,
+      "change_pct": 2.24,
       "currency": "BRL",
-      "dividend_yield": 0.095,
-      "pe_ratio": 9.629702,
+      "dividend_yield": 0.0971,
+      "pe_ratio": 18.47287,
       "sector": "Real Estate",
-      "market_cap": 5017117184,
+      "market_cap": 1408086912,
       "news": [],
-      "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
