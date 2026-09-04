@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-04T20:05:28.370550",
+  "updated_at": "2026-09-04T21:06:04.854249",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN  EDJ N2",
-      "price": 46.92,
-      "change_pct": -1.35,
+      "price": 47.11,
+      "change_pct": -0.95,
       "currency": "BRL",
       "dividend_yield": 0.09119999999999999,
-      "pe_ratio": 4.6501484,
+      "pe_ratio": 4.668979,
       "sector": "Energy",
-      "market_cap": 641090715648,
+      "market_cap": 643686858752,
       "news": [
-        "Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners",
-        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
