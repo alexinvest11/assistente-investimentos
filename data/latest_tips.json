@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-04T16:05:53.346677",
+  "updated_at": "2026-09-04T17:05:25.307094",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 79.39,
-      "change_pct": 1.2,
+      "price": 79.6,
+      "change_pct": 1.47,
       "currency": "BRL",
       "dividend_yield": 0.0775,
-      "pe_ratio": 31.133333,
+      "pe_ratio": 31.215687,
       "sector": "Basic Materials",
-      "market_cap": 337864982528,
+      "market_cap": 338758696960,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”",
+        "Atualização: Conversas de mercado: Vale e BHP acordo de compensação pelo rompimento da barragem de Mariana acompanhado por mais 19 cidades brasileiras",
         "Vale e ABB assinam acordo para expandir automação em plantas de minério de ferro no Brasil"
       ],
       "score": 60.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.8% ao ano) e o preço está em leve alta (1.2%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.8% ao ano) e o preço está em leve alta (1.5%). Nas notícias recentes: \"Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
