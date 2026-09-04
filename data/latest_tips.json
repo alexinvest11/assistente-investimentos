@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-04T14:05:24.831843",
+  "updated_at": "2026-09-04T15:06:13.126375",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN  EDJ N2",
-      "price": 46.94,
-      "change_pct": -1.3,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 79.17,
+      "change_pct": 0.92,
       "currency": "BRL",
-      "dividend_yield": 0.09119999999999999,
-      "pe_ratio": 4.6019607,
-      "sector": "Energy",
-      "market_cap": 641364000768,
+      "dividend_yield": 0.0775,
+      "pe_ratio": 31.047058,
+      "sector": "Basic Materials",
+      "market_cap": 336928735232,
       "news": [
-        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
-        "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás"
+        "Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”",
+        "Atualização: Conversas de mercado: Vale e BHP acordo de compensação pelo rompimento da barragem de Mariana acompanhado por mais 19 cidades brasileiras",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.8% ao ano) e o preço está em leve alta (0.9%). Nas notícias recentes: \"Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "KNRI11.SA",
-      "name": "FII KINEA   CI",
-      "price": 157.84,
-      "change_pct": 0.43,
+      "ticker": "MXRF11.SA",
+      "name": "FII MAXI RENCI",
+      "price": 9.19,
+      "change_pct": 0.33,
       "currency": "BRL",
-      "dividend_yield": 0.084,
-      "pe_ratio": 10.710456,
+      "dividend_yield": 0.131,
+      "pe_ratio": 13.1285715,
       "sector": "Real Estate",
-      "market_cap": 4451726848,
+      "market_cap": 4233167616,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.1% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
