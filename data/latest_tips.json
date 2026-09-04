@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-04T18:06:43.121765",
+  "updated_at": "2026-09-04T19:05:12.565390",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "VALE3.SA",
-      "name": "VALE        ON      NM",
-      "price": 79.13,
-      "change_pct": 0.87,
+      "ticker": "PETR4.SA",
+      "name": "PETROBRAS   PN  EDJ N2",
+      "price": 47.01,
+      "change_pct": -1.16,
       "currency": "BRL",
-      "dividend_yield": 0.07980000000000001,
-      "pe_ratio": 31.031372,
-      "sector": "Basic Materials",
-      "market_cap": 336758505472,
+      "dividend_yield": 0.09119999999999999,
+      "pe_ratio": 4.659068,
+      "sector": "Energy",
+      "market_cap": 642320433152,
       "news": [
-        "Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”",
-        "Atualização: Conversas de mercado: Vale e BHP acordo de compensação pelo rompimento da barragem de Mariana acompanhado por mais 19 cidades brasileiras",
-        "Vale e ABB assinam acordo para expandir automação em plantas de minério de ferro no Brasil"
+        "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners",
+        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
+        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
       ],
-      "score": 60.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.0% ao ano) e o preço está em leve alta (0.9%). Nas notícias recentes: \"Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "MXRF11.SA",
-      "name": "FII MAXI RENCI",
-      "price": 9.18,
-      "change_pct": 0.22,
+      "ticker": "KNRI11.SA",
+      "name": "FII KINEA   CI",
+      "price": 157.9,
+      "change_pct": 0.47,
       "currency": "BRL",
-      "dividend_yield": 0.131,
-      "pe_ratio": 13.1,
+      "dividend_yield": 0.08460000000000001,
+      "pe_ratio": 10.714527,
       "sector": "Real Estate",
-      "market_cap": 4223955200,
+      "market_cap": 4453419008,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.1% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
