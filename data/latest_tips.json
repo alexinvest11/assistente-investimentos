@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-04T03:05:58.290648",
+  "updated_at": "2026-09-04T04:06:05.307732",
   "tips": {
     "crypto": {
-      "ticker": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2513.01,
-      "change_pct": 5.08,
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 80881.8,
+      "change_pct": 4.63,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 306513903616,
+      "market_cap": 1623058284544,
       "news": [
-        "A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia",
-        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
-        "A expansão da criptografia e os controles de risco mais rígidos de Schwab mudam a defesa de Charles Schwab (SCHW)?"
+        "Bitcoin supera US$ 80.000: ‘O inverno criptográfico está perto do fim’",
+        "Novo sinal de alta pode enviar bitcoin para cima",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
-      "score": 70.0,
-      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "score": 55.0,
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.6%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin supera US$ 80.000: ‘O inverno criptográfico está perto do fim’\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
