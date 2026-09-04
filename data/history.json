@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-02 18:10",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN  EDJ N2",
-        "price": 48.02,
-        "change_pct": 2.45,
-        "currency": "BRL",
-        "dividend_yield": 0.0925,
-        "pe_ratio": 4.6803117,
-        "sector": "Energy",
-        "market_cap": 656120610816,
-        "news": [
-          "Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz",
-          "Petrobras Eyes LNG Exports to Asia as Gas Demand Surges",
-          "The U.S. doesn’t have a state-owned oil giant. But in Venezuela, the federal government will control a company with the world’s 2nd largest reserves"
-        ],
-        "score": 80.0,
-        "reason": "O ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacado porque distribui uma boa parte do resultado aos cotistas/acionistas (cerca de 9.2% ao ano) e o preço subiu 2.5% recentemente. Nas notícias recentes: \"Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "TGAR11.SA",
-        "name": "FII TG ATIVOCI",
-        "price": 45.33,
-        "change_pct": 2.3,
-        "currency": "BRL",
-        "dividend_yield": 0.195,
-        "pe_ratio": null,
-        "sector": "Real Estate",
-        "market_cap": 1068336064,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacado porque distribui uma boa parte do resultado aos cotistas/acionistas (cerca de 19.5% ao ano) e o preço subiu 2.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-02 18:35",
     "tips": {
       "crypto": null,
@@ -1949,6 +1909,64 @@
         "currency": "BRL",
         "dividend_yield": 0.0775,
         "pe_ratio": 30.406977,
+        "sector": "Basic Materials",
+        "market_cap": 333864566784,
+        "news": [
+          "Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”",
+          "Atualização: Conversas de mercado: Vale e BHP acordo de compensação pelo rompimento da barragem de Mariana acompanhado por mais 19 cidades brasileiras",
+          "Vale e ABB assinam acordo para expandir automação em plantas de minério de ferro no Brasil"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.8% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "TGAR11.SA",
+        "name": "FII TG ATIVOCI",
+        "price": 45.38,
+        "change_pct": 2.41,
+        "currency": "BRL",
+        "dividend_yield": 0.18510000000000001,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 1069514432,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 18.5% ao ano) e o preço subiu 2.4% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-04 10:05",
+    "tips": {
+      "crypto": {
+        "ticker": "ETH-USD",
+        "name": "Ethereum USD",
+        "price": 2521.19,
+        "change_pct": 5.42,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 307452444672,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 70.0,
+        "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.4%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 80.8,
+        "change_pct": 3.19,
+        "currency": "BRL",
+        "dividend_yield": 0.0775,
+        "pe_ratio": 30.764706,
         "sector": "Basic Materials",
         "market_cap": 333864566784,
         "news": [

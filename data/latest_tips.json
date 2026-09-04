@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-04T09:05:25.742862",
+  "updated_at": "2026-09-04T10:05:59.603903",
   "tips": {
     "crypto": {
       "ticker": "ETH-USD",
       "name": "Ethereum USD",
-      "price": 2530.62,
-      "change_pct": 5.82,
+      "price": 2521.19,
+      "change_pct": 5.42,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 308818280448,
+      "market_cap": 307452444672,
       "news": [
-        "A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia",
-        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
-        "Bitcoin e Ethereum atingem máximas de vários meses, mas os traders limitam as apostas positivas em 2026"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 70.0,
-      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.8%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.4%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -27,7 +27,7 @@
       "change_pct": 3.19,
       "currency": "BRL",
       "dividend_yield": 0.0775,
-      "pe_ratio": 30.406977,
+      "pe_ratio": 30.764706,
       "sector": "Basic Materials",
       "market_cap": 333864566784,
       "news": [
