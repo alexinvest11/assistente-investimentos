@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-04T01:05:20.387812",
+  "updated_at": "2026-09-04T02:05:43.700904",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 80928.91,
-      "change_pct": 4.69,
+      "price": 80867.81,
+      "change_pct": 4.61,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1626268893184,
+      "market_cap": 1623894654976,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’",
+        "Novo sinal de alta pode enviar bitcoin para cima",
+        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.7%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.6%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -26,7 +26,7 @@
       "price": 47.56,
       "change_pct": -1.33,
       "currency": "BRL",
-      "dividend_yield": 0.09,
+      "dividend_yield": 0.0925,
       "pe_ratio": 4.6627455,
       "sector": "Energy",
       "market_cap": 649835380736,
@@ -36,7 +36,7 @@
         "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
