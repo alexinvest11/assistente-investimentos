@@ -1477,5 +1477,63 @@
         "kind": "fii"
       }
     }
+  },
+  {
+    "date": "2026-09-04 00:08",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 81092.65,
+        "change_pct": 4.91,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1629640196096,
+        "news": [
+          "Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’",
+          "Novo sinal de alta pode enviar bitcoin para cima",
+          "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força"
+        ],
+        "score": 55.0,
+        "reason": "Bitcoin USD (BTC-USD) está em alta de 4.9%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN  EDJ N2",
+        "price": 47.56,
+        "change_pct": -1.33,
+        "currency": "BRL",
+        "dividend_yield": 0.0925,
+        "pe_ratio": 4.6627455,
+        "sector": "Energy",
+        "market_cap": 649835380736,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ES",
+        "price": 148.49,
+        "change_pct": 0.45,
+        "currency": "BRL",
+        "dividend_yield": 0.095,
+        "pe_ratio": 9.629702,
+        "sector": "Real Estate",
+        "market_cap": 5017117184,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
   }
 ]
