@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-09-02 16:10",
-    "tips": {
-      "usa": {
-        "ticker": "AAPL",
-        "name": "Apple Inc.",
-        "price": 325.13,
-        "change_pct": 2.61,
-        "currency": "USD",
-        "dividend_yield": 0.33,
-        "pe_ratio": 37.328358,
-        "sector": "Technology",
-        "market_cap": 4745005629440,
-        "score": 75.0,
-        "reason": "Apple Inc. (AAPL) foi escolhida porque ela distribui uma boa parte do lucro aos acionistas (cerca de 33.0% ao ano em dividendos) e o preço subiu 2.6% recentemente. Isso a deixou como a opção mais interessante do dia nesta carteira. Isso não é uma recomendação de compra — é apenas um destaque automático para você avaliar."
-      },
-      "brazil": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN  EDJ N2",
-        "price": 46.87,
-        "change_pct": 4.11,
-        "currency": "BRL",
-        "dividend_yield": 0.0925,
-        "pe_ratio": 4.568226,
-        "sector": "Energy",
-        "market_cap": 640407568384,
-        "score": 75.0,
-        "reason": "PETROBRAS   PN  EDJ N2 (PETR4.SA) foi escolhida porque ela distribui uma boa parte do lucro aos acionistas (cerca de 9.2% ao ano em dividendos) e o preço subiu 4.1% recentemente. Isso a deixou como a opção mais interessante do dia nesta carteira. Isso não é uma recomendação de compra — é apenas um destaque automático para você avaliar."
-      },
-      "crypto": null
-    }
-  },
-  {
     "date": "2026-09-02 18:10",
     "tips": {
       "crypto": null,
@@ -1947,6 +1915,64 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-04 09:05",
+    "tips": {
+      "crypto": {
+        "ticker": "ETH-USD",
+        "name": "Ethereum USD",
+        "price": 2530.62,
+        "change_pct": 5.82,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 308818280448,
+        "news": [
+          "A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia",
+          "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
+          "Bitcoin e Ethereum atingem máximas de vários meses, mas os traders limitam as apostas positivas em 2026"
+        ],
+        "score": 70.0,
+        "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.8%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 80.8,
+        "change_pct": 3.19,
+        "currency": "BRL",
+        "dividend_yield": 0.0775,
+        "pe_ratio": 30.406977,
+        "sector": "Basic Materials",
+        "market_cap": 333864566784,
+        "news": [
+          "Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”",
+          "Atualização: Conversas de mercado: Vale e BHP acordo de compensação pelo rompimento da barragem de Mariana acompanhado por mais 19 cidades brasileiras",
+          "Vale e ABB assinam acordo para expandir automação em plantas de minério de ferro no Brasil"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.8% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Jim Cramer chama esse estoque de mineração de proteção contra a inflação “tão bom quanto a criptografia”\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "TGAR11.SA",
+        "name": "FII TG ATIVOCI",
+        "price": 45.38,
+        "change_pct": 2.41,
+        "currency": "BRL",
+        "dividend_yield": 0.18510000000000001,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 1069514432,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 18.5% ao ano) e o preço subiu 2.4% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
