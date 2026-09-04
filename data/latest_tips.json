@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-04T11:05:25.981020",
+  "updated_at": "2026-09-04T12:07:08.762170",
   "tips": {
     "crypto": {
       "ticker": "ETH-USD",
       "name": "Ethereum USD",
-      "price": 2522.86,
-      "change_pct": 5.49,
+      "price": 2521.32,
+      "change_pct": 5.43,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 307758235648,
+      "market_cap": 307825115136,
       "news": [
-        "A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia",
-        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
-        "O preço do Bitcoin sobe para US$ 81 mil com as maiores entradas de ETF desde janeiro, Waller Rate Signal antes do relatório de empregos de agosto"
+        "Preços do Bitcoin e do Ethereum hoje, sexta-feira, 4 de setembro de 2026: Bitcoin se mantém acima de US$ 81.000 após enormes entradas de ETF",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 70.0,
-      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.5%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"A plataforma de negociação do Reino Unido Hargreaves Lansdown encerra sua resistência à criptografia\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.4%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Preços do Bitcoin e do Ethereum hoje, sexta-feira, 4 de setembro de 2026: Bitcoin se mantém acima de US$ 81.000 após ...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -26,17 +26,17 @@
       "price": 48.2,
       "change_pct": 2.84,
       "currency": "BRL",
-      "dividend_yield": 0.09,
+      "dividend_yield": 0.09119999999999999,
       "pe_ratio": 4.7135777,
       "sector": "Energy",
       "market_cap": 649835380736,
       "news": [
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
-        "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
-        "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -45,7 +45,7 @@
       "price": 118.4,
       "change_pct": 2.24,
       "currency": "BRL",
-      "dividend_yield": 0.0971,
+      "dividend_yield": 0.0965,
       "pe_ratio": 18.359015,
       "sector": "Real Estate",
       "market_cap": 1408086912,
