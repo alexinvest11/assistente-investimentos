@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-04T05:05:33.024774",
+  "updated_at": "2026-09-04T06:06:53.911620",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 80985.01,
-      "change_pct": 4.77,
+      "price": 80923.05,
+      "change_pct": 4.69,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1626785710080,
+      "market_cap": 1625082298368,
       "news": [
-        "Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Bitcoin supera US$ 80.000: ‘O inverno criptográfico está perto do fim’",
+        "Novo sinal de alta pode enviar bitcoin para cima",
+        "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.8%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.7%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin supera US$ 80.000: ‘O inverno criptográfico está perto do fim’\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -31,12 +31,12 @@
       "sector": "Energy",
       "market_cap": 649835380736,
       "news": [
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
-        "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
-        "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
