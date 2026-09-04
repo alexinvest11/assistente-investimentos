@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-04T13:05:22.831906",
+  "updated_at": "2026-09-04T14:05:24.831843",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN  EDJ N2",
-      "price": 47.56,
-      "change_pct": -1.33,
+      "price": 46.94,
+      "change_pct": -1.3,
       "currency": "BRL",
       "dividend_yield": 0.09119999999999999,
-      "pe_ratio": 4.7135777,
+      "pe_ratio": 4.6019607,
       "sector": "Energy",
-      "market_cap": 649835380736,
+      "market_cap": 641364000768,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
+        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
+        "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI  ES",
-      "price": 148.49,
-      "change_pct": 0.45,
+      "ticker": "KNRI11.SA",
+      "name": "FII KINEA   CI",
+      "price": 157.84,
+      "change_pct": 0.43,
       "currency": "BRL",
-      "dividend_yield": 0.0946,
-      "pe_ratio": 9.586185,
+      "dividend_yield": 0.084,
+      "pe_ratio": 10.710456,
       "sector": "Real Estate",
-      "market_cap": 5017117184,
+      "market_cap": 4451726848,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
