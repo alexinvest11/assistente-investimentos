@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-03 21:06",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 81381.75,
-        "change_pct": 5.28,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1635119923200,
-        "news": [
-          "Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’",
-          "Novo sinal de alta pode enviar bitcoin para cima",
-          "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força"
-        ],
-        "score": 75.0,
-        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.3%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin ultrapassa US$ 80.000: ‘O inverno criptográfico está perto do fim’\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN  EDJ N2",
-        "price": 47.56,
-        "change_pct": -1.33,
-        "currency": "BRL",
-        "dividend_yield": 0.0925,
-        "pe_ratio": 4.6627455,
-        "sector": "Energy",
-        "market_cap": 649835380736,
-        "news": [
-          "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
-          "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
-          "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ES",
-        "price": 148.49,
-        "change_pct": 0.45,
-        "currency": "BRL",
-        "dividend_yield": 0.095,
-        "pe_ratio": 9.629702,
-        "sector": "Real Estate",
-        "market_cap": 5017117184,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-03 22:05",
     "tips": {
       "crypto": {
@@ -1922,6 +1864,64 @@
         ],
         "score": 65.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "MXRF11.SA",
+        "name": "FII MAXI RENCI  ER",
+        "price": 9.19,
+        "change_pct": 0.33,
+        "currency": "BRL",
+        "dividend_yield": 0.1306,
+        "pe_ratio": 13.1285715,
+        "sector": "Real Estate",
+        "market_cap": 4233167616,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII MAXI RENCI  ER (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.1% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-05 13:04",
+    "tips": {
+      "crypto": {
+        "ticker": "BNB-USD",
+        "name": "BNB USD",
+        "price": 764.12,
+        "change_pct": 5.94,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 101637562368,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Previsão de preço do BNB: Ruptura de US$ 740 pode abrir caminho para US$ 825",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 55.0,
+        "reason": "BNB USD (BNB-USD) subiu bastante nos últimos dias (5.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 47.11,
+        "change_pct": -0.95,
+        "currency": "BRL",
+        "dividend_yield": 0.09119999999999999,
+        "pe_ratio": 4.664356,
+        "sector": "Energy",
+        "market_cap": 643686858752,
+        "news": [
+          "Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners",
+          "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
