@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-03 13:05",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 78562.51,
-        "change_pct": 1.63,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1578167697408,
-        "news": [
-          "Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta manhã, apesar dos custos do petróleo ganharem força",
-          "A SEC está se preparando para blockchain e negociação 24 horas por dia. Aqui está o que você deve saber.",
-          "Três maneiras pelas quais os rendimentos historicamente elevados dos títulos estão impactando os investidores em ETFs"
-        ],
-        "score": 40.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.6%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Preços do Bitcoin e do Ethereum hoje, quinta-feira, 3 de setembro de 2026: Os preços da criptografia aumentam esta ma...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN  EDJ N2",
-        "price": 48.2,
-        "change_pct": 2.84,
-        "currency": "BRL",
-        "dividend_yield": 0.09,
-        "pe_ratio": 4.7254906,
-        "sector": "Energy",
-        "market_cap": 658580045824,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
-          "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
-        ],
-        "score": 80.0,
-        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.8% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGRE11.SA",
-        "name": "FII HGRE PAXCI",
-        "price": 118.4,
-        "change_pct": 2.24,
-        "currency": "BRL",
-        "dividend_yield": 0.0971,
-        "pe_ratio": 18.35659,
-        "sector": "Real Estate",
-        "market_cap": 1399223680,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-03 14:05",
     "tips": {
       "crypto": {
@@ -2012,6 +1954,46 @@
         ],
         "score": 60.0,
         "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano). Nas notícias recentes: \"Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ES",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0946,
+        "pe_ratio": 9.573919,
+        "sector": "Real Estate",
+        "market_cap": 5010697728,
+        "news": [],
+        "score": 40.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-05 05:05",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN  EDJ N2",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.09119999999999999,
+        "pe_ratio": 4.668979,
+        "sector": "Energy",
+        "market_cap": 643686858752,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
