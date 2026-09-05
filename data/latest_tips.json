@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-05T08:06:02.753700",
+  "updated_at": "2026-09-05T09:05:00.450195",
   "tips": {
-    "crypto": {
-      "ticker": "BNB-USD",
-      "name": "BNB USD",
-      "price": 739.21,
-      "change_pct": 2.49,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 98348908544,
-      "news": [
-        "Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas",
-        "Previsão de preço do BNB: Ruptura de US$ 740 pode abrir caminho para US$ 825",
-        "Bitcoin dispara com pausa na taxa de sinais do Fed, US$ 415 milhões em shorts são aprovados"
-      ],
-      "score": 35.0,
-      "reason": "BNB USD (BNB-USD) está em alta de 2.5%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN  EDJ N2",
@@ -31,12 +13,12 @@
       "sector": "Energy",
       "market_cap": 643686858752,
       "news": [
-        "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners",
-        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 60.0,
-      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano). Nas notícias recentes: \"Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
