@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-03 20:05",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 81615.03,
-        "change_pct": 5.58,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1635580510208,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-        ],
-        "score": 75.0,
-        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.6%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN  EDJ N2",
-        "price": 47.55,
-        "change_pct": -1.35,
-        "currency": "BRL",
-        "dividend_yield": 0.09,
-        "pe_ratio": 4.6617646,
-        "sector": "Energy",
-        "market_cap": 649698738176,
-        "news": [
-          "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz",
-          "Petrobras visa exportações de GNL para a Ásia à medida que aumenta a demanda por gás",
-          "Os EUA não têm uma gigante petrolífera estatal. Mas na Venezuela, o governo federal controlará uma empresa com as 2ª maiores reservas do mundo"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN  EDJ N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ES",
-        "price": 148.2,
-        "change_pct": 0.26,
-        "currency": "BRL",
-        "dividend_yield": 0.095,
-        "pe_ratio": 9.610895,
-        "sector": "Real Estate",
-        "market_cap": 5007318528,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ES (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-03 21:06",
     "tips": {
       "crypto": {
@@ -1931,6 +1873,64 @@
         "change_pct": 0.33,
         "currency": "BRL",
         "dividend_yield": 0.131,
+        "pe_ratio": 13.1285715,
+        "sector": "Real Estate",
+        "market_cap": 4233167616,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII MAXI RENCI  ER (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.1% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-05 12:06",
+    "tips": {
+      "crypto": {
+        "ticker": "BNB-USD",
+        "name": "BNB USD",
+        "price": 751.36,
+        "change_pct": 4.17,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 99876593664,
+        "news": [
+          "Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas",
+          "Previsão de preço do BNB: Ruptura de US$ 740 pode abrir caminho para US$ 825",
+          "Bitcoin dispara com pausa na taxa de sinais do Fed, US$ 415 milhões em shorts são aprovados"
+        ],
+        "score": 35.0,
+        "reason": "BNB USD (BNB-USD) está em alta de 4.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 47.11,
+        "change_pct": -0.95,
+        "currency": "BRL",
+        "dividend_yield": 0.09119999999999999,
+        "pe_ratio": 4.664356,
+        "sector": "Energy",
+        "market_cap": 643686858752,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "MXRF11.SA",
+        "name": "FII MAXI RENCI  ER",
+        "price": 9.19,
+        "change_pct": 0.33,
+        "currency": "BRL",
+        "dividend_yield": 0.1306,
         "pe_ratio": 13.1285715,
         "sector": "Real Estate",
         "market_cap": 4233167616,
