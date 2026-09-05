@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-05T13:04:59.435253",
+  "updated_at": "2026-09-05T14:05:36.179616",
   "tips": {
     "crypto": {
       "ticker": "BNB-USD",
       "name": "BNB USD",
-      "price": 764.12,
-      "change_pct": 5.94,
+      "price": 762.28,
+      "change_pct": 5.69,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 101637562368,
+      "market_cap": 101340692480,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas",
         "Previsão de preço do BNB: Ruptura de US$ 740 pode abrir caminho para US$ 825",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Bitcoin dispara com pausa na taxa de sinais do Fed, US$ 415 milhões em shorts são rekt"
       ],
       "score": 55.0,
-      "reason": "BNB USD (BNB-USD) subiu bastante nos últimos dias (5.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "BNB USD (BNB-USD) subiu bastante nos últimos dias (5.7%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -31,12 +31,12 @@
       "sector": "Energy",
       "market_cap": 643686858752,
       "news": [
-        "Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners",
+        "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners",
         "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
