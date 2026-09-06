@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-06T04:06:11.582856",
+  "updated_at": "2026-09-06T05:05:12.597477",
   "tips": {
     "crypto": {
       "ticker": "BNB-USD",
       "name": "BNB USD",
-      "price": 765.0,
-      "change_pct": 6.06,
+      "price": 763.33,
+      "change_pct": 5.83,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 101872672768,
+      "market_cap": 101590302720,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas",
+        "Previsão de preço do BNB: Ruptura de US$ 740 pode abrir caminho para US$ 825",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 55.0,
-      "reason": "BNB USD (BNB-USD) subiu bastante nos últimos dias (6.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "BNB USD (BNB-USD) subiu bastante nos últimos dias (5.8%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Grayscale nomeia três blockchains que lideram o boom de ações tokenizadas\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
