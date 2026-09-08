@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-08T15:06:47.680186",
+  "updated_at": "2026-09-08T16:06:26.876075",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.23,
-      "change_pct": 2.38,
+      "price": 47.89,
+      "change_pct": 1.66,
       "currency": "BRL",
       "dividend_yield": 0.092,
-      "pe_ratio": 4.775247,
+      "pe_ratio": 4.741584,
       "sector": "Energy",
-      "market_cap": 658989907968,
+      "market_cap": 654344323072,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners",
         "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
       ],
-      "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.4% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está em leve alta (1.7%). Nas notícias recentes: \"Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "XPLG11.SA",
       "name": "FII XP LOG  CI  ER",
-      "price": 91.36,
-      "change_pct": 0.73,
+      "price": 91.73,
+      "change_pct": 1.14,
       "currency": "BRL",
       "dividend_yield": 0.1085,
-      "pe_ratio": 18.055336,
+      "pe_ratio": 18.130434,
       "sector": "Real Estate",
-      "market_cap": 3655833344,
+      "market_cap": 3671039232,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (1.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
