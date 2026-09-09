@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-09T07:07:13.280048",
+  "updated_at": "2026-09-09T08:06:25.418689",
   "tips": {
-    "crypto": null,
+    "crypto": {
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 79390.09,
+      "change_pct": 1.21,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 1593804193792,
+      "news": [
+        "O laptop de Hunter Biden agora tem sua própria moeda meme",
+        "Estratégia compra STRC de US$ 176 milhões em giro repentino do Bitcoin",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      ],
+      "score": 40.0,
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.2%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"O laptop de Hunter Biden agora tem sua própria moeda meme\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
@@ -13,12 +31,12 @@
       "sector": "Energy",
       "market_cap": 657077043200,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners",
         "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
         "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
