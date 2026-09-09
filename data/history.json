@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-08 07:07",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 47.11,
-        "change_pct": -0.95,
-        "currency": "BRL",
-        "dividend_yield": 0.092,
-        "pe_ratio": 4.664356,
-        "sector": "Energy",
-        "market_cap": 643686858752,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "MXRF11.SA",
-        "name": "FII MAXI RENCI  ER",
-        "price": 9.19,
-        "change_pct": 0.33,
-        "currency": "BRL",
-        "dividend_yield": 0.1306,
-        "pe_ratio": 13.1285715,
-        "sector": "Real Estate",
-        "market_cap": 4233167616,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII MAXI RENCI  ER (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.1% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-08 08:06",
     "tips": {
       "crypto": {
@@ -1706,6 +1666,46 @@
         ],
         "score": 70.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNRI11.SA",
+        "name": "FII KINEA   CI  ER",
+        "price": 157.8,
+        "change_pct": 0.29,
+        "currency": "BRL",
+        "dividend_yield": 0.0839,
+        "pe_ratio": 10.707743,
+        "sector": "Real Estate",
+        "market_cap": 4450598912,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-09 23:05",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 79.1,
+        "change_pct": 0.1,
+        "currency": "BRL",
+        "dividend_yield": 0.0793,
+        "pe_ratio": 30.77821,
+        "sector": null,
+        "market_cap": 336630808576,
+        "news": [
+          "CFO da Vale não vê queda nos preços do minério de ferro",
+          "HMM fecha acordo de transporte de minério de ferro de US$ 3,5 bilhões com a brasileira Vale",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 60.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.9% ao ano) e o preço está em leve alta (0.1%). Nas notícias recentes: \"CFO da Vale não vê queda nos preços do minério de ferro\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
