@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-09T15:06:00.007102",
+  "updated_at": "2026-09-09T16:05:51.249712",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.38,
-      "change_pct": 0.6,
+      "price": 48.46,
+      "change_pct": 0.77,
       "currency": "BRL",
       "dividend_yield": 0.0902,
-      "pe_ratio": 4.766503,
+      "pe_ratio": 4.7743845,
       "sector": "Energy",
-      "market_cap": 661039480832,
+      "market_cap": 662132490240,
       "news": [
         "Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil",
-        "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners",
+        "Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners",
         "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA"
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.6%). Nas notícias recentes: \"Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.8%). Nas notícias recentes: \"Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPLG11.SA",
-      "name": "FII XP LOG  CI  ER",
-      "price": 91.55,
-      "change_pct": 0.16,
+      "ticker": "BTLG11.SA",
+      "name": "FII BTLG    CI",
+      "price": 99.5,
+      "change_pct": 0.07,
       "currency": "BRL",
-      "dividend_yield": 0.10769999999999999,
-      "pe_ratio": 18.092886,
+      "dividend_yield": 0.0978,
+      "pe_ratio": 91.87443,
       "sector": "Real Estate",
-      "market_cap": 3663436288,
+      "market_cap": 4313381376,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
