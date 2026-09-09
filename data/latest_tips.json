@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-09T12:07:24.499709",
+  "updated_at": "2026-09-09T13:06:44.074350",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 79352.57,
-      "change_pct": 1.17,
+      "price": 79560.67,
+      "change_pct": 1.43,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1592547344384,
+      "market_cap": 1596741386240,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Preços do Bitcoin e do Ethereum hoje, quarta-feira, 9 de setembro de 2026: As escaladas em andamento no Oriente Médio estão mantendo o controle sobre a criptografia",
+        "A estratégia do Japão: por que as ações do tesouro Bitcoin da Metaplanet estão afundando",
+        "Mercado de ações hoje: Dow cai em meio ao aumento dos preços do petróleo; Apple compartilha evento antes do iPhone (cobertura ao vivo)"
       ],
       "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.2%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.4%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Preços do Bitcoin e do Ethereum hoje, quarta-feira, 9 de setembro de 2026: As escaladas em andamento no Oriente Médio...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -31,12 +31,12 @@
       "sector": "Energy",
       "market_cap": 657077043200,
       "news": [
-        "Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners",
-        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
-        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
