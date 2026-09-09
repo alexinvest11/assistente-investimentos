@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-09T20:06:05.163797",
+  "updated_at": "2026-09-09T21:05:26.840539",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.56,
-      "change_pct": 0.98,
+      "price": 48.42,
+      "change_pct": 0.69,
       "currency": "BRL",
       "dividend_yield": 0.0902,
-      "pe_ratio": 4.7832513,
+      "pe_ratio": 4.7704434,
       "sector": "Energy",
-      "market_cap": 663362207744,
+      "market_cap": 661585985536,
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA"
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.0%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "BTLG11.SA",
-      "name": "FII BTLG    CI",
-      "price": 99.53,
-      "change_pct": 0.1,
+      "ticker": "KNRI11.SA",
+      "name": "FII KINEA   CI  ER",
+      "price": 157.8,
+      "change_pct": 0.29,
       "currency": "BRL",
-      "dividend_yield": 0.0978,
-      "pe_ratio": 91.939064,
+      "dividend_yield": 0.0839,
+      "pe_ratio": 10.707743,
       "sector": "Real Estate",
-      "market_cap": 4316416000,
+      "market_cap": 4450598912,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
