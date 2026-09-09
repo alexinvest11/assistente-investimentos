@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-09T09:05:38.542919",
+  "updated_at": "2026-09-09T10:05:44.871847",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 79613.49,
-      "change_pct": 1.5,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1598856757248,
-      "news": [
-        "O laptop de Hunter Biden agora tem sua própria moeda meme",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Bloco de Jack Dorsey solicita autorização bancária para custódia de Bitcoin"
-      ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.5%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"O laptop de Hunter Biden agora tem sua própria moeda meme\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
@@ -31,12 +13,12 @@
       "sector": "Energy",
       "market_cap": 657077043200,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners",
+        "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA",
+        "Estoques de petróleo atingem novos máximos após EUA retomarem ataques no Estreito de Ormuz"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -45,7 +27,7 @@
       "price": 91.4,
       "change_pct": 0.77,
       "currency": "BRL",
-      "dividend_yield": 0.1085,
+      "dividend_yield": 0.10769999999999999,
       "pe_ratio": 18.063242,
       "sector": "Real Estate",
       "market_cap": 3657433856,
