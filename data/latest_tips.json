@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-10T13:06:06.810135",
+  "updated_at": "2026-09-10T14:05:26.253735",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.42,
-      "change_pct": 0.69,
+      "price": 48.77,
+      "change_pct": 0.72,
       "currency": "BRL",
       "dividend_yield": 0.08960000000000001,
-      "pe_ratio": 4.8083415,
+      "pe_ratio": 4.8430986,
       "sector": "Energy",
-      "market_cap": 661585985536,
+      "market_cap": 666368212992,
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -22,18 +22,18 @@
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "KNRI11.SA",
-      "name": "FII KINEA   CI  ER",
-      "price": 157.8,
-      "change_pct": 0.29,
+      "ticker": "XPLG11.SA",
+      "name": "FII XP LOG  CI  ER",
+      "price": 91.31,
+      "change_pct": 0.34,
       "currency": "BRL",
-      "dividend_yield": 0.0837,
-      "pe_ratio": 10.707743,
+      "dividend_yield": 0.1081,
+      "pe_ratio": 18.045454,
       "sector": "Real Estate",
-      "market_cap": 4450598912,
+      "market_cap": 3653832448,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
