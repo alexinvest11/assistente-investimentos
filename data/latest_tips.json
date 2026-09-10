@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-09T23:05:01.481471",
+  "updated_at": "2026-09-10T00:07:36.359072",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "VALE3.SA",
-      "name": "VALE        ON      NM",
-      "price": 79.1,
-      "change_pct": 0.1,
+      "ticker": "PETR4.SA",
+      "name": "PETROBRAS   PN      N2",
+      "price": 48.42,
+      "change_pct": 0.69,
       "currency": "BRL",
-      "dividend_yield": 0.0793,
-      "pe_ratio": 30.77821,
-      "sector": null,
-      "market_cap": 336630808576,
+      "dividend_yield": 0.0902,
+      "pe_ratio": 4.7704434,
+      "sector": "Energy",
+      "market_cap": 661585985536,
       "news": [
-        "CFO da Vale não vê queda nos preços do minério de ferro",
-        "HMM fecha acordo de transporte de minério de ferro de US$ 3,5 bilhões com a brasileira Vale",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
-      "score": 60.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.9% ao ano) e o preço está em leve alta (0.1%). Nas notícias recentes: \"CFO da Vale não vê queda nos preços do minério de ferro\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
