@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-10T19:05:05.626168",
+  "updated_at": "2026-09-10T20:05:26.416843",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.13,
-      "change_pct": 1.47,
+      "price": 49.18,
+      "change_pct": 1.57,
       "currency": "BRL",
       "dividend_yield": 0.08960000000000001,
-      "pe_ratio": 4.8788486,
+      "pe_ratio": 4.8838134,
       "sector": "Energy",
-      "market_cap": 671287083008,
+      "market_cap": 671970230272,
       "news": [
-        "A Petrobras (PBR) é uma compra enquanto os analistas de Wall Street parecem otimistas?",
-        "Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil",
-        "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners"
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.5%). Nas notícias recentes: \"A Petrobras (PBR) é uma compra enquanto os analistas de Wall Street parecem otimistas?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.6%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "XPLG11.SA",
       "name": "FII XP LOG  CI  ER",
-      "price": 91.72,
-      "change_pct": 0.79,
+      "price": 91.9,
+      "change_pct": 0.99,
       "currency": "BRL",
       "dividend_yield": 0.1081,
-      "pe_ratio": 18.126482,
+      "pe_ratio": 18.162056,
       "sector": "Real Estate",
-      "market_cap": 3670238976,
+      "market_cap": 3677441792,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (1.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
