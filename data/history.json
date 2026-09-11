@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-09 09:05",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 79613.49,
-        "change_pct": 1.5,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1598856757248,
-        "news": [
-          "O laptop de Hunter Biden agora tem sua própria moeda meme",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Bloco de Jack Dorsey solicita autorização bancária para custódia de Bitcoin"
-        ],
-        "score": 40.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.5%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"O laptop de Hunter Biden agora tem sua própria moeda meme\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.09,
-        "change_pct": 2.08,
-        "currency": "BRL",
-        "dividend_yield": 0.092,
-        "pe_ratio": 4.761386,
-        "sector": "Energy",
-        "market_cap": 657077043200,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-        ],
-        "score": 80.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.2% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 91.4,
-        "change_pct": 0.77,
-        "currency": "BRL",
-        "dividend_yield": 0.1085,
-        "pe_ratio": 18.063242,
-        "sector": "Real Estate",
-        "market_cap": 3657433856,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-09 10:05",
     "tips": {
       "crypto": null,
@@ -1615,6 +1557,46 @@
   },
   {
     "date": "2026-09-11 00:08",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.12,
+        "change_pct": 1.45,
+        "currency": "BRL",
+        "dividend_yield": 0.08960000000000001,
+        "pe_ratio": 4.877855,
+        "sector": "Energy",
+        "market_cap": 671150440448,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 70.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.4%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPLG11.SA",
+        "name": "FII XP LOG  CI  ER",
+        "price": 91.57,
+        "change_pct": 0.63,
+        "currency": "BRL",
+        "dividend_yield": 0.1081,
+        "pe_ratio": 18.096838,
+        "sector": "Real Estate",
+        "market_cap": 3664236544,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-11 01:05",
     "tips": {
       "crypto": null,
       "stocks": {
