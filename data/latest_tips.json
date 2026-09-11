@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-11T15:05:39.011384",
+  "updated_at": "2026-09-11T16:06:37.863374",
   "tips": {
     "crypto": {
       "ticker": "ETH-USD",
       "name": "Ethereum USD",
-      "price": 2605.41,
-      "change_pct": 6.91,
+      "price": 2575.65,
+      "change_pct": 5.69,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 317423222784,
+      "market_cap": 313035882496,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Rascunho da Lei CLARITY de 630 páginas cai dias antes da votação no Senado com grandes mudanças no mercado de DeFi e previsão"
+        "Preços do Bitcoin e do Ethereum hoje, sexta-feira, 11 de setembro de 2026: Bitcoin cai abaixo de US$ 77.000 com os principais dados de inflação disponíveis",
+        "O preço do Ethereum ultrapassa os US$ 2.600 pela primeira vez em 8 meses: supera Bitcoin, XRP, Solana",
+        "Bitmine aumenta 8% na força do Ethereum depois que Cantor Fitzgerald dobra sua meta, SharpLink avança 9%, estratégia ganha 4%"
       ],
       "score": 70.0,
-      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (6.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (5.7%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Preços do Bitcoin e do Ethereum hoje, sexta-feira, 11 de setembro de 2026: Bitcoin cai abaixo de US$ 77.000 com os pr...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.54,
-      "change_pct": -1.18,
+      "price": 48.86,
+      "change_pct": -0.53,
       "currency": "BRL",
       "dividend_yield": 0.08960000000000001,
-      "pe_ratio": 4.801187,
+      "pe_ratio": 4.833828,
       "sector": "Energy",
-      "market_cap": 663225630720,
+      "market_cap": 667734573056,
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -42,16 +42,16 @@
     "fiis": {
       "ticker": "XPLG11.SA",
       "name": "FII XP LOG  CI  ER",
-      "price": 91.7,
-      "change_pct": 0.14,
+      "price": 91.74,
+      "change_pct": 0.19,
       "currency": "BRL",
       "dividend_yield": 0.1075,
-      "pe_ratio": 18.12253,
+      "pe_ratio": 18.130434,
       "sector": "Real Estate",
-      "market_cap": 3669438464,
+      "market_cap": 3671039232,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
