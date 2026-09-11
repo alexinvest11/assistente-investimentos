@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-10 07:08",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.09,
-        "change_pct": 2.08,
-        "currency": "BRL",
-        "dividend_yield": 0.0902,
-        "pe_ratio": 4.7704434,
-        "sector": "Energy",
-        "market_cap": 661585985536,
-        "news": [
-          "Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil",
-          "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners",
-          "Shell faz parceria com a BP para expandir a pegada em águas profundas no Brasil e no GoA"
-        ],
-        "score": 80.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 91.4,
-        "change_pct": 0.77,
-        "currency": "BRL",
-        "dividend_yield": 0.10769999999999999,
-        "pe_ratio": 17.98419,
-        "sector": "Real Estate",
-        "market_cap": 3641427712,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-10 08:06",
     "tips": {
       "crypto": null,
@@ -1741,6 +1701,64 @@
         ],
         "score": 50.0,
         "reason": "Ethereum USD (ETH-USD) está em alta de 3.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.0,
+        "change_pct": -0.24,
+        "currency": "BRL",
+        "dividend_yield": 0.08960000000000001,
+        "pe_ratio": 4.846687,
+        "sector": "Energy",
+        "market_cap": 669510795264,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "TRXF11.SA",
+        "name": "FII TRX REALCI  ER",
+        "price": 72.93,
+        "change_pct": 2.14,
+        "currency": "BRL",
+        "dividend_yield": 0.1653,
+        "pe_ratio": 5.7789226,
+        "sector": "Real Estate",
+        "market_cap": 2369735168,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.5% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-11 23:04",
+    "tips": {
+      "crypto": {
+        "ticker": "ETH-USD",
+        "name": "Ethereum USD",
+        "price": 2513.14,
+        "change_pct": 3.12,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 306469732352,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 50.0,
+        "reason": "Ethereum USD (ETH-USD) está em alta de 3.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
         "kind": "crypto"
       },
       "stocks": {
