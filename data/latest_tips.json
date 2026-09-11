@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-11T14:06:17.570955",
+  "updated_at": "2026-09-11T15:05:39.011384",
   "tips": {
     "crypto": {
       "ticker": "ETH-USD",
       "name": "Ethereum USD",
-      "price": 2634.8,
-      "change_pct": 8.11,
+      "price": 2605.41,
+      "change_pct": 6.91,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 321461354496,
+      "market_cap": 317423222784,
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Rascunho da Lei CLARITY de 630 páginas cai dias antes da votação no Senado com grandes mudanças no mercado de DeFi e previsão"
       ],
       "score": 70.0,
-      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (8.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (6.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.41,
-      "change_pct": -1.45,
+      "price": 48.54,
+      "change_pct": -1.18,
       "currency": "BRL",
       "dividend_yield": 0.08960000000000001,
-      "pe_ratio": 4.7883286,
+      "pe_ratio": 4.801187,
       "sector": "Energy",
-      "market_cap": 661449342976,
+      "market_cap": 663225630720,
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -42,16 +42,16 @@
     "fiis": {
       "ticker": "XPLG11.SA",
       "name": "FII XP LOG  CI  ER",
-      "price": 91.81,
-      "change_pct": 0.26,
+      "price": 91.7,
+      "change_pct": 0.14,
       "currency": "BRL",
       "dividend_yield": 0.1075,
-      "pe_ratio": 18.144268,
+      "pe_ratio": 18.12253,
       "sector": "Real Estate",
-      "market_cap": 3673840128,
+      "market_cap": 3669438464,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
