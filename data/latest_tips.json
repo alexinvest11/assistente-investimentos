@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:05:41.454596",
+  "updated_at": "2026-09-11T11:05:41.137901",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -27,7 +27,7 @@
       "price": 91.57,
       "change_pct": 0.63,
       "currency": "BRL",
-      "dividend_yield": 0.1081,
+      "dividend_yield": 0.1075,
       "pe_ratio": 18.096838,
       "sector": "Real Estate",
       "market_cap": 3664236544,
