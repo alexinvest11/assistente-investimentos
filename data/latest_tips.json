@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T11:05:41.137901",
+  "updated_at": "2026-09-11T12:07:35.828589",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,7 +8,7 @@
       "price": 49.12,
       "change_pct": 1.45,
       "currency": "BRL",
-      "dividend_yield": 0.08960000000000001,
+      "dividend_yield": 0.0883,
       "pe_ratio": 4.877855,
       "sector": "Energy",
       "market_cap": 671150440448,
@@ -18,7 +18,7 @@
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.4%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (1.4%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
