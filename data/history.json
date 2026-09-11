@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-09 13:06",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 79560.67,
-        "change_pct": 1.43,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1596741386240,
-        "news": [
-          "Preços do Bitcoin e do Ethereum hoje, quarta-feira, 9 de setembro de 2026: As escaladas em andamento no Oriente Médio estão mantendo o controle sobre a criptografia",
-          "A estratégia do Japão: por que as ações do tesouro Bitcoin da Metaplanet estão afundando",
-          "Mercado de ações hoje: Dow cai em meio ao aumento dos preços do petróleo; Apple compartilha evento antes do iPhone (cobertura ao vivo)"
-        ],
-        "score": 40.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.4%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Preços do Bitcoin e do Ethereum hoje, quarta-feira, 9 de setembro de 2026: As escaladas em andamento no Oriente Médio...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.09,
-        "change_pct": 2.08,
-        "currency": "BRL",
-        "dividend_yield": 0.0902,
-        "pe_ratio": 4.761386,
-        "sector": "Energy",
-        "market_cap": 657077043200,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-        ],
-        "score": 80.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 91.4,
-        "change_pct": 0.77,
-        "currency": "BRL",
-        "dividend_yield": 0.1085,
-        "pe_ratio": 18.063242,
-        "sector": "Real Estate",
-        "market_cap": 3657433856,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-09 14:05",
     "tips": {
       "crypto": null,
@@ -1579,6 +1521,46 @@
   },
   {
     "date": "2026-09-11 04:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.42,
+        "change_pct": 0.69,
+        "currency": "BRL",
+        "dividend_yield": 0.08960000000000001,
+        "pe_ratio": 4.877855,
+        "sector": "Energy",
+        "market_cap": 671150440448,
+        "news": [
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 70.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNRI11.SA",
+        "name": "FII KINEA   CI  ER",
+        "price": 157.8,
+        "change_pct": 0.29,
+        "currency": "BRL",
+        "dividend_yield": 0.0837,
+        "pe_ratio": 10.66567,
+        "sector": "Real Estate",
+        "market_cap": 4433112064,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-11 05:05",
     "tips": {
       "crypto": null,
       "stocks": {
