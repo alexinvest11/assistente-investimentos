@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-09 14:05",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.85,
-        "change_pct": 1.58,
-        "currency": "BRL",
-        "dividend_yield": 0.0902,
-        "pe_ratio": 4.812808,
-        "sector": "Energy",
-        "market_cap": 667461287936,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-        ],
-        "score": 70.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.6%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 91.57,
-        "change_pct": 0.19,
-        "currency": "BRL",
-        "dividend_yield": 0.10769999999999999,
-        "pe_ratio": 18.096838,
-        "sector": "Real Estate",
-        "market_cap": 3664236544,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-09 15:06",
     "tips": {
       "crypto": null,
@@ -1580,6 +1540,46 @@
         ],
         "score": 70.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNRI11.SA",
+        "name": "FII KINEA   CI  ER",
+        "price": 157.8,
+        "change_pct": 0.29,
+        "currency": "BRL",
+        "dividend_yield": 0.0837,
+        "pe_ratio": 10.66567,
+        "sector": "Real Estate",
+        "market_cap": 4433112064,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-11 06:07",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.42,
+        "change_pct": 0.69,
+        "currency": "BRL",
+        "dividend_yield": 0.08960000000000001,
+        "pe_ratio": 4.877855,
+        "sector": "Energy",
+        "market_cap": 671150440448,
+        "news": [
+          "A Petrobras (PBR) é uma compra enquanto os analistas de Wall Street parecem otimistas?",
+          "Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil",
+          "Destaques da teleconferência de resultados do segundo trimestre da KNOT Offshore Partners"
+        ],
+        "score": 70.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"A Petrobras (PBR) é uma compra enquanto os analistas de Wall Street parecem otimistas?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
