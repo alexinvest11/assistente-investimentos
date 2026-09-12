@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-12T07:04:57.964644",
+  "updated_at": "2026-09-12T08:05:38.506102",
   "tips": {
-    "crypto": {
-      "ticker": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2522.35,
-      "change_pct": 3.5,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 307591380992,
-      "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-      ],
-      "score": 50.0,
-      "reason": "Ethereum USD (ETH-USD) está em alta de 3.5%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
@@ -31,12 +13,12 @@
       "sector": "Energy",
       "market_cap": 669510795264,
       "news": [
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "Atualização do setor: estoques de energia diminuem antes do mercado na sexta-feira",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Atualização do setor: estoques de energia diminuem antes do mercado na sexta-feira\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {

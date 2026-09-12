@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-10 16:05",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 49.38,
-        "change_pct": 1.98,
-        "currency": "BRL",
-        "dividend_yield": 0.08960000000000001,
-        "pe_ratio": 4.9036746,
-        "sector": "Energy",
-        "market_cap": 674702950400,
-        "news": [
-          "A Petrobras (PBR) é uma compra enquanto os analistas de Wall Street parecem otimistas?",
-          "Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil",
-          "Destaques da teleconferência de ganhos do segundo trimestre da KNOT Offshore Partners"
-        ],
-        "score": 70.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (2.0%). Nas notícias recentes: \"A Petrobras (PBR) é uma compra enquanto os analistas de Wall Street parecem otimistas?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 91.55,
-        "change_pct": 0.6,
-        "currency": "BRL",
-        "dividend_yield": 0.1081,
-        "pe_ratio": 18.092886,
-        "sector": "Real Estate",
-        "market_cap": 3663436288,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-10 17:05",
     "tips": {
       "crypto": null,
@@ -1922,6 +1882,46 @@
         ],
         "score": 60.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ER",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0959,
+        "pe_ratio": 9.561231,
+        "sector": "Real Estate",
+        "market_cap": 4932985856,
+        "news": [],
+        "score": 40.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-12 08:05",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0883,
+        "pe_ratio": 4.846687,
+        "sector": "Energy",
+        "market_cap": 669510795264,
+        "news": [
+          "Atualização do setor: estoques de energia diminuem antes do mercado na sexta-feira",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Atualização do setor: estoques de energia diminuem antes do mercado na sexta-feira\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
