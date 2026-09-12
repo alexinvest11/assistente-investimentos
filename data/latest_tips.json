@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-12T08:05:38.506102",
+  "updated_at": "2026-09-12T09:05:35.273798",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": NaN,
-      "change_pct": NaN,
+      "price": 49.0,
+      "change_pct": -0.24,
       "currency": "BRL",
       "dividend_yield": 0.0883,
       "pe_ratio": 4.846687,
       "sector": "Energy",
       "market_cap": 669510795264,
       "news": [
-        "Atualização do setor: estoques de energia diminuem antes do mercado na sexta-feira",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Atualização do setor: estoques de energia diminuem antes do mercado na sexta-feira\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI  ER",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "TRXF11.SA",
+      "name": "FII TRX REALCI  ER",
+      "price": 72.93,
+      "change_pct": 2.14,
       "currency": "BRL",
-      "dividend_yield": 0.0959,
-      "pe_ratio": 9.561231,
+      "dividend_yield": 0.1653,
+      "pe_ratio": 5.7789226,
       "sector": "Real Estate",
-      "market_cap": 4932985856,
+      "market_cap": 2369735168,
       "news": [],
-      "score": 40.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.5% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
