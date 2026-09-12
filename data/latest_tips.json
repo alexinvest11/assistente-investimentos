@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-12T00:07:06.681802",
+  "updated_at": "2026-09-12T01:05:14.862143",
   "tips": {
     "crypto": {
       "ticker": "ETH-USD",
       "name": "Ethereum USD",
-      "price": 2512.43,
-      "change_pct": 3.09,
+      "price": 2512.57,
+      "change_pct": 3.1,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 307055460352,
+      "market_cap": 306339676160,
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "A IA acaba de reduzir pela metade o custo de quebrar a criptografia do Bitcoin. O Dia Q está se aproximando?",
+        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 50.0,
