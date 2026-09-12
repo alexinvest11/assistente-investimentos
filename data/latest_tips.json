@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-12T03:05:38.626298",
+  "updated_at": "2026-09-12T04:05:33.504604",
   "tips": {
     "crypto": {
       "ticker": "ETH-USD",
       "name": "Ethereum USD",
-      "price": 2514.88,
-      "change_pct": 3.19,
+      "price": 2513.08,
+      "change_pct": 3.12,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 306584682496,
+      "market_cap": 306693079040,
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 50.0,
-      "reason": "Ethereum USD (ETH-USD) está em alta de 3.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Ethereum USD (ETH-USD) está em alta de 3.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -26,7 +26,7 @@
       "price": NaN,
       "change_pct": NaN,
       "currency": "BRL",
-      "dividend_yield": 0.08960000000000001,
+      "dividend_yield": 0.0883,
       "pe_ratio": 4.846687,
       "sector": "Energy",
       "market_cap": 669510795264,
@@ -36,7 +36,7 @@
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
       ],
       "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
