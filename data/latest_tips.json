@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:04:30.073805",
+  "updated_at": "2026-09-12T20:05:56.224581",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -9,7 +9,7 @@
       "change_pct": -0.24,
       "currency": "BRL",
       "dividend_yield": 0.0885,
-      "pe_ratio": 4.846687,
+      "pe_ratio": 4.851485,
       "sector": "Energy",
       "market_cap": 669510795264,
       "news": [
