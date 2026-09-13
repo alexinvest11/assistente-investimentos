@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-12 04:05",
-    "tips": {
-      "crypto": {
-        "ticker": "ETH-USD",
-        "name": "Ethereum USD",
-        "price": 2513.08,
-        "change_pct": 3.12,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 306693079040,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-        ],
-        "score": 50.0,
-        "reason": "Ethereum USD (ETH-USD) está em alta de 3.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": NaN,
-        "change_pct": NaN,
-        "currency": "BRL",
-        "dividend_yield": 0.0883,
-        "pe_ratio": 4.846687,
-        "sector": "Energy",
-        "market_cap": 669510795264,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-        ],
-        "score": 60.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ER",
-        "price": NaN,
-        "change_pct": NaN,
-        "currency": "BRL",
-        "dividend_yield": 0.0959,
-        "pe_ratio": 9.561231,
-        "sector": "Real Estate",
-        "market_cap": 4932985856,
-        "news": [],
-        "score": 40.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-12 05:05",
     "tips": {
       "crypto": {
@@ -1633,6 +1575,46 @@
   },
   {
     "date": "2026-09-13 20:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.0,
+        "change_pct": -0.24,
+        "currency": "BRL",
+        "dividend_yield": 0.0885,
+        "pe_ratio": 4.851485,
+        "sector": "Energy",
+        "market_cap": 669510795264,
+        "news": [
+          "Sector Update: Energy Stocks Decline Premarket Friday",
+          "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?",
+          "Petrobras Gets Regulatory Nod to Drill 3 More Wells in Brazil"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Decline Premarket Friday\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "TRXF11.SA",
+        "name": "FII TRX REALCI  ER",
+        "price": 72.93,
+        "change_pct": 2.14,
+        "currency": "BRL",
+        "dividend_yield": 0.1618,
+        "pe_ratio": 5.7789226,
+        "sector": "Real Estate",
+        "market_cap": 2369735168,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.2% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-13 21:05",
     "tips": {
       "crypto": null,
       "stocks": {
