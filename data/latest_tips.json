@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T03:05:56.078300",
+  "updated_at": "2026-09-13T04:05:53.382994",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -15,7 +15,7 @@
       "news": [
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+        "Petrobras obtém aprovação regulatória para perfurar mais três poços no Brasil"
       ],
       "score": 65.0,
       "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
@@ -27,13 +27,13 @@
       "price": 72.93,
       "change_pct": 2.14,
       "currency": "BRL",
-      "dividend_yield": 0.1653,
+      "dividend_yield": 0.1618,
       "pe_ratio": 5.7789226,
       "sector": "Real Estate",
       "market_cap": 2369735168,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.5% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.2% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
