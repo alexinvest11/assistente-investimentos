@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-14T14:06:34.203138",
+  "updated_at": "2026-09-14T15:08:31.521246",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 78289.95,
-      "change_pct": 1.89,
+      "price": 78511.85,
+      "change_pct": 2.18,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1572515610624,
+      "market_cap": 1572627283968,
       "news": [
         "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
         "The regulation that helped the US get behind crypto, stablecoins",
-        "Nike downgraded, Affirm upgraded: Wall Street's top analyst calls"
+        "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips"
       ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.9%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "score": 55.0,
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.2,
-      "change_pct": 0.41,
+      "price": 49.36,
+      "change_pct": 0.73,
       "currency": "BRL",
       "dividend_yield": 0.0885,
-      "pe_ratio": 4.871287,
+      "pe_ratio": 4.8871284,
       "sector": "Energy",
-      "market_cap": 672243515392,
+      "market_cap": 674429665280,
       "news": [
         "Sector Update: Energy Stocks Decline Premarket Friday",
         "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?",
         "Petrobras Gets Regulatory Nod to Drill 3 More Wells in Brazil"
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (0.4%). Nas notícias recentes: \"Sector Update: Energy Stocks Decline Premarket Friday\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Sector Update: Energy Stocks Decline Premarket Friday\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 145.99,
-      "change_pct": -0.01,
+      "price": 146.14,
+      "change_pct": 0.1,
       "currency": "BRL",
       "dividend_yield": 0.0962,
-      "pe_ratio": 9.585687,
+      "pe_ratio": 9.595535,
       "sector": "Real Estate",
-      "market_cap": 4932648448,
+      "market_cap": 4937716224,
       "news": [],
-      "score": 45.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 50.0,
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
