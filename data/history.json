@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-12 17:05",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 49.0,
-        "change_pct": -0.24,
-        "currency": "BRL",
-        "dividend_yield": 0.0885,
-        "pe_ratio": 4.846687,
-        "sector": "Energy",
-        "market_cap": 669510795264,
-        "news": [
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "TRXF11.SA",
-        "name": "FII TRX REALCI  ER",
-        "price": 72.93,
-        "change_pct": 2.14,
-        "currency": "BRL",
-        "dividend_yield": 0.1618,
-        "pe_ratio": 5.7789226,
-        "sector": "Real Estate",
-        "market_cap": 2369735168,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.2% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-12 18:05",
     "tips": {
       "crypto": null,
@@ -1597,6 +1557,64 @@
         ],
         "score": 40.0,
         "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"The regulation that helped the US get behind crypto, stablecoins\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.0,
+        "change_pct": -0.24,
+        "currency": "BRL",
+        "dividend_yield": 0.0885,
+        "pe_ratio": 4.851485,
+        "sector": "Energy",
+        "market_cap": 669510795264,
+        "news": [
+          "Sector Update: Energy Stocks Decline Premarket Friday",
+          "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?",
+          "Petrobras Gets Regulatory Nod to Drill 3 More Wells in Brazil"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Decline Premarket Friday\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "TRXF11.SA",
+        "name": "FII TRX REALCI  ER",
+        "price": 72.93,
+        "change_pct": 2.14,
+        "currency": "BRL",
+        "dividend_yield": 0.1653,
+        "pe_ratio": 5.7789226,
+        "sector": "Real Estate",
+        "market_cap": 2369735168,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.5% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-14 10:06",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 78032.79,
+        "change_pct": 1.55,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1566593384448,
+        "news": [
+          "The regulation that helped the US get behind crypto, stablecoins",
+          "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
+          "Bitcoin Rises But Remains Well Below $80,000 Level"
+        ],
+        "score": 40.0,
+        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.6%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"The regulation that helped the US get behind crypto, stablecoins\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
         "kind": "crypto"
       },
       "stocks": {
