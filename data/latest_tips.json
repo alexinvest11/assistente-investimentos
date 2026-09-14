@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-14T11:05:55.527271",
+  "updated_at": "2026-09-14T12:07:22.567344",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77753.34,
+      "price": 77755.7,
       "change_pct": 1.19,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1562031423488,
+      "market_cap": 1561866665984,
       "news": [
+        "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
         "The regulation that helped the US get behind crypto, stablecoins",
-        "Bank of Japan Set to Hike to 1.25%, Highest Since 1995. Bitcoin Isn't Flinching Yet",
-        "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress"
+        "Bitcoin’s $10K Crash Warning Returns as Fed Hike Odds Hit 87%"
       ],
       "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.2%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"The regulation that helped the US get behind crypto, stablecoins\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.2%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
