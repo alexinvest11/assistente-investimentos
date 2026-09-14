@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-14T08:06:32.812639",
+  "updated_at": "2026-09-14T09:07:37.381012",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77762.99,
-      "change_pct": 1.2,
+      "price": 77691.62,
+      "change_pct": 1.11,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1561024921600,
+      "market_cap": 1560410456064,
       "news": [
         "The regulation that helped the US get behind crypto, stablecoins",
         "Machi Big Brother Sits $150M Long With Two of Three Assets Down",
         "Dollar Rises on Fed Rate-Hike Prospects, High Oil Prices"
       ],
       "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.2%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"The regulation that helped the US get behind crypto, stablecoins\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"The regulation that helped the US get behind crypto, stablecoins\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -45,13 +45,13 @@
       "price": 72.93,
       "change_pct": 2.14,
       "currency": "BRL",
-      "dividend_yield": 0.1618,
+      "dividend_yield": 0.1653,
       "pe_ratio": 5.7789226,
       "sector": "Real Estate",
       "market_cap": 2369735168,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.2% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII TRX REALCI  ER (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.5% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
