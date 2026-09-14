@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-14T22:06:28.832027",
+  "updated_at": "2026-09-14T23:05:21.504152",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 78739.53,
-      "change_pct": 2.47,
+      "price": 78451.12,
+      "change_pct": 2.1,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1581675184128,
+      "market_cap": 1577587572736,
       "news": [
         "Metaplanet moves to cut executive shares by 41%",
         "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
         "The regulation that helped the US get behind crypto, stablecoins"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.5%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Metaplanet moves to cut executive shares by 41%\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Metaplanet moves to cut executive shares by 41%\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
