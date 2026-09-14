@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-14T18:06:21.369074",
+  "updated_at": "2026-09-14T19:06:45.224008",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 78935.69,
-      "change_pct": 2.73,
+      "price": 79069.1,
+      "change_pct": 2.9,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1584534519808,
+      "market_cap": 1588139655168,
       "news": [
-        "Latest CLARITY Act draft includes 126 changes ahead of Senate vote",
-        "Sector Update: Financial Stocks Retreat Monday Afternoon",
-        "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks"
+        "Strategy repurchases $139 million of STRC stock",
+        "The regulation that helped the US get behind crypto, stablecoins",
+        "Mara Stock Tumbles, Strategy Pauses, and Bitcoin Faces a Key Test"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.7%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Latest CLARITY Act draft includes 126 changes ahead of Senate vote\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.9%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Strategy repurchases $139 million of STRC stock\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.94,
-      "change_pct": -0.12,
+      "price": 48.79,
+      "change_pct": -0.43,
       "currency": "BRL",
       "dividend_yield": 0.0885,
-      "pe_ratio": 4.8455443,
+      "pe_ratio": 4.830693,
       "sector": "Energy",
-      "market_cap": 668691005440,
+      "market_cap": 666641498112,
       "news": [
         "Sector Update: Energy Stocks Decline Premarket Friday",
         "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?",
@@ -42,16 +42,16 @@
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 147.47,
-      "change_pct": 1.01,
+      "price": 147.57,
+      "change_pct": 1.08,
       "currency": "BRL",
       "dividend_yield": 0.0962,
-      "pe_ratio": 9.682863,
+      "pe_ratio": 9.689429,
       "sector": "Real Estate",
-      "market_cap": 4982653952,
+      "market_cap": 4986032640,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está em leve alta (1.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está em leve alta (1.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
