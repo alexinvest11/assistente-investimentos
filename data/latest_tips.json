@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-14T07:08:00.172869",
+  "updated_at": "2026-09-14T08:06:32.812639",
   "tips": {
-    "crypto": null,
+    "crypto": {
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 77762.99,
+      "change_pct": 1.2,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 1561024921600,
+      "news": [
+        "The regulation that helped the US get behind crypto, stablecoins",
+        "Machi Big Brother Sits $150M Long With Two of Three Assets Down",
+        "Dollar Rises on Fed Rate-Hike Prospects, High Oil Prices"
+      ],
+      "score": 40.0,
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.2%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"The regulation that helped the US get behind crypto, stablecoins\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
