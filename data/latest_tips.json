@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-14T23:05:21.504152",
+  "updated_at": "2026-09-15T00:08:10.412416",
   "tips": {
     "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 78451.12,
-      "change_pct": 2.1,
+      "ticker": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.42,
+      "change_pct": 6.23,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1577587572736,
+      "market_cap": 89575211008,
       "news": [
-        "Metaplanet moves to cut executive shares by 41%",
-        "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
-        "The regulation that helped the US get behind crypto, stablecoins"
+        "XRP Price Prediction 3 Years: Where XRP Could Be in 2029?",
+        "What Is the Best Crypto to Buy Before the CLARITY Vote and the Fed Decision?",
+        "Grayscale Just Made XRP 26% of Its New Portfolio for Advisors"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Metaplanet moves to cut executive shares by 41%\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (6.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"XRP Price Prediction 3 Years: Where XRP Could Be in 2029?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
