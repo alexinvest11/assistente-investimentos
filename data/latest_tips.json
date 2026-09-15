@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-15T20:06:32.462769",
+  "updated_at": "2026-09-15T21:05:56.034718",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 50.49,
-      "change_pct": 3.21,
+      "price": 50.43,
+      "change_pct": 3.09,
       "currency": "BRL",
       "dividend_yield": 0.0886,
-      "pe_ratio": 4.9842052,
+      "pe_ratio": 4.9782825,
       "sector": "Energy",
-      "market_cap": 689869422592,
+      "market_cap": 689049632768,
       "news": [
         "Petrobras Receives $434 Million in New Diesel Subsidy Payments",
         "Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal",
         "Sector Update: Energy Stocks Decline Premarket Friday"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Petrobras Receives $434 Million in New Diesel Subsidy Payments\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço subiu 3.1% recentemente. Nas notícias recentes: \"Petrobras Receives $434 Million in New Diesel Subsidy Payments\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 148.07,
-      "change_pct": 0.14,
+      "price": 148.1,
+      "change_pct": 0.16,
       "currency": "BRL",
       "dividend_yield": 0.0949,
-      "pe_ratio": 9.602465,
+      "pe_ratio": 9.60441,
       "sector": "Real Estate",
-      "market_cap": 5002926592,
+      "market_cap": 5003940352,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
