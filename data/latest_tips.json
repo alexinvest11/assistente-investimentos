@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-15T05:06:19.411951",
+  "updated_at": "2026-09-15T06:07:41.158021",
   "tips": {
     "crypto": {
       "ticker": "XRP-USD",
       "name": "XRP USD",
       "price": 1.41,
-      "change_pct": 5.15,
+      "change_pct": 5.09,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 88885846016,
+      "market_cap": 88613003264,
       "news": [
         "XRP Price Prediction 3 Years: Where XRP Could Be in 2029?",
         "What Is the Best Crypto to Buy Before the CLARITY Vote and the Fed Decision?",
         "Grayscale Just Made XRP 26% of Its New Portfolio for Advisors"
       ],
       "score": 55.0,
-      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (5.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"XRP Price Prediction 3 Years: Where XRP Could Be in 2029?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (5.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"XRP Price Prediction 3 Years: Where XRP Could Be in 2029?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -27,7 +27,7 @@
       "change_pct": -0.16,
       "currency": "BRL",
       "dividend_yield": 0.0885,
-      "pe_ratio": 4.843564,
+      "pe_ratio": 4.8483644,
       "sector": "Energy",
       "market_cap": 668417720320,
       "news": [
