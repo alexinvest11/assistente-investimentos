@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-15T06:07:41.158021",
+  "updated_at": "2026-09-15T07:09:07.941137",
   "tips": {
-    "crypto": {
-      "ticker": "XRP-USD",
-      "name": "XRP USD",
-      "price": 1.41,
-      "change_pct": 5.09,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 88613003264,
-      "news": [
-        "XRP Price Prediction 3 Years: Where XRP Could Be in 2029?",
-        "What Is the Best Crypto to Buy Before the CLARITY Vote and the Fed Decision?",
-        "Grayscale Just Made XRP 26% of Its New Portfolio for Advisors"
-      ],
-      "score": 55.0,
-      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (5.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"XRP Price Prediction 3 Years: Where XRP Could Be in 2029?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
@@ -46,7 +28,7 @@
       "change_pct": 1.28,
       "currency": "BRL",
       "dividend_yield": 0.0962,
-      "pe_ratio": 9.709126,
+      "pe_ratio": 9.589494,
       "sector": "Real Estate",
       "market_cap": 4996168704,
       "news": [],
