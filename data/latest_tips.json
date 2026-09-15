@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-15T12:07:18.844209",
+  "updated_at": "2026-09-15T13:07:04.113117",
   "tips": {
-    "crypto": null,
+    "crypto": {
+      "ticker": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.45,
+      "change_pct": 2.29,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 89734144000,
+      "news": [
+        "What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana",
+        "Bitcoin Falls Ahead of Clarity Act Vote. Why Cathie Wood’s Dumping Crypto Stocks.",
+        "CLARITY Act Could Fail Today — Analysts Still Target $80K Bitcoin, $3K Ethereum and $4 XRP"
+      ],
+      "score": 35.0,
+      "reason": "XRP USD (XRP-USD) está em alta de 2.3%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
