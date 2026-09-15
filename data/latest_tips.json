@@ -1,57 +1,39 @@
 {
-  "updated_at": "2026-09-15T13:07:04.113117",
+  "updated_at": "2026-09-15T14:06:03.963038",
   "tips": {
-    "crypto": {
-      "ticker": "XRP-USD",
-      "name": "XRP USD",
-      "price": 1.45,
-      "change_pct": 2.29,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 89734144000,
-      "news": [
-        "What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana",
-        "Bitcoin Falls Ahead of Clarity Act Vote. Why Cathie Wood’s Dumping Crypto Stocks.",
-        "CLARITY Act Could Fail Today — Analysts Still Target $80K Bitcoin, $3K Ethereum and $4 XRP"
-      ],
-      "score": 35.0,
-      "reason": "XRP USD (XRP-USD) está em alta de 2.3%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.92,
-      "change_pct": -0.16,
+      "price": 49.83,
+      "change_pct": 1.86,
       "currency": "BRL",
       "dividend_yield": 0.0886,
-      "pe_ratio": 4.82922,
+      "pe_ratio": 4.9190526,
       "sector": "Energy",
-      "market_cap": 668417720320,
+      "market_cap": 680851537920,
       "news": [
+        "Petrobras Receives $434 Million in New Diesel Subsidy Payments",
         "Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal",
-        "Sector Update: Energy Stocks Decline Premarket Friday",
-        "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?"
+        "Sector Update: Energy Stocks Decline Premarket Friday"
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (1.9%). Nas notícias recentes: \"Petrobras Receives $434 Million in New Diesel Subsidy Payments\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 147.87,
-      "change_pct": 1.28,
+      "price": 147.93,
+      "change_pct": 0.04,
       "currency": "BRL",
       "dividend_yield": 0.0949,
-      "pe_ratio": 9.589494,
+      "pe_ratio": 9.592736,
       "sector": "Real Estate",
-      "market_cap": 4996168704,
+      "market_cap": 4997858304,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (1.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
