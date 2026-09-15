@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-15T00:08:10.412416",
+  "updated_at": "2026-09-15T01:06:54.126764",
   "tips": {
     "crypto": {
       "ticker": "XRP-USD",
       "name": "XRP USD",
       "price": 1.42,
-      "change_pct": 6.23,
+      "change_pct": 5.83,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 89575211008,
+      "market_cap": 89184460800,
       "news": [
         "XRP Price Prediction 3 Years: Where XRP Could Be in 2029?",
         "What Is the Best Crypto to Buy Before the CLARITY Vote and the Fed Decision?",
-        "Grayscale Just Made XRP 26% of Its New Portfolio for Advisors"
+        "XRP Triangle Puts $1.38 Resistance Ahead of $1.60 Test"
       ],
       "score": 55.0,
-      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (6.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"XRP Price Prediction 3 Years: Where XRP Could Be in 2029?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (5.8%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"XRP Price Prediction 3 Years: Where XRP Could Be in 2029?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -31,12 +31,12 @@
       "sector": "Energy",
       "market_cap": 668417720320,
       "news": [
+        "Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal",
         "Sector Update: Energy Stocks Decline Premarket Friday",
-        "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?",
-        "Petrobras Gets Regulatory Nod to Drill 3 More Wells in Brazil"
+        "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Decline Premarket Friday\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
