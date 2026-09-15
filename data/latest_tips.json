@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-15T15:07:48.203119",
+  "updated_at": "2026-09-15T16:06:12.767351",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.96,
-      "change_pct": 2.13,
+      "price": 50.6,
+      "change_pct": 3.43,
       "currency": "BRL",
       "dividend_yield": 0.0886,
-      "pe_ratio": 4.9318852,
+      "pe_ratio": 4.9970384,
       "sector": "Energy",
-      "market_cap": 682627760128,
+      "market_cap": 691645644800,
       "news": [
         "Petrobras Receives $434 Million in New Diesel Subsidy Payments",
         "Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal",
         "Sector Update: Energy Stocks Decline Premarket Friday"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Petrobras Receives $434 Million in New Diesel Subsidy Payments\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço subiu 3.4% recentemente. Nas notícias recentes: \"Petrobras Receives $434 Million in New Diesel Subsidy Payments\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "XPLG11.SA",
       "name": "FII XP LOG  CI  ER",
-      "price": 91.5,
-      "change_pct": 0.33,
+      "price": 91.6,
+      "change_pct": 0.44,
       "currency": "BRL",
       "dividend_yield": 0.1079,
-      "pe_ratio": 18.083004,
+      "pe_ratio": 18.102766,
       "sector": "Real Estate",
-      "market_cap": 3661435392,
+      "market_cap": 3665436928,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço está em leve alta (0.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
