@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T10:06:03.855008",
+  "updated_at": "2026-09-16T11:06:01.404497",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,7 +8,7 @@
       "price": 50.43,
       "change_pct": 3.09,
       "currency": "BRL",
-      "dividend_yield": 0.0886,
+      "dividend_yield": 0.086,
       "pe_ratio": 4.9782825,
       "sector": "Energy",
       "market_cap": 689049632768,
@@ -18,7 +18,7 @@
         "Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço subiu 3.1% recentemente. Nas notícias recentes: \"Petrobras (PBR) Advances While Market Declines: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço subiu 3.1% recentemente. Nas notícias recentes: \"Petrobras (PBR) Advances While Market Declines: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
