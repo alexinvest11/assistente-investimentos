@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-16T17:05:41.225583",
+  "updated_at": "2026-09-16T18:06:50.673228",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 73.92,
-      "change_pct": -0.91,
+      "price": 73.98,
+      "change_pct": -0.83,
       "currency": "BRL",
       "dividend_yield": 0.084,
-      "pe_ratio": 28.762646,
+      "pe_ratio": 28.785994,
       "sector": "Basic Materials",
-      "market_cap": 314585972736,
+      "market_cap": 314841333760,
       "news": [
         "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
         "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
@@ -22,18 +22,18 @@
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPLG11.SA",
-      "name": "FII XP LOG  CI  ER",
-      "price": 91.62,
-      "change_pct": 0.02,
+      "ticker": "HGRE11.SA",
+      "name": "FII HGRE PAXCI  ERS",
+      "price": 116.07,
+      "change_pct": 0.58,
       "currency": "BRL",
-      "dividend_yield": 0.1074,
-      "pe_ratio": 18.10672,
+      "dividend_yield": 0.09970000000000001,
+      "pe_ratio": 18.4531,
       "sector": "Real Estate",
-      "market_cap": 3666237440,
+      "market_cap": 1371688192,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.7% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGRE PAXCI  ERS (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.0% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
