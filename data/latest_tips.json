@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-16T18:06:50.673228",
+  "updated_at": "2026-09-16T19:05:53.193342",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 73.98,
-      "change_pct": -0.83,
+      "price": 73.32,
+      "change_pct": -1.72,
       "currency": "BRL",
       "dividend_yield": 0.084,
-      "pe_ratio": 28.785994,
+      "pe_ratio": 28.529184,
       "sector": "Basic Materials",
-      "market_cap": 314841333760,
+      "market_cap": 312032526336,
       "news": [
         "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
         "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
@@ -24,16 +24,16 @@
     "fiis": {
       "ticker": "HGRE11.SA",
       "name": "FII HGRE PAXCI  ERS",
-      "price": 116.07,
-      "change_pct": 0.58,
+      "price": 115.69,
+      "change_pct": 0.25,
       "currency": "BRL",
       "dividend_yield": 0.09970000000000001,
-      "pe_ratio": 18.4531,
+      "pe_ratio": 18.392687,
       "sector": "Real Estate",
-      "market_cap": 1371688192,
+      "market_cap": 1367197440,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGRE PAXCI  ERS (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.0% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGRE PAXCI  ERS (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.0% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
