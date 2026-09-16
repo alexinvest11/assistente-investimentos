@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-16T14:06:59.569108",
+  "updated_at": "2026-09-16T15:06:28.380832",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": 49.47,
-      "change_pct": -1.9,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 73.91,
+      "change_pct": -0.92,
       "currency": "BRL",
-      "dividend_yield": 0.086,
-      "pe_ratio": 4.8835144,
-      "sector": "Energy",
-      "market_cap": 675932667904,
+      "dividend_yield": 0.084,
+      "pe_ratio": 28.758757,
+      "sector": "Basic Materials",
+      "market_cap": 314543439872,
       "news": [
-        "Sempra (SRE) Stock May Be About Right After Fresh LNG Deal",
-        "Petrobras (PBR) Advances While Market Declines: Some Information for Investors",
-        "Petrobras Receives $434 Million in New Diesel Subsidy Payments"
+        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+        "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+        "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sempra (SRE) Stock May Be About Right After Fresh LNG Deal\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI  ER",
-      "price": 148.11,
-      "change_pct": 0.01,
+      "ticker": "XPLG11.SA",
+      "name": "FII XP LOG  CI  ER",
+      "price": 91.71,
+      "change_pct": 0.12,
       "currency": "BRL",
-      "dividend_yield": 0.09480000000000001,
-      "pe_ratio": 9.586408,
+      "dividend_yield": 0.1074,
+      "pe_ratio": 18.124506,
       "sector": "Real Estate",
-      "market_cap": 5004277760,
+      "market_cap": 3669838592,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.7% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
