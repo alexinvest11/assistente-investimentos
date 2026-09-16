@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-16T20:06:57.344829",
+  "updated_at": "2026-09-16T21:06:40.296987",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": 48.76,
-      "change_pct": -3.31,
+      "ticker": "RENT3.SA",
+      "name": "LOCALIZA    ON      NM",
+      "price": 36.44,
+      "change_pct": 2.13,
       "currency": "BRL",
-      "dividend_yield": 0.086,
-      "pe_ratio": 4.7907662,
-      "sector": "Energy",
-      "market_cap": 666368212992,
+      "dividend_yield": 0.06,
+      "pe_ratio": 11.5682535,
+      "sector": "Industrials",
+      "market_cap": 40252166144,
       "news": [
-        "Vallourec Pipes Up With Another Brazilian Win",
-        "Sempra (SRE) Stock May Be About Right After Fresh LNG Deal",
-        "Petrobras (PBR) Advances While Market Declines: Some Information for Investors"
+        "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+        "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth",
+        "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano). Nas notícias recentes: \"Vallourec Pipes Up With Another Brazilian Win\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPLG11.SA",
-      "name": "FII XP LOG  CI  ER",
-      "price": 91.7,
-      "change_pct": 0.11,
+      "ticker": "HGRE11.SA",
+      "name": "FII HGRE PAXCI  ERS",
+      "price": 115.99,
+      "change_pct": 0.51,
       "currency": "BRL",
-      "dividend_yield": 0.1074,
-      "pe_ratio": 18.12253,
+      "dividend_yield": 0.09970000000000001,
+      "pe_ratio": 18.440382,
       "sector": "Real Estate",
-      "market_cap": 3669438464,
+      "market_cap": 1370742784,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.7% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGRE PAXCI  ERS (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.0% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
