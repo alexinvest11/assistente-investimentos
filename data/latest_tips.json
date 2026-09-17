@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:06:15.559403",
+  "updated_at": "2026-09-17T12:07:33.070322",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,7 +8,7 @@
       "price": 36.44,
       "change_pct": 2.13,
       "currency": "BRL",
-      "dividend_yield": 0.06,
+      "dividend_yield": 0.0587,
       "pe_ratio": 11.5682535,
       "sector": "Industrials",
       "market_cap": 40252166144,
@@ -18,7 +18,7 @@
         "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
       ],
       "score": 65.0,
-      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.9% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
