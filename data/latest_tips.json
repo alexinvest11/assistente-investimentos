@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-17T05:06:13.123949",
+  "updated_at": "2026-09-17T06:07:36.472025",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 76442.53,
-      "change_pct": 1.1,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1535947440128,
-      "news": [
-        "What investors should expect for crypto after Clarity Act fails to advance",
-        "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
-        "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision"
-      ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"What investors should expect for crypto after Clarity Act fails to advance\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
@@ -30,9 +12,13 @@
       "pe_ratio": 4.7789783,
       "sector": "Energy",
       "market_cap": 664728633344,
-      "news": [],
-      "score": 75.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço subiu 3.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "news": [
+        "Vallourec Pipes Up With Another Brazilian Win",
+        "Sempra (SRE) Stock May Be About Right After Fresh LNG Deal",
+        "Petrobras (PBR) Advances While Market Declines: Some Information for Investors"
+      ],
+      "score": 80.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço subiu 3.1% recentemente. Nas notícias recentes: \"Vallourec Pipes Up With Another Brazilian Win\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
