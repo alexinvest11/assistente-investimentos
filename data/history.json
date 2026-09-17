@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-15 13:07",
-    "tips": {
-      "crypto": {
-        "ticker": "XRP-USD",
-        "name": "XRP USD",
-        "price": 1.45,
-        "change_pct": 2.29,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 89734144000,
-        "news": [
-          "What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana",
-          "Bitcoin Falls Ahead of Clarity Act Vote. Why Cathie Wood’s Dumping Crypto Stocks.",
-          "CLARITY Act Could Fail Today — Analysts Still Target $80K Bitcoin, $3K Ethereum and $4 XRP"
-        ],
-        "score": 35.0,
-        "reason": "XRP USD (XRP-USD) está em alta de 2.3%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.92,
-        "change_pct": -0.16,
-        "currency": "BRL",
-        "dividend_yield": 0.0886,
-        "pe_ratio": 4.82922,
-        "sector": "Energy",
-        "market_cap": 668417720320,
-        "news": [
-          "Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal",
-          "Sector Update: Energy Stocks Decline Premarket Friday",
-          "Is Petrobras (PBR) a Buy as Wall Street Analysts Look Optimistic?"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sempra Locks In Petrobras for 20-Year U.S. LNG Supply Deal\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ER",
-        "price": 147.87,
-        "change_pct": 1.28,
-        "currency": "BRL",
-        "dividend_yield": 0.0949,
-        "pe_ratio": 9.589494,
-        "sector": "Real Estate",
-        "market_cap": 4996168704,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (1.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-15 14:06",
     "tips": {
       "crypto": null,
@@ -1616,6 +1558,60 @@
         ],
         "score": 80.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço subiu 3.1% recentemente. Nas notícias recentes: \"Vallourec Pipes Up With Another Brazilian Win\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ER",
+        "price": 148.1,
+        "change_pct": 0.16,
+        "currency": "BRL",
+        "dividend_yield": 0.09480000000000001,
+        "pe_ratio": 9.552751,
+        "sector": "Real Estate",
+        "market_cap": 4986707968,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-17 05:06",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 76442.53,
+        "change_pct": 1.1,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1535947440128,
+        "news": [
+          "What investors should expect for crypto after Clarity Act fails to advance",
+          "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
+          "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision"
+        ],
+        "score": 40.0,
+        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"What investors should expect for crypto after Clarity Act fails to advance\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 50.43,
+        "change_pct": 3.09,
+        "currency": "BRL",
+        "dividend_yield": 0.086,
+        "pe_ratio": 4.7789783,
+        "sector": "Energy",
+        "market_cap": 664728633344,
+        "news": [],
+        "score": 75.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço subiu 3.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
