@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-17T03:06:25.101697",
+  "updated_at": "2026-09-17T04:06:21.828864",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 76425.07,
-      "change_pct": 1.07,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1533059923968,
-      "news": [
-        "What investors should expect for crypto after Clarity Act fails to advance",
-        "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
-        "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision"
-      ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"What investors should expect for crypto after Clarity Act fails to advance\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
