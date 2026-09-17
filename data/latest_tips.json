@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-17T14:06:45.498230",
+  "updated_at": "2026-09-17T15:06:29.537462",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 73.38,
-      "change_pct": 0.52,
+      "price": 74.07,
+      "change_pct": 1.47,
       "currency": "BRL",
       "dividend_yield": 0.0858,
-      "pe_ratio": 28.552528,
+      "pe_ratio": 28.821012,
       "sector": "Basic Materials",
-      "market_cap": 312287854592,
+      "market_cap": 315224326144,
       "news": [
         "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
         "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
         "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
       ],
       "score": 70.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço está em leve alta (1.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 147.72,
-      "change_pct": 0.09,
+      "price": 147.9,
+      "change_pct": 0.21,
       "currency": "BRL",
       "dividend_yield": 0.0951,
-      "pe_ratio": 9.59844,
+      "pe_ratio": 9.610136,
       "sector": "Real Estate",
-      "market_cap": 4991100928,
+      "market_cap": 4997182464,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
