@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-18T12:07:21.858016",
+  "updated_at": "2026-09-18T13:05:37.281501",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77966.57,
-      "change_pct": 2.05,
+      "price": 78022.15,
+      "change_pct": 2.12,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1567214534656,
+      "market_cap": 1565304291328,
       "news": [
         "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
         "AI agents will need their own financial infrastructure: Coinbase CEO",
         "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
@@ -26,7 +26,7 @@
       "price": 36.44,
       "change_pct": 2.13,
       "currency": "BRL",
-      "dividend_yield": 0.0587,
+      "dividend_yield": 0.0583,
       "pe_ratio": 11.650793,
       "sector": "Industrials",
       "market_cap": 40539369472,
@@ -36,7 +36,7 @@
         "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
       ],
       "score": 65.0,
-      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.9% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.8% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
