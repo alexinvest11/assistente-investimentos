@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-18T08:06:20.699299",
+  "updated_at": "2026-09-18T09:05:46.902390",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77750.01,
-      "change_pct": 1.76,
+      "price": 78253.37,
+      "change_pct": 2.42,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1564611182592,
+      "market_cap": 1572242456576,
       "news": [
         "Coinbase CEO recalls sending one bitcoin to entice early users",
         "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails",
         "Bitcoin and ethereum prices today, Thursday, September 17, 2026: Crypto prices move up following Fed's rate increase"
       ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.8%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Coinbase CEO recalls sending one bitcoin to entice early users\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "score": 55.0,
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.4%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Coinbase CEO recalls sending one bitcoin to entice early users\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
