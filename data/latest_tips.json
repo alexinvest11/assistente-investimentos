@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-18T07:06:11.269486",
+  "updated_at": "2026-09-18T08:06:20.699299",
   "tips": {
     "crypto": {
-      "ticker": "SOL-USD",
-      "name": "Solana USD",
-      "price": 105.55,
-      "change_pct": 7.0,
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 77750.01,
+      "change_pct": 1.76,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 61928009728,
+      "market_cap": 1564611182592,
       "news": [
-        "Upexi Inc (UPXI) (Q4 2026) Earnings Call Highlights: Massive Solana Treasury Fuels $246 Million ...",
-        "Upexi Q4 Earnings Call Highlights",
-        "We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?"
+        "Coinbase CEO recalls sending one bitcoin to entice early users",
+        "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails",
+        "Bitcoin and ethereum prices today, Thursday, September 17, 2026: Crypto prices move up following Fed's rate increase"
       ],
-      "score": 55.0,
-      "reason": "Solana USD (SOL-USD) subiu bastante nos últimos dias (7.0%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Upexi Inc (UPXI) (Q4 2026) Earnings Call Highlights: Massive Solana Treasury Fuels $246 Million ...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "score": 40.0,
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.8%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Coinbase CEO recalls sending one bitcoin to entice early users\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
