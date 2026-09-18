@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-09-18T14:06:00.440980",
+  "updated_at": "2026-09-18T15:05:53.366648",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 80419.28,
-      "change_pct": 5.26,
+      "price": 80787.85,
+      "change_pct": 5.74,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1611938791424,
+      "market_cap": 1623113334784,
       "news": [
-        "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
-        "AI agents will need their own financial infrastructure: Coinbase CEO",
-        "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails"
+        "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
+        "'Fear can give you bad advice': Coinbase CEO explains how to defeat AI doomerism",
+        "Stock Market Today: Techs Move Higher As Dow Slides; Taiwan Semiconductor Nears Buy Point (Live Coverage)"
       ],
       "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.3%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.7%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": 48.77,
-      "change_pct": 0.25,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 73.48,
+      "change_pct": 0.66,
       "currency": "BRL",
-      "dividend_yield": 0.0892,
-      "pe_ratio": 4.7813725,
-      "sector": "Energy",
-      "market_cap": 666368212992,
+      "dividend_yield": 0.08410000000000001,
+      "pe_ratio": 28.591442,
+      "sector": "Basic Materials",
+      "market_cap": 312713445376,
       "news": [
-        "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
-        "Vallourec Pipes Up With Another Brazilian Win",
-        "Sempra (SRE) Stock May Be About Right After Fresh LNG Deal"
+        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+        "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+        "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (0.2%). Nas notícias recentes: \"Petrobras secures eight offshore PSCs in Côte d’Ivoire\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 148.0,
-      "change_pct": 0.28,
+      "price": 147.87,
+      "change_pct": 0.19,
       "currency": "BRL",
       "dividend_yield": 0.0949,
-      "pe_ratio": 9.591704,
+      "pe_ratio": 9.583279,
       "sector": "Real Estate",
-      "market_cap": 5000561152,
+      "market_cap": 4996168704,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
