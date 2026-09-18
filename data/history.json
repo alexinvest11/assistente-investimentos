@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-09-17 05:06",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 76442.53,
-        "change_pct": 1.1,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1535947440128,
-        "news": [
-          "What investors should expect for crypto after Clarity Act fails to advance",
-          "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
-          "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision"
-        ],
-        "score": 40.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"What investors should expect for crypto after Clarity Act fails to advance\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 50.43,
-        "change_pct": 3.09,
-        "currency": "BRL",
-        "dividend_yield": 0.086,
-        "pe_ratio": 4.7789783,
-        "sector": "Energy",
-        "market_cap": 664728633344,
-        "news": [],
-        "score": 75.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço subiu 3.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ER",
-        "price": 148.1,
-        "change_pct": 0.16,
-        "currency": "BRL",
-        "dividend_yield": 0.09480000000000001,
-        "pe_ratio": 9.552751,
-        "sector": "Real Estate",
-        "market_cap": 4986707968,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-17 06:07",
     "tips": {
       "crypto": null,
@@ -1984,6 +1930,64 @@
         "pe_ratio": 9.592352,
         "sector": "Real Estate",
         "market_cap": 5000899072,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-18 21:05",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 81158.63,
+        "change_pct": 6.22,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1630242603008,
+        "news": [
+          "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
+          "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
+          "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas"
+        ],
+        "score": 75.0,
+        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 73.37,
+        "change_pct": 0.51,
+        "currency": "BRL",
+        "dividend_yield": 0.08410000000000001,
+        "pe_ratio": 28.437986,
+        "sector": "Basic Materials",
+        "market_cap": 312245321728,
+        "news": [
+          "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+          "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+          "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ER",
+        "price": 147.98,
+        "change_pct": 0.26,
+        "currency": "BRL",
+        "dividend_yield": 0.0949,
+        "pe_ratio": 9.590407,
+        "sector": "Real Estate",
+        "market_cap": 4999885312,
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
