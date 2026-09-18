@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-18T16:05:49.441476",
+  "updated_at": "2026-09-18T17:05:50.151138",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 80825.37,
-      "change_pct": 5.79,
+      "price": 80874.32,
+      "change_pct": 5.85,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1620384677888,
+      "market_cap": 1622500573184,
       "news": [
         "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
-        "AI agents will need their own financial infrastructure: Coinbase CEO",
-        "Bitcoin $1M Target Returns as US Reserve Bill Advances Amid ‘Biggest Crash’ Warning"
+        "Coinbase CEO recalls sending one bitcoin to entice early users",
+        "Bitcoin Never Sleeps but BITI Does: The Hidden Cost of Weekday-Only Hedging"
       ],
       "score": 75.0,
       "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.8%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
@@ -23,32 +23,32 @@
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 73.26,
-      "change_pct": 0.36,
+      "price": 73.11,
+      "change_pct": 0.15,
       "currency": "BRL",
       "dividend_yield": 0.08410000000000001,
-      "pe_ratio": 28.505838,
+      "pe_ratio": 28.33721,
       "sector": "Basic Materials",
-      "market_cap": 311777198080,
+      "market_cap": 311138811904,
       "news": [
         "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
         "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
         "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
       ],
       "score": 70.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.4%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.1%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 147.73,
-      "change_pct": 0.09,
+      "price": 147.78,
+      "change_pct": 0.13,
       "currency": "BRL",
       "dividend_yield": 0.0949,
-      "pe_ratio": 9.574205,
+      "pe_ratio": 9.577446,
       "sector": "Real Estate",
-      "market_cap": 4991438336,
+      "market_cap": 4993127936,
       "news": [],
       "score": 50.0,
       "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
