@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-18T11:05:45.483791",
+  "updated_at": "2026-09-18T12:07:21.858016",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 78270.0,
-      "change_pct": 2.44,
+      "price": 77966.57,
+      "change_pct": 2.05,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1571770597376,
+      "market_cap": 1567214534656,
       "news": [
-        "Coinbase CEO recalls sending one bitcoin to entice early users",
-        "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails",
-        "Bitcoin and ethereum prices today, Thursday, September 17, 2026: Crypto prices move up following Fed's rate increase"
+        "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
+        "AI agents will need their own financial infrastructure: Coinbase CEO",
+        "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.4%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Coinbase CEO recalls sending one bitcoin to entice early users\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {

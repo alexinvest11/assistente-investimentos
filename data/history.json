@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-16 20:06",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.76,
-        "change_pct": -3.31,
-        "currency": "BRL",
-        "dividend_yield": 0.086,
-        "pe_ratio": 4.7907662,
-        "sector": "Energy",
-        "market_cap": 666368212992,
-        "news": [
-          "Vallourec Pipes Up With Another Brazilian Win",
-          "Sempra (SRE) Stock May Be About Right After Fresh LNG Deal",
-          "Petrobras (PBR) Advances While Market Declines: Some Information for Investors"
-        ],
-        "score": 60.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano). Nas notícias recentes: \"Vallourec Pipes Up With Another Brazilian Win\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 91.7,
-        "change_pct": 0.11,
-        "currency": "BRL",
-        "dividend_yield": 0.1074,
-        "pe_ratio": 18.12253,
-        "sector": "Real Estate",
-        "market_cap": 3669438464,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.7% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-16 21:06",
     "tips": {
       "crypto": null,
@@ -1809,6 +1769,64 @@
         ],
         "score": 55.0,
         "reason": "Bitcoin USD (BTC-USD) está em alta de 2.4%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Coinbase CEO recalls sending one bitcoin to entice early users\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "RENT3.SA",
+        "name": "LOCALIZA    ON      NM",
+        "price": 36.44,
+        "change_pct": 2.13,
+        "currency": "BRL",
+        "dividend_yield": 0.0587,
+        "pe_ratio": 11.650793,
+        "sector": "Industrials",
+        "market_cap": 40539369472,
+        "news": [
+          "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+          "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth",
+          "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
+        ],
+        "score": 65.0,
+        "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.9% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "BTLG11.SA",
+        "name": "FII BTLG    CI",
+        "price": 99.76,
+        "change_pct": 0.27,
+        "currency": "BRL",
+        "dividend_yield": 0.0974,
+        "pe_ratio": 92.132965,
+        "sector": "Real Estate",
+        "market_cap": 4325519872,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-18 12:07",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 77966.57,
+        "change_pct": 2.05,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1567214534656,
+        "news": [
+          "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
+          "AI agents will need their own financial infrastructure: Coinbase CEO",
+          "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails"
+        ],
+        "score": 55.0,
+        "reason": "Bitcoin USD (BTC-USD) está em alta de 2.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
         "kind": "crypto"
       },
       "stocks": {
