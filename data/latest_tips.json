@@ -1,42 +1,24 @@
 {
-  "updated_at": "2026-09-19T17:05:17.093930",
+  "updated_at": "2026-09-19T18:06:23.870610",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 81785.56,
-      "change_pct": 1.09,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1642569531392,
-      "news": [
-        "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
-        "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-        "This Bitcoin Signal Has Flashed Just 4 Times In History, And The Prior 3 Coincided With Bear-Market Bottoms — Here’s What To Know"
-      ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 73.37,
+      "change_pct": 0.51,
       "currency": "BRL",
-      "dividend_yield": 0.0894,
-      "pe_ratio": 4.778325,
-      "sector": "Energy",
-      "market_cap": 662679060480,
+      "dividend_yield": 0.08539999999999999,
+      "pe_ratio": 28.660158,
+      "sector": "Basic Materials",
+      "market_cap": 312245321728,
       "news": [
-        "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
-        "Vallourec Pipes Up With Another Brazilian Win",
-        "Sempra (SRE) Stock May Be About Right After Fresh LNG Deal"
+        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+        "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+        "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano). Nas notícias recentes: \"Petrobras secures eight offshore PSCs in Côte d’Ivoire\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
