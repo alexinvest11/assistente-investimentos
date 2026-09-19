@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-17 13:07",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "RENT3.SA",
-        "name": "LOCALIZA    ON      NM",
-        "price": 36.44,
-        "change_pct": 2.13,
-        "currency": "BRL",
-        "dividend_yield": 0.0587,
-        "pe_ratio": 11.5682535,
-        "sector": "Industrials",
-        "market_cap": 40252166144,
-        "news": [
-          "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-          "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth",
-          "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
-        ],
-        "score": 65.0,
-        "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.9% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "BTLG11.SA",
-        "name": "FII BTLG    CI",
-        "price": 99.76,
-        "change_pct": 0.27,
-        "currency": "BRL",
-        "dividend_yield": 0.0974,
-        "pe_ratio": 92.1145,
-        "sector": "Real Estate",
-        "market_cap": 4324652544,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-17 14:06",
     "tips": {
       "crypto": null,
@@ -2065,6 +2025,64 @@
         ],
         "score": 75.0,
         "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0892,
+        "pe_ratio": 4.754902,
+        "sector": "Energy",
+        "market_cap": 662679060480,
+        "news": [
+          "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
+          "Vallourec Pipes Up With Another Brazilian Win",
+          "Sempra (SRE) Stock May Be About Right After Fresh LNG Deal"
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano). Nas notícias recentes: \"Petrobras secures eight offshore PSCs in Côte d’Ivoire\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ER",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0949,
+        "pe_ratio": 9.590407,
+        "sector": "Real Estate",
+        "market_cap": 4999885312,
+        "news": [],
+        "score": 40.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-19 05:05",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 81042.46,
+        "change_pct": 6.07,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1627121909760,
+        "news": [
+          "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
+          "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
+          "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure"
+        ],
+        "score": 75.0,
+        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
         "kind": "crypto"
       },
       "stocks": {
