@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-19T07:05:27.285568",
+  "updated_at": "2026-09-19T08:06:21.642535",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 81047.42,
-      "change_pct": 6.08,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1627913060352,
-      "news": [
-        "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
-        "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
-        "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure"
-      ],
-      "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
@@ -41,7 +23,7 @@
     },
     "fiis": {
       "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI  ER",
+      "name": "FII HGLG PAXCI",
       "price": NaN,
       "change_pct": NaN,
       "currency": "BRL",
@@ -51,7 +33,7 @@
       "market_cap": 4999885312,
       "news": [],
       "score": 40.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
