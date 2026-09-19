@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-19T00:07:09.830506",
+  "updated_at": "2026-09-19T01:05:46.268103",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 80896.99,
-      "change_pct": 5.88,
+      "price": 81452.47,
+      "change_pct": 6.61,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1623926767616,
+      "market_cap": 1639255375872,
       "news": [
         "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
         "Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote.",
         "Bitwise CIO Matt Hougan Adjusts His Crypto Outlook After the Senate Vote. Here’s What He Changed"
       ],
       "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.6%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
