@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-19T06:07:18.154573",
+  "updated_at": "2026-09-19T07:05:27.285568",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 81029.11,
-      "change_pct": 6.05,
+      "price": 81047.42,
+      "change_pct": 6.08,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1626957021184,
+      "market_cap": 1627913060352,
       "news": [
         "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
         "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
         "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure"
       ],
       "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.0%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
