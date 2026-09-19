@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-19T16:05:44.631106",
+  "updated_at": "2026-09-19T17:05:17.093930",
   "tips": {
-    "crypto": null,
+    "crypto": {
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 81785.56,
+      "change_pct": 1.09,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 1642569531392,
+      "news": [
+        "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+        "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+        "This Bitcoin Signal Has Flashed Just 4 Times In History, And The Prior 3 Coincided With Bear-Market Bottoms — Here’s What To Know"
+      ],
+      "score": 40.0,
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
