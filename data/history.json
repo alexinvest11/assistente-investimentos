@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-18 08:06",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 77750.01,
-        "change_pct": 1.76,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1564611182592,
-        "news": [
-          "Coinbase CEO recalls sending one bitcoin to entice early users",
-          "Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails",
-          "Bitcoin and ethereum prices today, Thursday, September 17, 2026: Crypto prices move up following Fed's rate increase"
-        ],
-        "score": 40.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.8%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Coinbase CEO recalls sending one bitcoin to entice early users\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "RENT3.SA",
-        "name": "LOCALIZA    ON      NM",
-        "price": 36.44,
-        "change_pct": 2.13,
-        "currency": "BRL",
-        "dividend_yield": 0.0587,
-        "pe_ratio": 11.650793,
-        "sector": "Industrials",
-        "market_cap": 40539369472,
-        "news": [
-          "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-          "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth",
-          "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
-        ],
-        "score": 65.0,
-        "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.9% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "BTLG11.SA",
-        "name": "FII BTLG    CI",
-        "price": 99.76,
-        "change_pct": 0.27,
-        "currency": "BRL",
-        "dividend_yield": 0.0974,
-        "pe_ratio": 92.132965,
-        "sector": "Real Estate",
-        "market_cap": 4325519872,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-18 09:05",
     "tips": {
       "crypto": {
@@ -2030,6 +1972,46 @@
         ],
         "score": 60.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano). Nas notícias recentes: \"Sempra (SRE) Just Locked In Two Decades of LNG Demand\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 147.98,
+        "change_pct": 0.26,
+        "currency": "BRL",
+        "dividend_yield": 0.0949,
+        "pe_ratio": 9.590407,
+        "sector": "Real Estate",
+        "market_cap": 4999885312,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-20 00:07",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 73.37,
+        "change_pct": 0.51,
+        "currency": "BRL",
+        "dividend_yield": 0.08539999999999999,
+        "pe_ratio": 28.660158,
+        "sector": "Basic Materials",
+        "market_cap": 312245321728,
+        "news": [
+          "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+          "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+          "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {

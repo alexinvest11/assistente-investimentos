@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-19T23:05:24.406603",
+  "updated_at": "2026-09-20T00:07:52.764635",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 73.37,
+      "change_pct": 0.51,
       "currency": "BRL",
-      "dividend_yield": 0.0894,
-      "pe_ratio": 4.778325,
-      "sector": "Energy",
-      "market_cap": 662679060480,
+      "dividend_yield": 0.08539999999999999,
+      "pe_ratio": 28.660158,
+      "sector": "Basic Materials",
+      "market_cap": 312245321728,
       "news": [
-        "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
-        "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
-        "Vallourec Pipes Up With Another Brazilian Win"
+        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+        "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+        "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano). Nas notícias recentes: \"Sempra (SRE) Just Locked In Two Decades of LNG Demand\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
