@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-18 18:06",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 80914.51,
-        "change_pct": 5.9,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1625130663936,
-        "news": [
-          "Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure",
-          "Kevin O'Leary says he's buying crypto again, here's his Bitcoin prediction",
-          "Buffett steps down as Berkshire Hathaway chair but 8-year-old jab still bites"
-        ],
-        "score": 75.0,
-        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's fa...\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 73.07,
-        "change_pct": 0.1,
-        "currency": "BRL",
-        "dividend_yield": 0.08410000000000001,
-        "pe_ratio": 28.321707,
-        "sector": "Basic Materials",
-        "market_cap": 310968582144,
-        "news": [
-          "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
-          "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
-          "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
-        ],
-        "score": 70.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.1%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ER",
-        "price": 147.86,
-        "change_pct": 0.18,
-        "currency": "BRL",
-        "dividend_yield": 0.0949,
-        "pe_ratio": 9.580687,
-        "sector": "Real Estate",
-        "market_cap": 4994817536,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-18 19:06",
     "tips": {
       "crypto": {
@@ -1831,6 +1773,46 @@
   },
   {
     "date": "2026-09-20 09:05",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0894,
+        "pe_ratio": 4.778325,
+        "sector": "Energy",
+        "market_cap": 662679060480,
+        "news": [
+          "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
+          "Petrobras secures eight offshore PSCs in Côte d’Ivoire",
+          "Vallourec Pipes Up With Another Brazilian Win"
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano). Nas notícias recentes: \"Sempra (SRE) Just Locked In Two Decades of LNG Demand\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 147.98,
+        "change_pct": 0.26,
+        "currency": "BRL",
+        "dividend_yield": 0.0949,
+        "pe_ratio": 9.590407,
+        "sector": "Real Estate",
+        "market_cap": 4999885312,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-20 10:05",
     "tips": {
       "crypto": null,
       "stocks": {
