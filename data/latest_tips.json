@@ -1,56 +1,56 @@
 {
-  "updated_at": "2026-09-21T17:05:17.596444",
+  "updated_at": "2026-09-21T18:07:11.628535",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 85942.21,
-      "change_pct": 5.92,
+      "price": 85993.27,
+      "change_pct": 5.98,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1726956175360,
+      "market_cap": 1724341420032,
       "news": [
-        "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall",
+        "Strategy is buying bitcoin again! But this crypto treasury is buying more.",
         "Bitcoin prices, Logan & Jake Paul, Jensen Huang talks human survival: 3 crazy market movers",
-        "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC’s Game-Changing Exemption"
+        "Why Is Bitcoin Up Today?"
       ],
       "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.0%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Strategy is buying bitcoin again! But this crypto treasury is buying more.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "B3SA3.SA",
       "name": "B3          ON      NM",
-      "price": 18.18,
-      "change_pct": 3.35,
+      "price": 18.23,
+      "change_pct": 3.64,
       "currency": "BRL",
       "dividend_yield": 0.0513,
-      "pe_ratio": 18.18,
+      "pe_ratio": 18.23,
       "sector": "Financial Services",
-      "market_cap": 90548240384,
+      "market_cap": 90797268992,
       "news": [
         "B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...",
         "B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2025 Earnings Call Highlights: Resilient Growth Amid ..."
       ],
       "score": 70.0,
-      "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 3.4% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 3.6% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "KNRI11.SA",
       "name": "FII KINEA   CI",
-      "price": 158.42,
-      "change_pct": 0.58,
+      "price": 158.21,
+      "change_pct": 0.45,
       "currency": "BRL",
       "dividend_yield": 0.08380000000000001,
-      "pe_ratio": 10.749813,
+      "pe_ratio": 10.735563,
       "sector": "Real Estate",
-      "market_cap": 4468085248,
+      "market_cap": 4462162432,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
