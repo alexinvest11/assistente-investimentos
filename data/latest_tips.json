@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-21T01:06:22.678998",
+  "updated_at": "2026-09-21T02:06:02.091745",
   "tips": {
-    "crypto": {
-      "ticker": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2684.75,
-      "change_pct": 2.01,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 327509049344,
-      "news": [
-        "Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto Investors Need to Know.",
-        "Is This Cryptocurrency Still a Millionaire Maker?",
-        "Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O’Leary Says Ethereum May No Longer Rule"
-      ],
-      "score": 50.0,
-      "reason": "Ethereum USD (ETH-USD) está em alta de 2.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto Investors Need to Know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
