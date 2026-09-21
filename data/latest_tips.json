@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-20T23:05:56.215979",
+  "updated_at": "2026-09-21T00:07:41.831421",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "RENT3.SA",
-      "name": "LOCALIZA    ON      NM",
-      "price": 36.44,
-      "change_pct": 2.13,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 73.37,
+      "change_pct": 0.51,
       "currency": "BRL",
-      "dividend_yield": 0.0591,
-      "pe_ratio": 11.4920635,
-      "sector": "Industrials",
-      "market_cap": 39987060736,
+      "dividend_yield": 0.08539999999999999,
+      "pe_ratio": 28.660158,
+      "sector": "Basic Materials",
+      "market_cap": 312245321728,
       "news": [
-        "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-        "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth",
-        "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
+        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+        "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+        "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
       ],
-      "score": 65.0,
-      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.9% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
