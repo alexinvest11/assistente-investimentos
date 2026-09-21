@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-21T22:05:55.192864",
+  "updated_at": "2026-09-21T23:05:42.816363",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 86598.6,
-      "change_pct": 6.72,
+      "price": 86562.0,
+      "change_pct": 6.68,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1740350554112,
+      "market_cap": 1737218326528,
       "news": [
         "Bitcoin-related stocks are surging: The momentum is 'incredible'",
         "Is it worth investing in bitcoin if I'm Gen X?",
