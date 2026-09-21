@@ -1,56 +1,56 @@
 {
-  "updated_at": "2026-09-21T16:06:36.554297",
+  "updated_at": "2026-09-21T17:05:17.596444",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 85750.38,
-      "change_pct": 5.68,
+      "price": 85942.21,
+      "change_pct": 5.92,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1723072905216,
+      "market_cap": 1726956175360,
       "news": [
-        "Inside crypto's Clarity Act collapse",
-        "Bitcoin and ethereum prices today, Monday, September 21, 2026: Crypto prices hit highest levels in 8 months",
-        "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck"
+        "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall",
+        "Bitcoin prices, Logan & Jake Paul, Jensen Huang talks human survival: 3 crazy market movers",
+        "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC’s Game-Changing Exemption"
       ],
       "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.7%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Inside crypto's Clarity Act collapse\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
       "ticker": "B3SA3.SA",
       "name": "B3          ON      NM",
-      "price": 18.09,
-      "change_pct": 2.84,
+      "price": 18.18,
+      "change_pct": 3.35,
       "currency": "BRL",
       "dividend_yield": 0.0513,
-      "pe_ratio": 18.09,
+      "pe_ratio": 18.18,
       "sector": "Financial Services",
-      "market_cap": 90099974144,
+      "market_cap": 90548240384,
       "news": [
         "B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...",
         "B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2025 Earnings Call Highlights: Resilient Growth Amid ..."
       ],
       "score": 70.0,
-      "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 2.8% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 3.4% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "KNRI11.SA",
       "name": "FII KINEA   CI",
-      "price": 158.21,
-      "change_pct": 0.45,
+      "price": 158.42,
+      "change_pct": 0.58,
       "currency": "BRL",
       "dividend_yield": 0.08380000000000001,
-      "pe_ratio": 10.735563,
+      "pe_ratio": 10.749813,
       "sector": "Real Estate",
-      "market_cap": 4462162432,
+      "market_cap": 4468085248,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
