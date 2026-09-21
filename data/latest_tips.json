@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-21T12:07:21.725989",
+  "updated_at": "2026-09-21T13:05:23.766683",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 84997.01,
-      "change_pct": 4.75,
+      "price": 85246.33,
+      "change_pct": 5.06,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1706108256256,
+      "market_cap": 1712384901120,
       "news": [
         "Bitcoin prices rip despite the Clarity Act failure",
-        "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
-        "Why Is XRP Up Today? $300 Million in Shorts Liquidated as Bitcoin Surpasses $84,000"
+        "Why Is Bitcoin Up Today? It Closed Above Its 50-Week Average for the First Time in 45 Weeks.",
+        "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)"
       ],
-      "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.8%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin prices rip despite the Clarity Act failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "score": 75.0,
+      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin prices rip despite the Clarity Act failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
