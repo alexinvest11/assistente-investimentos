@@ -1,57 +1,56 @@
 {
-  "updated_at": "2026-09-21T13:05:23.766683",
+  "updated_at": "2026-09-21T14:06:00.815257",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 85246.33,
-      "change_pct": 5.06,
+      "price": 85103.06,
+      "change_pct": 4.88,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1712384901120,
+      "market_cap": 1716904525824,
       "news": [
-        "Bitcoin prices rip despite the Clarity Act failure",
-        "Why Is Bitcoin Up Today? It Closed Above Its 50-Week Average for the First Time in 45 Weeks.",
-        "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)"
+        "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+        "Strategy Buys $75 Million of Bitcoin As Price Rallies",
+        "Stock Market Today: Dow Rallies As Oil Prices, Treasury Yields Fall; Nvidia At Early Buy Trigger (Live Coverage)"
       ],
-      "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin prices rip despite the Clarity Act failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "score": 55.0,
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 4.9%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": 48.5,
-      "change_pct": -0.23,
+      "ticker": "B3SA3.SA",
+      "name": "B3          ON      NM",
+      "price": 17.95,
+      "change_pct": 2.05,
       "currency": "BRL",
-      "dividend_yield": 0.0894,
-      "pe_ratio": 4.778325,
-      "sector": "Energy",
-      "market_cap": 662679060480,
+      "dividend_yield": 0.0513,
+      "pe_ratio": 17.95,
+      "sector": "Financial Services",
+      "market_cap": 89402687488,
       "news": [
-        "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion",
-        "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
-        "Sempra (SRE) Just Locked In Two Decades of LNG Demand"
+        "B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...",
+        "B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2025 Earnings Call Highlights: Resilient Growth Amid ..."
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 2.0% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPLG11.SA",
-      "name": "FII XP LOG  CI",
-      "price": 92.99,
-      "change_pct": 1.08,
+      "ticker": "KNRI11.SA",
+      "name": "FII KINEA   CI",
+      "price": 157.76,
+      "change_pct": 0.17,
       "currency": "BRL",
-      "dividend_yield": 0.1058,
-      "pe_ratio": 18.37747,
+      "dividend_yield": 0.08380000000000001,
+      "pe_ratio": 10.705028,
       "sector": "Real Estate",
-      "market_cap": 3721058816,
+      "market_cap": 4449470464,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.6% ao ano) e o preço está em leve alta (1.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
