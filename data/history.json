@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-19 20:05",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 73.37,
-        "change_pct": 0.51,
-        "currency": "BRL",
-        "dividend_yield": 0.08539999999999999,
-        "pe_ratio": 28.660158,
-        "sector": "Basic Materials",
-        "market_cap": 312245321728,
-        "news": [
-          "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
-          "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
-          "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
-        ],
-        "score": 70.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 147.98,
-        "change_pct": 0.26,
-        "currency": "BRL",
-        "dividend_yield": 0.0949,
-        "pe_ratio": 9.590407,
-        "sector": "Real Estate",
-        "market_cap": 4999885312,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-19 21:05",
     "tips": {
       "crypto": null,
@@ -1667,6 +1627,64 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-21 12:07",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 84997.01,
+        "change_pct": 4.75,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1706108256256,
+        "news": [
+          "Bitcoin prices rip despite the Clarity Act failure",
+          "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
+          "Why Is XRP Up Today? $300 Million in Shorts Liquidated as Bitcoin Surpasses $84,000"
+        ],
+        "score": 55.0,
+        "reason": "Bitcoin USD (BTC-USD) está em alta de 4.8%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin prices rip despite the Clarity Act failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.5,
+        "change_pct": -0.23,
+        "currency": "BRL",
+        "dividend_yield": 0.0894,
+        "pe_ratio": 4.778325,
+        "sector": "Energy",
+        "market_cap": 662679060480,
+        "news": [
+          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion",
+          "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+          "Sempra (SRE) Just Locked In Two Decades of LNG Demand"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPLG11.SA",
+        "name": "FII XP LOG  CI",
+        "price": 92.99,
+        "change_pct": 1.08,
+        "currency": "BRL",
+        "dividend_yield": 0.1058,
+        "pe_ratio": 18.37747,
+        "sector": "Real Estate",
+        "market_cap": 3721058816,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.6% ao ano) e o preço está em leve alta (1.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
