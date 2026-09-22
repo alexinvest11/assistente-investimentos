@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-22T21:05:41.524531",
+  "updated_at": "2026-09-22T22:05:26.194207",
   "tips": {
-    "crypto": {
-      "ticker": "XRP-USD",
-      "name": "XRP USD",
-      "price": 1.58,
-      "change_pct": 3.07,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 98867748864,
-      "news": [
-        "Analyst says XRP could be entering a new rally after whale buying",
-        "x402’s $50B Scale Gives Solana an AI Payments Edge",
-        "Veteran Trader Peter Brandt Says XRP Could Explode to $5.40 — But Issues a Blunt Warning"
-      ],
-      "score": 35.0,
-      "reason": "XRP USD (XRP-USD) está em alta de 3.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Analyst says XRP could be entering a new rally after whale buying\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
