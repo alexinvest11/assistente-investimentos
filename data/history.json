@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-21 01:06",
-    "tips": {
-      "crypto": {
-        "ticker": "ETH-USD",
-        "name": "Ethereum USD",
-        "price": 2684.75,
-        "change_pct": 2.01,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 327509049344,
-        "news": [
-          "Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto Investors Need to Know.",
-          "Is This Cryptocurrency Still a Millionaire Maker?",
-          "Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O’Leary Says Ethereum May No Longer Rule"
-        ],
-        "score": 50.0,
-        "reason": "Ethereum USD (ETH-USD) está em alta de 2.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto Investors Need to Know.\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 73.37,
-        "change_pct": 0.51,
-        "currency": "BRL",
-        "dividend_yield": 0.08539999999999999,
-        "pe_ratio": 28.660158,
-        "sector": "Basic Materials",
-        "market_cap": 312245321728,
-        "news": [
-          "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
-          "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
-          "Copper Prices Looked Unstoppable. Why They’re Suddenly Tumbling."
-        ],
-        "score": 70.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"VALE S.A. (VALE) Declines More Than Market: Some Information for Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 147.98,
-        "change_pct": 0.26,
-        "currency": "BRL",
-        "dividend_yield": 0.0949,
-        "pe_ratio": 9.590407,
-        "sector": "Real Estate",
-        "market_cap": 4999885312,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-21 02:06",
     "tips": {
       "crypto": null,
@@ -2067,6 +2009,64 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-22 17:05",
+    "tips": {
+      "crypto": {
+        "ticker": "XRP-USD",
+        "name": "XRP USD",
+        "price": 1.57,
+        "change_pct": 2.34,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 98372182016,
+        "news": [
+          "Is it worth investing in bitcoin if I'm Gen X?",
+          "x402’s $50B Scale Gives Solana an AI Payments Edge",
+          "Veteran Trader Peter Brandt Says XRP Could Explode to $5.40 — But Issues a Blunt Warning"
+        ],
+        "score": 35.0,
+        "reason": "XRP USD (XRP-USD) está em alta de 2.3%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Is it worth investing in bitcoin if I'm Gen X?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.11,
+        "change_pct": 0.23,
+        "currency": "BRL",
+        "dividend_yield": 0.09029999999999999,
+        "pe_ratio": 4.7399015,
+        "sector": "Energy",
+        "market_cap": 657350328320,
+        "news": [
+          "Sector Update: Energy Stocks Fall Monday Afternoon",
+          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
+          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
+        ],
+        "score": 70.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.2%). Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNCR11.SA",
+        "name": "FII KINEA RICI",
+        "price": 106.81,
+        "change_pct": 0.06,
+        "currency": "BRL",
+        "dividend_yield": 0.1293,
+        "pe_ratio": 8.834574,
+        "sector": "Real Estate",
+        "market_cap": 8195944448,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
