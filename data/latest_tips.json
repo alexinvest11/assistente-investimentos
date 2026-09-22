@@ -1,23 +1,24 @@
 {
-  "updated_at": "2026-09-22T09:06:09.505312",
+  "updated_at": "2026-09-22T10:07:16.548550",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "B3SA3.SA",
-      "name": "B3          ON      NM",
-      "price": 18.23,
-      "change_pct": 3.64,
+      "ticker": "PETR4.SA",
+      "name": "PETROBRAS   PN      N2",
+      "price": 48.0,
+      "change_pct": -1.03,
       "currency": "BRL",
-      "dividend_yield": 0.0513,
-      "pe_ratio": 18.23,
-      "sector": "Financial Services",
-      "market_cap": 90797268992,
+      "dividend_yield": 0.0894,
+      "pe_ratio": 4.729064,
+      "sector": "Energy",
+      "market_cap": 655847325696,
       "news": [
-        "B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...",
-        "B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2025 Earnings Call Highlights: Resilient Growth Amid ..."
+        "Sector Update: Energy Stocks Fall Monday Afternoon",
+        "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
+        "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
       ],
-      "score": 70.0,
-      "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 3.6% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
