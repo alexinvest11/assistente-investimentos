@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:05:47.162579",
+  "updated_at": "2026-09-22T12:07:31.732367",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,7 +8,7 @@
       "price": 48.0,
       "change_pct": -1.03,
       "currency": "BRL",
-      "dividend_yield": 0.0894,
+      "dividend_yield": 0.09029999999999999,
       "pe_ratio": 4.729064,
       "sector": "Energy",
       "market_cap": 655847325696,
@@ -18,7 +18,7 @@
         "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -27,7 +27,7 @@
       "price": 148.2,
       "change_pct": 0.15,
       "currency": "BRL",
-      "dividend_yield": 0.0949,
+      "dividend_yield": 0.0947,
       "pe_ratio": 9.604666,
       "sector": "Real Estate",
       "market_cap": 5007318528,
