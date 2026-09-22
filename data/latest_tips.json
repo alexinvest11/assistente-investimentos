@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-22T01:05:26.633549",
+  "updated_at": "2026-09-22T02:06:20.183286",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 85608.79,
-      "change_pct": 5.5,
+      "price": 85512.86,
+      "change_pct": 5.39,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1725711384576,
+      "market_cap": 1718169239552,
       "news": [
         "Bitcoin-related stocks are surging: The momentum is 'incredible'",
         "Is it worth investing in bitcoin if I'm Gen X?",
         "Inside crypto's Clarity Act collapse"
       ],
       "score": 75.0,
-      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.5%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin-related stocks are surging: The momentum is 'incredible'\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.4%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin-related stocks are surging: The momentum is 'incredible'\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
