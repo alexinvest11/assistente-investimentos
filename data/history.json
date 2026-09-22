@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-20 22:05",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "RENT3.SA",
-        "name": "LOCALIZA    ON      NM",
-        "price": 36.44,
-        "change_pct": 2.13,
-        "currency": "BRL",
-        "dividend_yield": 0.0591,
-        "pe_ratio": 11.4920635,
-        "sector": "Industrials",
-        "market_cap": 39987060736,
-        "news": [
-          "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-          "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth",
-          "Herc Holdings (HRI) Q2 Earnings and Revenues Surpass Estimates"
-        ],
-        "score": 65.0,
-        "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque paga cerca de 5.9% ao ano em proventos e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 147.98,
-        "change_pct": 0.26,
-        "currency": "BRL",
-        "dividend_yield": 0.0949,
-        "pe_ratio": 9.590407,
-        "sector": "Real Estate",
-        "market_cap": 4999885312,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-20 23:05",
     "tips": {
       "crypto": null,
@@ -2013,6 +1973,64 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-22 14:06",
+    "tips": {
+      "crypto": {
+        "ticker": "XRP-USD",
+        "name": "XRP USD",
+        "price": 1.58,
+        "change_pct": 2.93,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 99255599104,
+        "news": [
+          "Is it worth investing in bitcoin if I'm Gen X?",
+          "XRP Bull Revives $10K Theory With a Supply Squeeze Argument",
+          "XRPL Permission Delegation Begins Final Test for October Activation"
+        ],
+        "score": 35.0,
+        "reason": "XRP USD (XRP-USD) está em alta de 2.9%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Is it worth investing in bitcoin if I'm Gen X?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 47.95,
+        "change_pct": -0.1,
+        "currency": "BRL",
+        "dividend_yield": 0.09029999999999999,
+        "pe_ratio": 4.7261086,
+        "sector": "Energy",
+        "market_cap": 655437463552,
+        "news": [
+          "Sector Update: Energy Stocks Fall Monday Afternoon",
+          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
+          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.28,
+        "change_pct": 0.2,
+        "currency": "BRL",
+        "dividend_yield": 0.1162,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 5575489536,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
