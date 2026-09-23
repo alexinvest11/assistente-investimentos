@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-23T14:06:16.987460",
+  "updated_at": "2026-09-23T15:05:24.491861",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.89,
-      "change_pct": 3.19,
+      "price": 49.59,
+      "change_pct": 2.56,
       "currency": "BRL",
       "dividend_yield": 0.0897,
-      "pe_ratio": 4.9007854,
+      "pe_ratio": 4.871316,
       "sector": "Energy",
-      "market_cap": 681671327744,
+      "market_cap": 677572247552,
       "news": [
         "Sector Update: Energy Stocks Fall Monday Afternoon",
         "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
         "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "XPML11.SA",
       "name": "FII XP MALLSCI",
-      "price": 98.08,
-      "change_pct": 0.07,
+      "price": 98.18,
+      "change_pct": 0.17,
       "currency": "BRL",
       "dividend_yield": 0.11630000000000001,
       "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 5564143616,
+      "market_cap": 5569816576,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
