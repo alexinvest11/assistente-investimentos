@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-23T04:05:42.999055",
+  "updated_at": "2026-09-23T05:05:28.294260",
   "tips": {
     "crypto": {
       "ticker": "XRP-USD",
       "name": "XRP USD",
-      "price": 1.61,
-      "change_pct": 5.18,
+      "price": 1.63,
+      "change_pct": 6.16,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 101690376192,
+      "market_cap": 103026540544,
       "news": [
         "What Would Have to Happen for XRP to Reach $5?",
         "The Crypto Market Surpasses $3 Trillion. What Drove This Milestone and What Could Keep It There?",
         "Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP"
       ],
       "score": 55.0,
-      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (5.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"What Would Have to Happen for XRP to Reach $5?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (6.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"What Would Have to Happen for XRP to Reach $5?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {

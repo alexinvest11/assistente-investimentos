@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-21 13:05",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 85246.33,
-        "change_pct": 5.06,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1712384901120,
-        "news": [
-          "Bitcoin prices rip despite the Clarity Act failure",
-          "Why Is Bitcoin Up Today? It Closed Above Its 50-Week Average for the First Time in 45 Weeks.",
-          "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)"
-        ],
-        "score": 75.0,
-        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.1%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin prices rip despite the Clarity Act failure\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.5,
-        "change_pct": -0.23,
-        "currency": "BRL",
-        "dividend_yield": 0.0894,
-        "pe_ratio": 4.778325,
-        "sector": "Energy",
-        "market_cap": 662679060480,
-        "news": [
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion",
-          "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
-          "Sempra (SRE) Just Locked In Two Decades of LNG Demand"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI",
-        "price": 92.99,
-        "change_pct": 1.08,
-        "currency": "BRL",
-        "dividend_yield": 0.1058,
-        "pe_ratio": 18.37747,
-        "sector": "Real Estate",
-        "market_cap": 3721058816,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.6% ao ano) e o preço está em leve alta (1.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-21 14:06",
     "tips": {
       "crypto": {
@@ -2141,6 +2083,64 @@
         ],
         "score": 55.0,
         "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (5.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"What Would Have to Happen for XRP to Reach $5?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.0,
+        "change_pct": -1.03,
+        "currency": "BRL",
+        "dividend_yield": 0.09029999999999999,
+        "pe_ratio": 4.7495084,
+        "sector": "Energy",
+        "market_cap": 660629553152,
+        "news": [
+          "Sector Update: Energy Stocks Fall Monday Afternoon",
+          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
+          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 148.2,
+        "change_pct": 0.15,
+        "currency": "BRL",
+        "dividend_yield": 0.0947,
+        "pe_ratio": 9.5653305,
+        "sector": "Real Estate",
+        "market_cap": 4996507136,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-23 05:05",
+    "tips": {
+      "crypto": {
+        "ticker": "XRP-USD",
+        "name": "XRP USD",
+        "price": 1.63,
+        "change_pct": 6.16,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 103026540544,
+        "news": [
+          "What Would Have to Happen for XRP to Reach $5?",
+          "The Crypto Market Surpasses $3 Trillion. What Drove This Milestone and What Could Keep It There?",
+          "Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP"
+        ],
+        "score": 55.0,
+        "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (6.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"What Would Have to Happen for XRP to Reach $5?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
         "kind": "crypto"
       },
       "stocks": {
