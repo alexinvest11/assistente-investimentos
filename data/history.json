@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-22 06:07",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 85327.99,
-        "change_pct": 5.16,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1714952208384,
-        "news": [
-          "Bitcoin-related stocks are surging: The momentum is 'incredible'",
-          "Is it worth investing in bitcoin if I'm Gen X?",
-          "Inside crypto's Clarity Act collapse"
-        ],
-        "score": 75.0,
-        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.2%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin-related stocks are surging: The momentum is 'incredible'\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.5,
-        "change_pct": -0.23,
-        "currency": "BRL",
-        "dividend_yield": 0.0894,
-        "pe_ratio": 4.729064,
-        "sector": "Energy",
-        "market_cap": 655847325696,
-        "news": [
-          "Sector Update: Energy Stocks Fall Monday Afternoon",
-          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI",
-        "price": 92.99,
-        "change_pct": 1.08,
-        "currency": "BRL",
-        "dividend_yield": 0.1058,
-        "pe_ratio": 18.284584,
-        "sector": "Real Estate",
-        "market_cap": 3702251264,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.6% ao ano) e o preço está em leve alta (1.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-22 07:06",
     "tips": {
       "crypto": {
@@ -1957,6 +1899,46 @@
         ],
         "score": 80.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.19,
+        "change_pct": 0.18,
+        "currency": "BRL",
+        "dividend_yield": 0.11630000000000001,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 5570383872,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-23 22:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.6,
+        "change_pct": 2.59,
+        "currency": "BRL",
+        "dividend_yield": 0.0897,
+        "pe_ratio": 4.8722982,
+        "sector": "Energy",
+        "market_cap": 677708890112,
+        "news": [
+          "Why the Market Dipped But Petrobras (PBR) Gained Today",
+          "Sector Update: Energy Stocks Fall Monday Afternoon",
+          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks"
+        ],
+        "score": 80.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Why the Market Dipped But Petrobras (PBR) Gained Today\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
