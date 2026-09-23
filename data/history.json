@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-09-22 00:08",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 86304.99,
-        "change_pct": 6.36,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1736098709504,
-        "news": [
-          "Bitcoin-related stocks are surging: The momentum is 'incredible'",
-          "Is it worth investing in bitcoin if I'm Gen X?",
-          "Inside crypto's Clarity Act collapse"
-        ],
-        "score": 75.0,
-        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (6.4%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin-related stocks are surging: The momentum is 'incredible'\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "B3SA3.SA",
-        "name": "B3          ON      NM",
-        "price": 18.23,
-        "change_pct": 3.64,
-        "currency": "BRL",
-        "dividend_yield": 0.0513,
-        "pe_ratio": 18.23,
-        "sector": "Financial Services",
-        "market_cap": 90797268992,
-        "news": [
-          "B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...",
-          "B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2025 Earnings Call Highlights: Resilient Growth Amid ..."
-        ],
-        "score": 70.0,
-        "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 3.6% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 148.2,
-        "change_pct": 0.15,
-        "currency": "BRL",
-        "dividend_yield": 0.0949,
-        "pe_ratio": 9.604666,
-        "sector": "Real Estate",
-        "market_cap": 5007318528,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-22 01:05",
     "tips": {
       "crypto": {
@@ -2077,6 +2020,46 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-23 16:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.57,
+        "change_pct": 2.52,
+        "currency": "BRL",
+        "dividend_yield": 0.0897,
+        "pe_ratio": 4.870334,
+        "sector": "Energy",
+        "market_cap": 677435670528,
+        "news": [
+          "Sector Update: Energy Stocks Fall Monday Afternoon",
+          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
+          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
+        ],
+        "score": 80.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.5% recentemente. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.14,
+        "change_pct": 0.13,
+        "currency": "BRL",
+        "dividend_yield": 0.11630000000000001,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 5567547392,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
