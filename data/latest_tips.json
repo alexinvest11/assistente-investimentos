@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-23T18:07:19.608940",
+  "updated_at": "2026-09-23T19:05:48.312565",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.6,
-      "change_pct": 2.59,
+      "price": 49.61,
+      "change_pct": 2.61,
       "currency": "BRL",
       "dividend_yield": 0.0897,
-      "pe_ratio": 4.8722982,
+      "pe_ratio": 4.873281,
       "sector": "Energy",
-      "market_cap": 677708890112,
+      "market_cap": 677845532672,
       "news": [
         "Sector Update: Energy Stocks Fall Monday Afternoon",
         "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
@@ -22,18 +22,18 @@
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "TRXF11.SA",
-      "name": "FII TRX REALCI",
-      "price": 73.98,
-      "change_pct": 1.34,
+      "ticker": "XPML11.SA",
+      "name": "FII XP MALLSCI",
+      "price": 98.02,
+      "change_pct": 0.01,
       "currency": "BRL",
-      "dividend_yield": 0.1616,
-      "pe_ratio": 5.862124,
+      "dividend_yield": 0.11630000000000001,
+      "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 2403853312,
+      "market_cap": 5560739328,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.2% ao ano) e o preço está em leve alta (1.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
