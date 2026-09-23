@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-23T10:05:51.221448",
+  "updated_at": "2026-09-23T11:05:45.423836",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.0,
-      "change_pct": -1.03,
+      "price": 48.35,
+      "change_pct": 0.73,
       "currency": "BRL",
       "dividend_yield": 0.09029999999999999,
       "pe_ratio": 4.7495084,
@@ -17,23 +17,23 @@
         "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
         "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": 148.2,
-      "change_pct": 0.15,
+      "ticker": "KNCR11.SA",
+      "name": "FII KINEA RICI",
+      "price": 106.95,
+      "change_pct": 0.19,
       "currency": "BRL",
-      "dividend_yield": 0.0947,
-      "pe_ratio": 9.5653305,
+      "dividend_yield": 0.1293,
+      "pe_ratio": 8.846153,
       "sector": "Real Estate",
-      "market_cap": 4996507136,
+      "market_cap": 8206687232,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
