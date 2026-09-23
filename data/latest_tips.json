@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-22T23:05:20.762547",
+  "updated_at": "2026-09-23T00:07:44.740999",
   "tips": {
     "crypto": {
       "ticker": "XRP-USD",
       "name": "XRP USD",
       "price": 1.57,
-      "change_pct": 2.67,
+      "change_pct": 2.44,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 98926067712,
+      "market_cap": 98860433408,
       "news": [
         "Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP",
         "Ripple (XRP) Bounces Back for the Month After Losing 8% on the Senate Vote",
         "Analyst says XRP could be entering a new rally after whale buying"
       ],
       "score": 35.0,
-      "reason": "XRP USD (XRP-USD) está em alta de 2.7%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "XRP USD (XRP-USD) está em alta de 2.4%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {
