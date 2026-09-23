@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-23T09:05:55.351336",
+  "updated_at": "2026-09-23T10:05:51.221448",
   "tips": {
-    "crypto": {
-      "ticker": "XRP-USD",
-      "name": "XRP USD",
-      "price": 1.6,
-      "change_pct": 4.08,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 100443570176,
-      "news": [
-        "What Would Have to Happen for XRP to Reach $5?",
-        "The Crypto Market Surpasses $3 Trillion. What Drove This Milestone and What Could Keep It There?",
-        "Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP"
-      ],
-      "score": 35.0,
-      "reason": "XRP USD (XRP-USD) está em alta de 4.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What Would Have to Happen for XRP to Reach $5?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
