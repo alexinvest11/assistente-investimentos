@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-09-21 17:05",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 85942.21,
-        "change_pct": 5.92,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1726956175360,
-        "news": [
-          "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall",
-          "Bitcoin prices, Logan & Jake Paul, Jensen Huang talks human survival: 3 crazy market movers",
-          "Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC’s Game-Changing Exemption"
-        ],
-        "score": 75.0,
-        "reason": "Bitcoin USD (BTC-USD) subiu bastante nos últimos dias (5.9%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "B3SA3.SA",
-        "name": "B3          ON      NM",
-        "price": 18.18,
-        "change_pct": 3.35,
-        "currency": "BRL",
-        "dividend_yield": 0.0513,
-        "pe_ratio": 18.18,
-        "sector": "Financial Services",
-        "market_cap": 90548240384,
-        "news": [
-          "B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...",
-          "B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2025 Earnings Call Highlights: Resilient Growth Amid ..."
-        ],
-        "score": 70.0,
-        "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 3.4% recentemente. Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNRI11.SA",
-        "name": "FII KINEA   CI",
-        "price": 158.42,
-        "change_pct": 0.58,
-        "currency": "BRL",
-        "dividend_yield": 0.08380000000000001,
-        "pe_ratio": 10.749813,
-        "sector": "Real Estate",
-        "market_cap": 4468085248,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-21 18:07",
     "tips": {
       "crypto": {
@@ -2144,6 +2087,64 @@
         ],
         "score": 35.0,
         "reason": "XRP USD (XRP-USD) está em alta de 5.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What Would Have to Happen for XRP to Reach $5?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.0,
+        "change_pct": -1.03,
+        "currency": "BRL",
+        "dividend_yield": 0.09029999999999999,
+        "pe_ratio": 4.7495084,
+        "sector": "Energy",
+        "market_cap": 660629553152,
+        "news": [
+          "Sector Update: Energy Stocks Fall Monday Afternoon",
+          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
+          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 148.2,
+        "change_pct": 0.15,
+        "currency": "BRL",
+        "dividend_yield": 0.0947,
+        "pe_ratio": 9.5653305,
+        "sector": "Real Estate",
+        "market_cap": 4996507136,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-23 09:05",
+    "tips": {
+      "crypto": {
+        "ticker": "XRP-USD",
+        "name": "XRP USD",
+        "price": 1.6,
+        "change_pct": 4.08,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 100443570176,
+        "news": [
+          "What Would Have to Happen for XRP to Reach $5?",
+          "The Crypto Market Surpasses $3 Trillion. What Drove This Milestone and What Could Keep It There?",
+          "Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP"
+        ],
+        "score": 35.0,
+        "reason": "XRP USD (XRP-USD) está em alta de 4.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What Would Have to Happen for XRP to Reach $5?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
         "kind": "crypto"
       },
       "stocks": {
