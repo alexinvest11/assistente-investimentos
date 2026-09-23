@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-23T13:08:18.158891",
+  "updated_at": "2026-09-23T14:06:16.987460",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.35,
-      "change_pct": 0.73,
+      "price": 49.89,
+      "change_pct": 3.19,
       "currency": "BRL",
       "dividend_yield": 0.0897,
-      "pe_ratio": 4.7495084,
+      "pe_ratio": 4.9007854,
       "sector": "Energy",
-      "market_cap": 660629553152,
+      "market_cap": 681671327744,
       "news": [
         "Sector Update: Energy Stocks Fall Monday Afternoon",
         "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
         "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
       ],
-      "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 80.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "KNCR11.SA",
-      "name": "FII KINEA RICI",
-      "price": 106.95,
-      "change_pct": 0.19,
+      "ticker": "XPML11.SA",
+      "name": "FII XP MALLSCI",
+      "price": 98.08,
+      "change_pct": 0.07,
       "currency": "BRL",
-      "dividend_yield": 0.1293,
-      "pe_ratio": 8.846153,
+      "dividend_yield": 0.11630000000000001,
+      "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 8206687232,
+      "market_cap": 5564143616,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
