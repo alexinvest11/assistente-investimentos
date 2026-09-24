@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-22 13:06",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.0,
-        "change_pct": -1.03,
-        "currency": "BRL",
-        "dividend_yield": 0.09029999999999999,
-        "pe_ratio": 4.729064,
-        "sector": "Energy",
-        "market_cap": 655847325696,
-        "news": [
-          "Sector Update: Energy Stocks Fall Monday Afternoon",
-          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 148.2,
-        "change_pct": 0.15,
-        "currency": "BRL",
-        "dividend_yield": 0.0947,
-        "pe_ratio": 9.586028,
-        "sector": "Real Estate",
-        "market_cap": 5007318528,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-22 14:06",
     "tips": {
       "crypto": {
@@ -1937,6 +1897,46 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-24 09:39",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.6,
+        "change_pct": 2.59,
+        "currency": "BRL",
+        "dividend_yield": 0.0897,
+        "pe_ratio": 4.8722982,
+        "sector": "Energy",
+        "market_cap": 677708890112,
+        "news": [
+          "Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027",
+          "Update: Market Chatter: Braskem Creditors Seek $3 Billion Capital Injection From Controlling Holders",
+          "Why the Market Dipped But Petrobras (PBR) Gained Today"
+        ],
+        "score": 80.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.19,
+        "change_pct": 0.18,
+        "currency": "BRL",
+        "dividend_yield": 0.11630000000000001,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 5570383872,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }

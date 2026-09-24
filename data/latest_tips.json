@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-24T04:06:06.673930",
+  "updated_at": "2026-09-24T09:39:31.837712",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.35,
-      "change_pct": 0.73,
+      "price": 49.6,
+      "change_pct": 2.59,
       "currency": "BRL",
       "dividend_yield": 0.0897,
       "pe_ratio": 4.8722982,
       "sector": "Energy",
       "market_cap": 677708890112,
       "news": [
-        "Why the Market Dipped But Petrobras (PBR) Gained Today",
-        "Sector Update: Energy Stocks Fall Monday Afternoon",
-        "Petrobras Expands Africa Footprint With 8 New Offshore Blocks"
+        "Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027",
+        "Update: Market Chatter: Braskem Creditors Seek $3 Billion Capital Injection From Controlling Holders",
+        "Why the Market Dipped But Petrobras (PBR) Gained Today"
       ],
-      "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Why the Market Dipped But Petrobras (PBR) Gained Today\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 80.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "KNCR11.SA",
-      "name": "FII KINEA RICI",
-      "price": 106.95,
-      "change_pct": 0.19,
+      "ticker": "XPML11.SA",
+      "name": "FII XP MALLSCI",
+      "price": 98.19,
+      "change_pct": 0.18,
       "currency": "BRL",
-      "dividend_yield": 0.129,
-      "pe_ratio": 8.773554,
+      "dividend_yield": 0.11630000000000001,
+      "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 8146067968,
+      "market_cap": 5570383872,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
