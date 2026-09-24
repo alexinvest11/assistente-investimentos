@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-24T18:46:37.654163",
+  "updated_at": "2026-09-24T21:55:23.293361",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.31,
-      "change_pct": -0.58,
+      "price": 49.26,
+      "change_pct": -0.69,
       "currency": "BRL",
       "dividend_yield": 0.0874,
-      "pe_ratio": 4.8821783,
+      "pe_ratio": 4.8772273,
       "sector": "Energy",
-      "market_cap": 673746518016,
+      "market_cap": 673063305216,
       "news": [
         "Petrobras May Add Colombia Gas Project to 2027-2031 Business Plan",
         "Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027",
@@ -24,16 +24,16 @@
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI",
-      "price": 147.7,
-      "change_pct": 0.07,
+      "price": 147.93,
+      "change_pct": 0.22,
       "currency": "BRL",
       "dividend_yield": 0.0951,
-      "pe_ratio": 9.59714,
+      "pe_ratio": 9.612085,
       "sector": "Real Estate",
-      "market_cap": 4990425088,
+      "market_cap": 4998195712,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
