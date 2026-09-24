@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-24T09:39:31.837712",
+  "updated_at": "2026-09-24T18:46:37.654163",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.6,
-      "change_pct": 2.59,
+      "price": 49.31,
+      "change_pct": -0.58,
       "currency": "BRL",
-      "dividend_yield": 0.0897,
-      "pe_ratio": 4.8722982,
+      "dividend_yield": 0.0874,
+      "pe_ratio": 4.8821783,
       "sector": "Energy",
-      "market_cap": 677708890112,
+      "market_cap": 673746518016,
       "news": [
+        "Petrobras May Add Colombia Gas Project to 2027-2031 Business Plan",
         "Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027",
-        "Update: Market Chatter: Braskem Creditors Seek $3 Billion Capital Injection From Controlling Holders",
-        "Why the Market Dipped But Petrobras (PBR) Gained Today"
+        "Update: Market Chatter: Braskem Creditors Seek $3 Billion Capital Injection From Controlling Holders"
       ],
-      "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.7% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras May Add Colombia Gas Project to 2027-2031 Business Plan\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPML11.SA",
-      "name": "FII XP MALLSCI",
-      "price": 98.19,
-      "change_pct": 0.18,
+      "ticker": "HGLG11.SA",
+      "name": "FII HGLG PAXCI",
+      "price": 147.7,
+      "change_pct": 0.07,
       "currency": "BRL",
-      "dividend_yield": 0.11630000000000001,
-      "pe_ratio": null,
+      "dividend_yield": 0.0951,
+      "pe_ratio": 9.59714,
       "sector": "Real Estate",
-      "market_cap": 5570383872,
+      "market_cap": 4990425088,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
