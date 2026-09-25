@@ -1,57 +1,39 @@
 {
-  "updated_at": "2026-09-25T15:42:24.229315",
+  "updated_at": "2026-09-25T19:45:08.121735",
   "tips": {
-    "crypto": {
-      "ticker": "SOL-USD",
-      "name": "Solana USD",
-      "price": 119.51,
-      "change_pct": 2.14,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 70403137536,
-      "news": [
-        "What does an on-chain economy mean for retail investors?",
-        "Morehead Casts Ripple as a SWIFT Rival, Not a Replacement",
-        "AI Crypto Coins Revenue Gap Puts Token Value to the Test"
-      ],
-      "score": 35.0,
-      "reason": "Solana USD (SOL-USD) está em alta de 2.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What does an on-chain economy mean for retail investors?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": 48.48,
-      "change_pct": -1.58,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 70.71,
+      "change_pct": 0.07,
       "currency": "BRL",
-      "dividend_yield": 0.08800000000000001,
-      "pe_ratio": 4.7999997,
-      "sector": "Energy",
-      "market_cap": 662405775360,
+      "dividend_yield": 0.0886,
+      "pe_ratio": 27.301159,
+      "sector": "Basic Materials",
+      "market_cap": 300924960768,
       "news": [
-        "Petrobras Inks MoU With Mozambique's ENH for Oil & Gas Cooperation",
-        "Petrobras May Add Colombia Gas Project to 2027-2031 Business Plan",
-        "Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027"
+        "Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know",
+        "VALE S.A. (VALE) Suffers a Larger Drop Than the General Market: Key Insights",
+        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors"
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Inks MoU With Mozambique's ENH for Oil & Gas Cooperation\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (0.1%). Nas notícias recentes: \"Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": 147.95,
-      "change_pct": 0.01,
+      "ticker": "MXRF11.SA",
+      "name": "FII MAXI RENCI",
+      "price": 9.06,
+      "change_pct": 0.33,
       "currency": "BRL",
-      "dividend_yield": 0.0949,
-      "pe_ratio": 9.588464,
+      "dividend_yield": 0.1329,
+      "pe_ratio": 12.942858,
       "sector": "Real Estate",
-      "market_cap": 4998871552,
+      "market_cap": 4173286400,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.3% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
