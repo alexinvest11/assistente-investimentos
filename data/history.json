@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-22 19:05",
-    "tips": {
-      "crypto": {
-        "ticker": "XRP-USD",
-        "name": "XRP USD",
-        "price": 1.59,
-        "change_pct": 3.62,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 99558539264,
-        "news": [
-          "Analyst says XRP could be entering a new rally after whale buying",
-          "x402’s $50B Scale Gives Solana an AI Payments Edge",
-          "Veteran Trader Peter Brandt Says XRP Could Explode to $5.40 — But Issues a Blunt Warning"
-        ],
-        "score": 35.0,
-        "reason": "XRP USD (XRP-USD) está em alta de 3.6%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Analyst says XRP could be entering a new rally after whale buying\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.24,
-        "change_pct": 0.5,
-        "currency": "BRL",
-        "dividend_yield": 0.09029999999999999,
-        "pe_ratio": 4.75271,
-        "sector": "Energy",
-        "market_cap": 659126616064,
-        "news": [
-          "Sector Update: Energy Stocks Fall Monday Afternoon",
-          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
-        ],
-        "score": 70.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPML11.SA",
-        "name": "FII XP MALLSCI",
-        "price": 98.09,
-        "change_pct": 0.01,
-        "currency": "BRL",
-        "dividend_yield": 0.1162,
-        "pe_ratio": null,
-        "sector": "Real Estate",
-        "market_cap": 5564710400,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-22 20:05",
     "tips": {
       "crypto": {
@@ -1865,6 +1807,64 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-25 15:42",
+    "tips": {
+      "crypto": {
+        "ticker": "SOL-USD",
+        "name": "Solana USD",
+        "price": 119.51,
+        "change_pct": 2.14,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 70403137536,
+        "news": [
+          "What does an on-chain economy mean for retail investors?",
+          "Morehead Casts Ripple as a SWIFT Rival, Not a Replacement",
+          "AI Crypto Coins Revenue Gap Puts Token Value to the Test"
+        ],
+        "score": 35.0,
+        "reason": "Solana USD (SOL-USD) está em alta de 2.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What does an on-chain economy mean for retail investors?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.48,
+        "change_pct": -1.58,
+        "currency": "BRL",
+        "dividend_yield": 0.08800000000000001,
+        "pe_ratio": 4.7999997,
+        "sector": "Energy",
+        "market_cap": 662405775360,
+        "news": [
+          "Petrobras Inks MoU With Mozambique's ENH for Oil & Gas Cooperation",
+          "Petrobras May Add Colombia Gas Project to 2027-2031 Business Plan",
+          "Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Inks MoU With Mozambique's ENH for Oil & Gas Cooperation\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 147.95,
+        "change_pct": 0.01,
+        "currency": "BRL",
+        "dividend_yield": 0.0949,
+        "pe_ratio": 9.588464,
+        "sector": "Real Estate",
+        "market_cap": 4998871552,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
