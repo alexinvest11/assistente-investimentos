@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-22 23:05",
-    "tips": {
-      "crypto": {
-        "ticker": "XRP-USD",
-        "name": "XRP USD",
-        "price": 1.57,
-        "change_pct": 2.67,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 98926067712,
-        "news": [
-          "Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP",
-          "Ripple (XRP) Bounces Back for the Month After Losing 8% on the Senate Vote",
-          "Analyst says XRP could be entering a new rally after whale buying"
-        ],
-        "score": 35.0,
-        "reason": "XRP USD (XRP-USD) está em alta de 2.7%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.35,
-        "change_pct": 0.73,
-        "currency": "BRL",
-        "dividend_yield": 0.09029999999999999,
-        "pe_ratio": 4.7495084,
-        "sector": "Energy",
-        "market_cap": 660629553152,
-        "news": [
-          "Sector Update: Energy Stocks Fall Monday Afternoon",
-          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
-        ],
-        "score": 70.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 106.95,
-        "change_pct": 0.19,
-        "currency": "BRL",
-        "dividend_yield": 0.1293,
-        "pe_ratio": 8.846153,
-        "sector": "Real Estate",
-        "market_cap": 8206687232,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-23 00:07",
     "tips": {
       "crypto": {
@@ -1829,6 +1771,64 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.3% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-26 06:55",
+    "tips": {
+      "crypto": {
+        "ticker": "SOL-USD",
+        "name": "Solana USD",
+        "price": 120.32,
+        "change_pct": 2.83,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 70756401152,
+        "news": [
+          "Weekly Wrap: The Crypto Rally Continues",
+          "Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800",
+          "Solana Foundation’s New Hires: What Does It Mean for SOL?"
+        ],
+        "score": 35.0,
+        "reason": "Solana USD (SOL-USD) está em alta de 2.8%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Weekly Wrap: The Crypto Rally Continues\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.08800000000000001,
+        "pe_ratio": 4.691105,
+        "sector": "Energy",
+        "market_cap": 655710683136,
+        "news": [
+          "Petrobras (PBR) Takes its Oil Hunt to Ivory Coast: Is Another Major Oil Play Taking Shape?",
+          "Petrobras (PBR) Stock Sinks As Market Gains: Here's Why",
+          "Sector Update: Energy Stocks Fall Late Afternoon"
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Petrobras (PBR) Takes its Oil Hunt to Ivory Coast: Is Another Major Oil Play Taking Shape?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0949,
+        "pe_ratio": 9.582631,
+        "sector": "Real Estate",
+        "market_cap": 4995830784,
+        "news": [],
+        "score": 40.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
