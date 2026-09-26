@@ -1,63 +1,5 @@
 [
   {
-    "date": "2026-09-23 00:07",
-    "tips": {
-      "crypto": {
-        "ticker": "XRP-USD",
-        "name": "XRP USD",
-        "price": 1.57,
-        "change_pct": 2.44,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 98860433408,
-        "news": [
-          "Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP",
-          "Ripple (XRP) Bounces Back for the Month After Losing 8% on the Senate Vote",
-          "Analyst says XRP could be entering a new rally after whale buying"
-        ],
-        "score": 35.0,
-        "reason": "XRP USD (XRP-USD) está em alta de 2.4%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Ripple Confirms Asset Managers Are Prepared for XRP Ledger’s Upcoming Batch Upgrade: What It Changes for XRP\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.35,
-        "change_pct": 0.73,
-        "currency": "BRL",
-        "dividend_yield": 0.09029999999999999,
-        "pe_ratio": 4.7495084,
-        "sector": "Energy",
-        "market_cap": 660629553152,
-        "news": [
-          "Sector Update: Energy Stocks Fall Monday Afternoon",
-          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
-        ],
-        "score": 70.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 106.95,
-        "change_pct": 0.19,
-        "currency": "BRL",
-        "dividend_yield": 0.1293,
-        "pe_ratio": 8.846153,
-        "sector": "Real Estate",
-        "market_cap": 8206687232,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-23 01:06",
     "tips": {
       "crypto": {
@@ -1829,6 +1771,46 @@
         "news": [],
         "score": 40.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-26 11:59",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 70.77,
+        "change_pct": 0.16,
+        "currency": "BRL",
+        "dividend_yield": 0.0885,
+        "pe_ratio": 27.21923,
+        "sector": "Basic Materials",
+        "market_cap": 301180321792,
+        "news": [
+          "Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know",
+          "VALE S.A. (VALE) Suffers a Larger Drop Than the General Market: Key Insights",
+          "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (0.2%). Nas notícias recentes: \"Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "MXRF11.SA",
+        "name": "FII MAXI RENCI",
+        "price": 9.1,
+        "change_pct": 0.78,
+        "currency": "BRL",
+        "dividend_yield": 0.1319,
+        "pe_ratio": 13.000001,
+        "sector": "Real Estate",
+        "market_cap": 4191711488,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }

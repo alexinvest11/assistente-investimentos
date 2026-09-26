@@ -1,57 +1,39 @@
 {
-  "updated_at": "2026-09-26T06:55:06.727818",
+  "updated_at": "2026-09-26T11:59:58.307841",
   "tips": {
-    "crypto": {
-      "ticker": "SOL-USD",
-      "name": "Solana USD",
-      "price": 120.32,
-      "change_pct": 2.83,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 70756401152,
-      "news": [
-        "Weekly Wrap: The Crypto Rally Continues",
-        "Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800",
-        "Solana Foundation’s New Hires: What Does It Mean for SOL?"
-      ],
-      "score": 35.0,
-      "reason": "Solana USD (SOL-USD) está em alta de 2.8%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Weekly Wrap: The Crypto Rally Continues\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 70.77,
+      "change_pct": 0.16,
       "currency": "BRL",
-      "dividend_yield": 0.08800000000000001,
-      "pe_ratio": 4.691105,
-      "sector": "Energy",
-      "market_cap": 655710683136,
+      "dividend_yield": 0.0885,
+      "pe_ratio": 27.21923,
+      "sector": "Basic Materials",
+      "market_cap": 301180321792,
       "news": [
-        "Petrobras (PBR) Takes its Oil Hunt to Ivory Coast: Is Another Major Oil Play Taking Shape?",
-        "Petrobras (PBR) Stock Sinks As Market Gains: Here's Why",
-        "Sector Update: Energy Stocks Fall Late Afternoon"
+        "Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know",
+        "VALE S.A. (VALE) Suffers a Larger Drop Than the General Market: Key Insights",
+        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors"
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano). Nas notícias recentes: \"Petrobras (PBR) Takes its Oil Hunt to Ivory Coast: Is Another Major Oil Play Taking Shape?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (0.2%). Nas notícias recentes: \"Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "MXRF11.SA",
+      "name": "FII MAXI RENCI",
+      "price": 9.1,
+      "change_pct": 0.78,
       "currency": "BRL",
-      "dividend_yield": 0.0949,
-      "pe_ratio": 9.582631,
+      "dividend_yield": 0.1319,
+      "pe_ratio": 13.000001,
       "sector": "Real Estate",
-      "market_cap": 4995830784,
+      "market_cap": 4191711488,
       "news": [],
-      "score": 40.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 50.0,
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
