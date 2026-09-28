@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-28T14:46:57.292812",
+  "updated_at": "2026-09-28T20:58:09.873899",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 48.9,
-      "change_pct": 1.73,
+      "price": 48.72,
+      "change_pct": 1.35,
       "currency": "BRL",
       "dividend_yield": 0.0902,
-      "pe_ratio": 4.780059,
+      "pe_ratio": 4.7393,
       "sector": "Energy",
-      "market_cap": 668144500736,
+      "market_cap": 665685065728,
       "news": [
-        "Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views?",
-        "An Energy Hedge Against Market Shocks — Why Blue Tower Added Petrobras (PBR)",
-        "Petrobras (PBR) Takes its Oil Hunt to Ivory Coast: Is Another Major Oil Play Taking Shape?"
+        "Can R$12.2 Billion in Fuel Subsidies Ease Petrobras’ Pricing Pressure?",
+        "Petrobras' Braskem Exposure Faces Test as Debt Talks Continue",
+        "Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views?"
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.7%). Nas notícias recentes: \"Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.4%). Nas notícias recentes: \"Can R$12.2 Billion in Fuel Subsidies Ease Petrobras’ Pricing Pressure?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPML11.SA",
-      "name": "FII XP MALLSCI  ERS",
-      "price": 98.86,
-      "change_pct": 0.18,
+      "ticker": "XPLG11.SA",
+      "name": "FII XP LOG  CI",
+      "price": 92.54,
+      "change_pct": 0.16,
       "currency": "BRL",
-      "dividend_yield": 0.1155,
-      "pe_ratio": null,
+      "dividend_yield": 0.1065,
+      "pe_ratio": 18.288538,
       "sector": "Real Estate",
-      "market_cap": 5608393728,
+      "market_cap": 3703051776,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII XP MALLSCI  ERS (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.7% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
