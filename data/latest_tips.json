@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-09-28T06:09:38.807656",
+  "updated_at": "2026-09-28T14:46:57.292812",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "VALE3.SA",
-      "name": "VALE        ON      NM",
-      "price": 70.77,
-      "change_pct": 0.16,
+      "ticker": "PETR4.SA",
+      "name": "PETROBRAS   PN      N2",
+      "price": 48.9,
+      "change_pct": 1.73,
       "currency": "BRL",
-      "dividend_yield": 0.0885,
-      "pe_ratio": 27.21923,
-      "sector": "Basic Materials",
-      "market_cap": 301180321792,
+      "dividend_yield": 0.0902,
+      "pe_ratio": 4.780059,
+      "sector": "Energy",
+      "market_cap": 668144500736,
       "news": [
-        "Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know",
-        "VALE S.A. (VALE) Suffers a Larger Drop Than the General Market: Key Insights",
-        "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors"
+        "Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views?",
+        "An Energy Hedge Against Market Shocks — Why Blue Tower Added Petrobras (PBR)",
+        "Petrobras (PBR) Takes its Oil Hunt to Ivory Coast: Is Another Major Oil Play Taking Shape?"
       ],
       "score": 70.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (0.2%). Nas notícias recentes: \"Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.7%). Nas notícias recentes: \"Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "MXRF11.SA",
-      "name": "FII MAXI RENCI",
-      "price": 9.1,
-      "change_pct": 0.78,
+      "ticker": "XPML11.SA",
+      "name": "FII XP MALLSCI  ERS",
+      "price": 98.86,
+      "change_pct": 0.18,
       "currency": "BRL",
-      "dividend_yield": 0.1319,
-      "pe_ratio": 13.000001,
+      "dividend_yield": 0.1155,
+      "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 4191711488,
+      "market_cap": 5608393728,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP MALLSCI  ERS (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
