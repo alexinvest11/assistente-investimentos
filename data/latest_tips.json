@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:49:32.699459",
+  "updated_at": "2026-09-29T06:27:04.022945",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -12,13 +12,9 @@
       "pe_ratio": 4.7393,
       "sector": "Energy",
       "market_cap": 665685065728,
-      "news": [
-        "Can R$12.2 Billion in Fuel Subsidies Ease Petrobras’ Pricing Pressure?",
-        "Petrobras' Braskem Exposure Faces Test as Debt Talks Continue",
-        "Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views?"
-      ],
-      "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.4%). Nas notícias recentes: \"Can R$12.2 Billion in Fuel Subsidies Ease Petrobras’ Pricing Pressure?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "news": [],
+      "score": 65.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {

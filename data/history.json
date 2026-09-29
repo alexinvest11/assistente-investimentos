@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-23 14:06",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 49.89,
-        "change_pct": 3.19,
-        "currency": "BRL",
-        "dividend_yield": 0.0897,
-        "pe_ratio": 4.9007854,
-        "sector": "Energy",
-        "market_cap": 681671327744,
-        "news": [
-          "Sector Update: Energy Stocks Fall Monday Afternoon",
-          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
-        ],
-        "score": 80.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPML11.SA",
-        "name": "FII XP MALLSCI",
-        "price": 98.08,
-        "change_pct": 0.07,
-        "currency": "BRL",
-        "dividend_yield": 0.11630000000000001,
-        "pe_ratio": null,
-        "sector": "Real Estate",
-        "market_cap": 5564143616,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.6% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-23 15:05",
     "tips": {
       "crypto": null,
@@ -1634,6 +1594,42 @@
         ],
         "score": 70.0,
         "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.4%). Nas notícias recentes: \"Can R$12.2 Billion in Fuel Subsidies Ease Petrobras’ Pricing Pressure?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPLG11.SA",
+        "name": "FII XP LOG  CI",
+        "price": 92.54,
+        "change_pct": 0.16,
+        "currency": "BRL",
+        "dividend_yield": 0.1065,
+        "pe_ratio": 18.288538,
+        "sector": "Real Estate",
+        "market_cap": 3703051776,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.7% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-29 06:27",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 48.72,
+        "change_pct": 1.35,
+        "currency": "BRL",
+        "dividend_yield": 0.0902,
+        "pe_ratio": 4.7393,
+        "sector": "Energy",
+        "market_cap": 665685065728,
+        "news": [],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está em leve alta (1.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "stock"
       },
       "fiis": {
