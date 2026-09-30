@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-29T23:18:08.948403",
+  "updated_at": "2026-09-30T03:12:34.031116",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.1,
-      "change_pct": 0.78,
+      "price": 48.72,
+      "change_pct": 1.35,
       "currency": "BRL",
       "dividend_yield": 0.08900000000000001,
       "pe_ratio": 4.7762647,
@@ -14,22 +14,22 @@
       "market_cap": 670877155328,
       "news": [],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (1.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": 147.93,
-      "change_pct": 0.24,
+      "ticker": "XPLG11.SA",
+      "name": "FII XP LOG  CI",
+      "price": 92.54,
+      "change_pct": 0.16,
       "currency": "BRL",
-      "dividend_yield": 0.0951,
-      "pe_ratio": 9.612085,
+      "dividend_yield": 0.1063,
+      "pe_ratio": 18.258894,
       "sector": "Real Estate",
-      "market_cap": 4998195712,
+      "market_cap": 3697049344,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
