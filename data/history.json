@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-23 20:06",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 49.74,
-        "change_pct": 2.87,
-        "currency": "BRL",
-        "dividend_yield": 0.0897,
-        "pe_ratio": 4.886051,
-        "sector": "Energy",
-        "market_cap": 679621820416,
-        "news": [
-          "Sector Update: Energy Stocks Fall Monday Afternoon",
-          "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
-          "Petrobras Backs New Diesel Subsidy as Fuel Payments Reach $1.9 Billion"
-        ],
-        "score": 80.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço subiu 2.9% recentemente. Nas notícias recentes: \"Sector Update: Energy Stocks Fall Monday Afternoon\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "TRXF11.SA",
-        "name": "FII TRX REALCI",
-        "price": 74.25,
-        "change_pct": 1.71,
-        "currency": "BRL",
-        "dividend_yield": 0.1616,
-        "pe_ratio": 5.883518,
-        "sector": "Real Estate",
-        "market_cap": 2412626432,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.2% ao ano) e o preço está em leve alta (1.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-23 21:05",
     "tips": {
       "crypto": null,
@@ -1626,6 +1586,46 @@
         "pe_ratio": 9.612085,
         "sector": "Real Estate",
         "market_cap": 4998195712,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-09-30 16:34",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 49.58,
+        "change_pct": 0.98,
+        "currency": "BRL",
+        "dividend_yield": 0.0883,
+        "pe_ratio": 4.8229575,
+        "sector": "Energy",
+        "market_cap": 677435670528,
+        "news": [
+          "Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth",
+          "Noble Corporation Secures Long-Term Ghana Drilling Contract",
+          "Can R$12.2 Billion in Fuel Subsidies Ease Petrobras’ Pricing Pressure?"
+        ],
+        "score": 70.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (1.0%). Nas notícias recentes: \"Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 148.2,
+        "change_pct": 0.18,
+        "currency": "BRL",
+        "dividend_yield": 0.0949,
+        "pe_ratio": 9.604666,
+        "sector": "Real Estate",
+        "market_cap": 5007318528,
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
