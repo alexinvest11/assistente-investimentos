@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-10-01T06:46:12.716517",
+  "updated_at": "2026-10-01T14:03:38.152539",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 49.12,
-      "change_pct": 0.04,
+      "price": 49.7,
+      "change_pct": 1.18,
       "currency": "BRL",
       "dividend_yield": 0.0883,
-      "pe_ratio": 4.77821,
+      "pe_ratio": 4.85826,
       "sector": "Energy",
-      "market_cap": 671150440448,
+      "market_cap": 679075250176,
       "news": [
         "Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth",
         "Noble Corporation Secures Long-Term Ghana Drilling Contract",
         "Can R$12.2 Billion in Fuel Subsidies Ease Petrobras’ Pricing Pressure?"
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (0.0%). Nas notícias recentes: \"Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.8% ao ano) e o preço está em leve alta (1.2%). Nas notícias recentes: \"Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": 147.93,
-      "change_pct": 0.24,
+      "ticker": "BTLG11.SA",
+      "name": "FII BTLG    CI  ER",
+      "price": 99.19,
+      "change_pct": 0.25,
       "currency": "BRL",
-      "dividend_yield": 0.0949,
-      "pe_ratio": 9.588464,
+      "dividend_yield": 0.09820000000000001,
+      "pe_ratio": 91.58819,
       "sector": "Real Estate",
-      "market_cap": 4998871552,
+      "market_cap": 4299942912,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII BTLG    CI  ER (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
