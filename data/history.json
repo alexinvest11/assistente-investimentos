@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-09-25 00:11",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 49.26,
-        "change_pct": -0.69,
-        "currency": "BRL",
-        "dividend_yield": 0.0874,
-        "pe_ratio": 4.8772273,
-        "sector": "Energy",
-        "market_cap": 673063305216,
-        "news": [
-          "Petrobras May Add Colombia Gas Project to 2027-2031 Business Plan",
-          "Market Chatter: Petroleo Brasileiro Awaits Official Nod on Columbia Offshore Gas Project for 2027",
-          "Update: Market Chatter: Braskem Creditors Seek $3 Billion Capital Injection From Controlling Holders"
-        ],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.7% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras May Add Colombia Gas Project to 2027-2031 Business Plan\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 147.93,
-        "change_pct": 0.22,
-        "currency": "BRL",
-        "dividend_yield": 0.0951,
-        "pe_ratio": 9.612085,
-        "sector": "Real Estate",
-        "market_cap": 4998195712,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-25 05:39",
     "tips": {
       "crypto": {
@@ -1657,6 +1617,42 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-03 05:55",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.08689999999999999,
+        "pe_ratio": 4.992195,
+        "sector": "Energy",
+        "market_cap": 699160526848,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.7% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNCR11.SA",
+        "name": "FII KINEA RICI",
+        "price": 105.5,
+        "change_pct": 0.54,
+        "currency": "BRL",
+        "dividend_yield": 0.13140000000000002,
+        "pe_ratio": 8.683127,
+        "sector": "Real Estate",
+        "market_cap": 8076198912,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.1% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
