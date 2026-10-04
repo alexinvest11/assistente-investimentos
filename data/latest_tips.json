@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:58:45.253699",
+  "updated_at": "2026-10-04T17:20:22.119745",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -9,7 +9,7 @@
       "change_pct": 2.55,
       "currency": "BRL",
       "dividend_yield": 0.08470000000000001,
-      "pe_ratio": 4.9487424,
+      "pe_ratio": 5.001955,
       "sector": "Energy",
       "market_cap": 699160526848,
       "news": [],
@@ -19,7 +19,7 @@
     },
     "fiis": {
       "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
+      "name": "FII HGLG PAXCI  ER",
       "price": 147.9,
       "change_pct": 0.75,
       "currency": "BRL",
@@ -29,7 +29,7 @@
       "market_cap": 4997182464,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
