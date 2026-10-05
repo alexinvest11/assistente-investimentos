@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-05T03:15:24.054799",
+  "updated_at": "2026-10-05T11:01:59.885737",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 86491.51,
-      "change_pct": 2.04,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1737325543424,
-      "news": [],
-      "score": 50.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
