@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-04T23:45:04.600053",
+  "updated_at": "2026-10-05T03:15:24.054799",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 86484.88,
-      "change_pct": 2.03,
+      "price": 86491.51,
+      "change_pct": 2.04,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1737116352512,
+      "market_cap": 1737325543424,
       "news": [],
       "score": 50.0,
       "reason": "Bitcoin USD (BTC-USD) está em alta de 2.0%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
