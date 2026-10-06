@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-06T15:36:25.813021",
+  "updated_at": "2026-10-06T20:42:18.934274",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 54.08,
-      "change_pct": -2.31,
+      "price": 53.82,
+      "change_pct": -2.78,
       "currency": "BRL",
       "dividend_yield": 0.08470000000000001,
-      "pe_ratio": 5.1553864,
+      "pe_ratio": 5.1306005,
       "sector": "Energy",
-      "market_cap": 738921349120,
+      "market_cap": 735368839168,
       "news": [],
       "score": 55.0,
       "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPLG11.SA",
-      "name": "FII XP LOG  CI  ER",
-      "price": 100.29,
-      "change_pct": 4.0,
+      "ticker": "HGLG11.SA",
+      "name": "FII HGLG PAXCI  ER",
+      "price": 154.0,
+      "change_pct": 2.46,
       "currency": "BRL",
-      "dividend_yield": 0.10490000000000001,
-      "pe_ratio": 19.820158,
+      "dividend_yield": 0.0949,
+      "pe_ratio": 10.0587845,
       "sector": "Real Estate",
-      "market_cap": 4013173504,
+      "market_cap": 5203286528,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.5% ao ano) e o preço subiu 4.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
