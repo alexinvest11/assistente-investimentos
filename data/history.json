@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-09-29 19:01",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 48.81,
-        "change_pct": 0.18,
-        "currency": "BRL",
-        "dividend_yield": 0.08900000000000001,
-        "pe_ratio": 4.771261,
-        "sector": "Energy",
-        "market_cap": 666914783232,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNRI11.SA",
-        "name": "FII KINEA   CI",
-        "price": 156.96,
-        "change_pct": 0.3,
-        "currency": "BRL",
-        "dividend_yield": 0.08439999999999999,
-        "pe_ratio": 10.6507435,
-        "sector": "Real Estate",
-        "market_cap": 4426907648,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA   CI (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.4% ao ano) e o preço está em leve alta (0.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-09-29 23:18",
     "tips": {
       "crypto": null,
@@ -1557,6 +1521,42 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII VINCI SCCI  ER (VISC11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-08 20:24",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 55.48,
+        "change_pct": 2.12,
+        "currency": "BRL",
+        "dividend_yield": 0.0674,
+        "pe_ratio": 5.2888465,
+        "sector": "Energy",
+        "market_cap": 758050193408,
+        "news": [],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.7% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPLG11.SA",
+        "name": "FII XP LOG  CI  ER",
+        "price": 101.33,
+        "change_pct": 0.14,
+        "currency": "BRL",
+        "dividend_yield": 0.09720000000000001,
+        "pe_ratio": 20.025692,
+        "sector": "Real Estate",
+        "market_cap": 4054789632,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
