@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T06:40:40.239462",
+  "updated_at": "2026-10-11T13:40:28.925048",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,13 +8,13 @@
       "price": 56.0,
       "change_pct": 0.94,
       "currency": "BRL",
-      "dividend_yield": 0.0674,
+      "dividend_yield": 0.0654,
       "pe_ratio": 5.3384175,
       "sector": "Energy",
       "market_cap": 765155213312,
       "news": [],
       "score": 55.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.7% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.5% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -23,13 +23,13 @@
       "price": 127.02,
       "change_pct": 2.84,
       "currency": "BRL",
-      "dividend_yield": 0.0823,
-      "pe_ratio": 19.072071,
+      "dividend_yield": 0.0803,
+      "pe_ratio": 18.017021,
       "sector": "Real Estate",
       "market_cap": 1501092736,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII HGRE PAXCI  ER (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.2% ao ano) e o preço subiu 2.8% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGRE PAXCI  ER (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.0% ao ano) e o preço subiu 2.8% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
