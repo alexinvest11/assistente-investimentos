@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-14T05:39:47.399408",
+  "updated_at": "2026-10-14T10:55:37.640273",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 83458.9,
-      "change_pct": 2.07,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1678113898496,
-      "news": [],
-      "score": 50.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
@@ -23,7 +9,7 @@
       "change_pct": 1.52,
       "currency": "BRL",
       "dividend_yield": 0.0645,
-      "pe_ratio": 5.419447,
+      "pe_ratio": 5.503388,
       "sector": "Energy",
       "market_cap": 776769175552,
       "news": [],
@@ -32,18 +18,18 @@
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGRE11.SA",
-      "name": "FII HGRE PAXCI  ER",
-      "price": 127.02,
-      "change_pct": 2.84,
+      "ticker": "HGLG11.SA",
+      "name": "FII HGLG PAXCI  ER",
+      "price": 156.34,
+      "change_pct": -0.79,
       "currency": "BRL",
-      "dividend_yield": 0.083,
-      "pe_ratio": 16.950344,
+      "dividend_yield": 0.0898,
+      "pe_ratio": 9.814187,
       "sector": "Real Estate",
-      "market_cap": 1452285440,
+      "market_cap": 5282349568,
       "news": [],
-      "score": 60.0,
-      "reason": "O fundo imobiliário FII HGRE PAXCI  ER (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.3% ao ano) e o preço subiu 2.8% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 45.0,
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
