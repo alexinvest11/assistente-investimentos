@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-04 20:42",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 85658.0,
-        "change_pct": 1.06,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1719537762304,
-        "news": [],
-        "score": 35.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 51.17,
-        "change_pct": 2.55,
-        "currency": "BRL",
-        "dividend_yield": 0.08470000000000001,
-        "pe_ratio": 5.001955,
-        "sector": "Energy",
-        "market_cap": 699160526848,
-        "news": [],
-        "score": 75.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ER",
-        "price": 147.9,
-        "change_pct": 0.75,
-        "currency": "BRL",
-        "dividend_yield": 0.0949,
-        "pe_ratio": 9.585223,
-        "sector": "Real Estate",
-        "market_cap": 4997182464,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-04 23:45",
     "tips": {
       "crypto": {
@@ -1603,6 +1553,42 @@
         "news": [],
         "score": 45.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-14 15:39",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 57.68,
+        "change_pct": 1.46,
+        "currency": "BRL",
+        "dividend_yield": 0.0645,
+        "pe_ratio": 5.583737,
+        "sector": "Energy",
+        "market_cap": 788109852672,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.5% ao ano) e o preço está em leve alta (1.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNRI11.SA",
+        "name": "FII KINEA   CI  ER",
+        "price": 164.3,
+        "change_pct": 0.06,
+        "currency": "BRL",
+        "dividend_yield": 0.08039999999999999,
+        "pe_ratio": 11.148809,
+        "sector": "Real Estate",
+        "market_cap": 4633925120,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.0% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
