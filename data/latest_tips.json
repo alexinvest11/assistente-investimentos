@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-15T17:32:22.587176",
+  "updated_at": "2026-10-15T20:46:49.762916",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VIVT3.SA",
       "name": "TELEF BRASILON",
-      "price": 31.49,
-      "change_pct": 1.09,
+      "price": 31.22,
+      "change_pct": 0.22,
       "currency": "BRL",
       "dividend_yield": 0.061200000000000004,
-      "pe_ratio": 15.066986,
+      "pe_ratio": 15.15534,
       "sector": "Communication Services",
-      "market_cap": 100629643264,
+      "market_cap": 99766829056,
       "news": [],
       "score": 55.0,
-      "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.1% ao ano) e o preço está em leve alta (1.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.1% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 156.05,
-      "change_pct": 0.03,
+      "price": 156.6,
+      "change_pct": 0.38,
       "currency": "BRL",
       "dividend_yield": 0.0898,
-      "pe_ratio": 9.8206415,
+      "pe_ratio": 9.750935,
       "sector": "Real Estate",
-      "market_cap": 5272551424,
+      "market_cap": 5291134464,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
