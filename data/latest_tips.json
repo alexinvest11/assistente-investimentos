@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-16T17:07:09.902923",
+  "updated_at": "2026-10-16T20:20:01.041679",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 58.55,
-      "change_pct": 2.07,
+      "price": 59.24,
+      "change_pct": 3.28,
       "currency": "BRL",
       "dividend_yield": 0.0639,
-      "pe_ratio": 5.5815063,
+      "pe_ratio": 5.6472836,
       "sector": "Energy",
-      "market_cap": 799997100032,
+      "market_cap": 809424912384,
       "news": [],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.4% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.4% ao ano) e o preço subiu 3.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGRE11.SA",
       "name": "FII HGRE PAXCI",
-      "price": 124.75,
-      "change_pct": 0.85,
+      "price": 124.79,
+      "change_pct": 0.88,
       "currency": "BRL",
       "dividend_yield": 0.0825,
-      "pe_ratio": 17.770655,
+      "pe_ratio": 17.675638,
       "sector": "Real Estate",
-      "market_cap": 1474266496,
+      "market_cap": 1474739200,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.2% ao ano) e o preço está em leve alta (0.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.2% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
