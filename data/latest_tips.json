@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-16T20:20:01.041679",
+  "updated_at": "2026-10-16T23:10:23.072926",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 59.24,
-      "change_pct": 3.28,
+      "price": 59.68,
+      "change_pct": 4.04,
       "currency": "BRL",
       "dividend_yield": 0.0639,
-      "pe_ratio": 5.6472836,
+      "pe_ratio": 5.689228,
       "sector": "Energy",
-      "market_cap": 809424912384,
+      "market_cap": 815436857344,
       "news": [],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.4% ao ano) e o preço subiu 3.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.4% ao ano) e o preço subiu 4.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
