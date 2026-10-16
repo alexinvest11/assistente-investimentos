@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-07 06:44",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 55.36,
-        "change_pct": 8.19,
-        "currency": "BRL",
-        "dividend_yield": 0.0806,
-        "pe_ratio": 5.1306005,
-        "sector": "Energy",
-        "market_cap": 735368839168,
-        "news": [],
-        "score": 75.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço subiu 8.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 96.43,
-        "change_pct": 2.79,
-        "currency": "BRL",
-        "dividend_yield": 0.0993,
-        "pe_ratio": 19.577074,
-        "sector": "Real Estate",
-        "market_cap": 3963953920,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.9% ao ano) e o preço subiu 2.8% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-07 14:06",
     "tips": {
       "crypto": null,
@@ -1531,6 +1495,42 @@
   },
   {
     "date": "2026-10-15 23:28",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VIVT3.SA",
+        "name": "TELEF BRASILON",
+        "price": 31.22,
+        "change_pct": 0.22,
+        "currency": "BRL",
+        "dividend_yield": 0.061200000000000004,
+        "pe_ratio": 14.937799,
+        "sector": "Communication Services",
+        "market_cap": 99766829056,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.1% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ER",
+        "price": 156.6,
+        "change_pct": 0.38,
+        "currency": "BRL",
+        "dividend_yield": 0.0898,
+        "pe_ratio": 9.855255,
+        "sector": "Real Estate",
+        "market_cap": 5291134464,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-16 02:27",
     "tips": {
       "crypto": null,
       "stocks": {
