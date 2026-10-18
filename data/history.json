@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-11 06:40",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 56.0,
-        "change_pct": 0.94,
-        "currency": "BRL",
-        "dividend_yield": 0.0674,
-        "pe_ratio": 5.3384175,
-        "sector": "Energy",
-        "market_cap": 765155213312,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.7% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGRE11.SA",
-        "name": "FII HGRE PAXCI  ER",
-        "price": 127.02,
-        "change_pct": 2.84,
-        "currency": "BRL",
-        "dividend_yield": 0.0823,
-        "pe_ratio": 19.072071,
-        "sector": "Real Estate",
-        "market_cap": 1501092736,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII HGRE PAXCI  ER (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.2% ao ano) e o preço subiu 2.8% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-11 13:40",
     "tips": {
       "crypto": null,
@@ -1499,6 +1463,42 @@
         "currency": "BRL",
         "dividend_yield": 0.061399999999999996,
         "pe_ratio": 5.689228,
+        "sector": "Energy",
+        "market_cap": 815436857344,
+        "news": [],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.1% ao ano) e o preço subiu 4.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGRE11.SA",
+        "name": "FII HGRE PAXCI",
+        "price": 124.79,
+        "change_pct": 0.88,
+        "currency": "BRL",
+        "dividend_yield": 0.0817,
+        "pe_ratio": 17.675638,
+        "sector": "Real Estate",
+        "market_cap": 1474739200,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.2% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-18 16:16",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 59.68,
+        "change_pct": 4.04,
+        "currency": "BRL",
+        "dividend_yield": 0.061399999999999996,
+        "pe_ratio": 5.920635,
         "sector": "Energy",
         "market_cap": 815436857344,
         "news": [],
