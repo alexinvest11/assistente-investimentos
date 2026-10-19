@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-13 01:03",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 56.0,
-        "change_pct": 0.94,
-        "currency": "BRL",
-        "dividend_yield": 0.0654,
-        "pe_ratio": 5.3384175,
-        "sector": "Energy",
-        "market_cap": 765155213312,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.5% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGRE11.SA",
-        "name": "FII HGRE PAXCI  ER",
-        "price": 127.02,
-        "change_pct": 2.84,
-        "currency": "BRL",
-        "dividend_yield": 0.0803,
-        "pe_ratio": 19.072071,
-        "sector": "Real Estate",
-        "market_cap": 1501092736,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII HGRE PAXCI  ER (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.0% ao ano) e o preço subiu 2.8% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-13 08:45",
     "tips": {
       "crypto": {
@@ -1519,6 +1483,42 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.9% ao ano) e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-19 22:42",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 66.36,
+        "change_pct": 0.23,
+        "currency": "BRL",
+        "dividend_yield": 0.066,
+        "pe_ratio": 25.04151,
+        "sector": "Basic Materials",
+        "market_cap": 282412417024,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPLG11.SA",
+        "name": "FII XP LOG  CI",
+        "price": 100.34,
+        "change_pct": 0.45,
+        "currency": "BRL",
+        "dividend_yield": 0.09849999999999999,
+        "pe_ratio": 19.83004,
+        "sector": "Real Estate",
+        "market_cap": 4015173888,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
