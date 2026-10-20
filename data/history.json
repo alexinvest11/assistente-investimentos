@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-13 16:37",
-    "tips": {
-      "crypto": {
-        "ticker": "ETH-USD",
-        "name": "Ethereum USD",
-        "price": 2513.7,
-        "change_pct": 2.84,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 306933104640,
-        "news": [],
-        "score": 45.0,
-        "reason": "Ethereum USD (ETH-USD) está em alta de 2.8%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 56.54,
-        "change_pct": 0.96,
-        "currency": "BRL",
-        "dividend_yield": 0.0654,
-        "pe_ratio": 5.3898954,
-        "sector": "Energy",
-        "market_cap": 772533518336,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.5% ao ano) e o preço está em leve alta (1.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI  ER",
-        "price": 155.9,
-        "change_pct": -1.07,
-        "currency": "BRL",
-        "dividend_yield": 0.0891,
-        "pe_ratio": 9.707347,
-        "sector": "Real Estate",
-        "market_cap": 5267483136,
-        "news": [],
-        "score": 45.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.9% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-13 21:40",
     "tips": {
       "crypto": {
@@ -1505,6 +1455,42 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-20 06:55",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VIVT3.SA",
+        "name": "TELEF BRASILON",
+        "price": 31.78,
+        "change_pct": 1.79,
+        "currency": "BRL",
+        "dividend_yield": 0.053200000000000004,
+        "pe_ratio": 15.531708,
+        "sector": "Communication Services",
+        "market_cap": 101748105216,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.3% ao ano em proventos e o preço está em leve alta (1.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGRE11.SA",
+        "name": "FII HGRE PAXCI",
+        "price": 124.79,
+        "change_pct": 0.88,
+        "currency": "BRL",
+        "dividend_yield": 0.0817,
+        "pe_ratio": 17.852736,
+        "sector": "Real Estate",
+        "market_cap": 1504283520,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.2% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
