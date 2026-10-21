@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-14 22:53",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 58.11,
-        "change_pct": 2.22,
-        "currency": "BRL",
-        "dividend_yield": 0.0645,
-        "pe_ratio": 5.5395617,
-        "sector": "Energy",
-        "market_cap": 793985155072,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.5% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "BTLG11.SA",
-        "name": "FII BTLG    CI",
-        "price": 104.6,
-        "change_pct": 0.22,
-        "currency": "BRL",
-        "dividend_yield": 0.0931,
-        "pe_ratio": 96.583565,
-        "sector": "Real Estate",
-        "market_cap": 7258157056,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.3% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-15 01:08",
     "tips": {
       "crypto": null,
@@ -1505,6 +1469,56 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII TG ATIVOCI (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 16.2% ao ano) e o preço subiu 2.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-21 15:46",
+    "tips": {
+      "crypto": {
+        "ticker": "ETH-USD",
+        "name": "Ethereum USD",
+        "price": 2510.76,
+        "change_pct": 2.62,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 306344493056,
+        "news": [],
+        "score": 45.0,
+        "reason": "Ethereum USD (ETH-USD) está em alta de 2.6%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "VIVT3.SA",
+        "name": "TELEF BRASILON",
+        "price": 33.0,
+        "change_pct": 2.52,
+        "currency": "BRL",
+        "dividend_yield": 0.0525,
+        "pe_ratio": 16.019419,
+        "sector": "Communication Services",
+        "market_cap": 105455009792,
+        "news": [],
+        "score": 65.0,
+        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "TRXF11.SA",
+        "name": "FII TRX REALCI",
+        "price": 71.88,
+        "change_pct": 0.11,
+        "currency": "BRL",
+        "dividend_yield": 0.15539999999999998,
+        "pe_ratio": 5.6965137,
+        "sector": "Real Estate",
+        "market_cap": 2335942144,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.5% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
