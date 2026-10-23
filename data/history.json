@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-16 07:43",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 58.11,
-        "change_pct": 2.22,
-        "currency": "BRL",
-        "dividend_yield": 0.0639,
-        "pe_ratio": 5.350746,
-        "sector": "Energy",
-        "market_cap": 783737552896,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.4% ao ano) e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "BTLG11.SA",
-        "name": "FII BTLG    CI",
-        "price": 104.6,
-        "change_pct": 0.22,
-        "currency": "BRL",
-        "dividend_yield": 0.0931,
-        "pe_ratio": 96.398895,
-        "sector": "Real Estate",
-        "market_cap": 7244279296,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.3% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-16 12:54",
     "tips": {
       "crypto": null,
@@ -1531,6 +1495,42 @@
   },
   {
     "date": "2026-10-22 21:01",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 57.83,
+        "change_pct": 0.14,
+        "currency": "BRL",
+        "dividend_yield": 0.0635,
+        "pe_ratio": 5.51287,
+        "sector": "Energy",
+        "market_cap": 790159425536,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.3% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "MXRF11.SA",
+        "name": "FII MAXI RENCI",
+        "price": 9.48,
+        "change_pct": 0.42,
+        "currency": "BRL",
+        "dividend_yield": 0.12710000000000002,
+        "pe_ratio": 13.542857,
+        "sector": "Real Estate",
+        "market_cap": 4366749696,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.7% ao ano) e o preço está em leve alta (0.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-23 00:17",
     "tips": {
       "crypto": null,
       "stocks": {
