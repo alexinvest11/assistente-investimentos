@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-20 06:55",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VIVT3.SA",
-        "name": "TELEF BRASILON",
-        "price": 31.78,
-        "change_pct": 1.79,
-        "currency": "BRL",
-        "dividend_yield": 0.053200000000000004,
-        "pe_ratio": 15.531708,
-        "sector": "Communication Services",
-        "market_cap": 101748105216,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.3% ao ano em proventos e o preço está em leve alta (1.8%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGRE11.SA",
-        "name": "FII HGRE PAXCI",
-        "price": 124.79,
-        "change_pct": 0.88,
-        "currency": "BRL",
-        "dividend_yield": 0.0817,
-        "pe_ratio": 17.852736,
-        "sector": "Real Estate",
-        "market_cap": 1504283520,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.2% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-20 12:26",
     "tips": {
       "crypto": null,
@@ -1547,6 +1511,42 @@
         "news": [],
         "score": 45.0,
         "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.8% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-27 07:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 61.9,
+        "change_pct": 0.67,
+        "currency": "BRL",
+        "dividend_yield": 0.0679,
+        "pe_ratio": 25.247059,
+        "sector": "Basic Materials",
+        "market_cap": 273985994752,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço está em leve alta (0.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "VISC11.SA",
+        "name": "FII VINCI SCCI",
+        "price": 114.2,
+        "change_pct": 0.57,
+        "currency": "BRL",
+        "dividend_yield": 0.09630000000000001,
+        "pe_ratio": 66.63694,
+        "sector": "Real Estate",
+        "market_cap": 3016052480,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII VINCI SCCI (VISC11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
