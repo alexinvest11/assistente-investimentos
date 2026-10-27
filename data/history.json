@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-20 01:24",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 66.36,
-        "change_pct": 0.23,
-        "currency": "BRL",
-        "dividend_yield": 0.066,
-        "pe_ratio": 25.04151,
-        "sector": "Basic Materials",
-        "market_cap": 282412417024,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.6% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI",
-        "price": 100.34,
-        "change_pct": 0.45,
-        "currency": "BRL",
-        "dividend_yield": 0.09849999999999999,
-        "pe_ratio": 19.83004,
-        "sector": "Real Estate",
-        "market_cap": 4015173888,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-20 06:55",
     "tips": {
       "crypto": null,
@@ -1517,6 +1481,42 @@
   },
   {
     "date": "2026-10-26 22:57",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 64.38,
+        "change_pct": 4.01,
+        "currency": "BRL",
+        "dividend_yield": 0.0706,
+        "pe_ratio": 24.294338,
+        "sector": "Basic Materials",
+        "market_cap": 273985994752,
+        "news": [],
+        "score": 65.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.1% ao ano) e o preço subiu 4.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNCR11.SA",
+        "name": "FII KINEA RICI",
+        "price": 104.3,
+        "change_pct": -1.18,
+        "currency": "BRL",
+        "dividend_yield": 0.1284,
+        "pe_ratio": 8.626965,
+        "sector": "Real Estate",
+        "market_cap": 7984336896,
+        "news": [],
+        "score": 45.0,
+        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.8% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-27 01:49",
     "tips": {
       "crypto": null,
       "stocks": {
