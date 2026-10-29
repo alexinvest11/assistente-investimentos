@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-21 22:55",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 84466.23,
-        "change_pct": 1.84,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1697449902080,
-        "news": [],
-        "score": 35.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.8%. Foi destacada entre as principais criptomoedas do momento. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "VIVT3.SA",
-        "name": "TELEF BRASILON",
-        "price": 32.64,
-        "change_pct": 1.4,
-        "currency": "BRL",
-        "dividend_yield": 0.0525,
-        "pe_ratio": 15.844661,
-        "sector": "Communication Services",
-        "market_cap": 104304590848,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço está em leve alta (1.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 157.44,
-        "change_pct": 0.73,
-        "currency": "BRL",
-        "dividend_yield": 0.0898,
-        "pe_ratio": 9.895663,
-        "sector": "Real Estate",
-        "market_cap": 5319516160,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-22 01:08",
     "tips": {
       "crypto": {
@@ -1477,6 +1427,42 @@
         "news": [],
         "score": 45.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.4% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-29 07:52",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "B3SA3.SA",
+        "name": "B3          ON      NM",
+        "price": 15.4,
+        "change_pct": 2.19,
+        "currency": "BRL",
+        "dividend_yield": 0.0512,
+        "pe_ratio": 13.990477,
+        "sector": "Financial Services",
+        "market_cap": 73099329536,
+        "news": [],
+        "score": 65.0,
+        "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "KNCR11.SA",
+        "name": "FII KINEA RICI",
+        "price": 105.35,
+        "change_pct": 1.01,
+        "currency": "BRL",
+        "dividend_yield": 0.12960000000000002,
+        "pe_ratio": 8.587849,
+        "sector": "Real Estate",
+        "market_cap": 8007302144,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.0% ao ano) e o preço está em leve alta (1.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
