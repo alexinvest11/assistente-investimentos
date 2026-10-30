@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-22 17:46",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VIVT3.SA",
-        "name": "TELEF BRASILON",
-        "price": 33.06,
-        "change_pct": 1.29,
-        "currency": "BRL",
-        "dividend_yield": 0.0518,
-        "pe_ratio": 16.048544,
-        "sector": "Communication Services",
-        "market_cap": 105646751744,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço está em leve alta (1.3%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGBS11.SA",
-        "name": "FII HEDGEBS CI",
-        "price": 19.49,
-        "change_pct": 0.41,
-        "currency": "BRL",
-        "dividend_yield": 0.1051,
-        "pe_ratio": 17.718182,
-        "sector": "Real Estate",
-        "market_cap": 2516802304,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HEDGEBS CI (HGBS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.5% ao ano) e o preço está em leve alta (0.4%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-22 21:01",
     "tips": {
       "crypto": null,
@@ -1449,6 +1413,42 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.0% ao ano) e o preço subiu 2.9% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-30 03:44",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "WEGE3.SA",
+        "name": "WEG         ON      NM",
+        "price": 47.2,
+        "change_pct": 2.25,
+        "currency": "BRL",
+        "dividend_yield": 0.032799999999999996,
+        "pe_ratio": 33.073826,
+        "sector": "Industrials",
+        "market_cap": 206770487296,
+        "news": [],
+        "score": 55.0,
+        "reason": "A ação WEG         ON      NM (WEGE3.SA) foi destacada porque paga cerca de 3.3% ao ano em proventos e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 147.58,
+        "change_pct": -1.43,
+        "currency": "BRL",
+        "dividend_yield": 0.0951,
+        "pe_ratio": 9.773936,
+        "sector": "Real Estate",
+        "market_cap": 4966773760,
+        "news": [],
+        "score": 45.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }

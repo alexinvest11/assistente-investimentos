@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-29T23:50:30.347968",
+  "updated_at": "2026-10-30T03:44:24.807688",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "WEGE3.SA",
       "name": "WEG         ON      NM",
-      "price": 49.28,
-      "change_pct": 4.41,
+      "price": 47.2,
+      "change_pct": 2.25,
       "currency": "BRL",
       "dividend_yield": 0.032799999999999996,
       "pe_ratio": 33.073826,
@@ -14,22 +14,22 @@
       "market_cap": 206770487296,
       "news": [],
       "score": 55.0,
-      "reason": "A ação WEG         ON      NM (WEGE3.SA) foi destacada porque paga cerca de 3.3% ao ano em proventos e o preço subiu 4.4% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação WEG         ON      NM (WEGE3.SA) foi destacada porque paga cerca de 3.3% ao ano em proventos e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "TRXF11.SA",
-      "name": "FII TRX REALCI",
-      "price": 67.38,
-      "change_pct": 2.87,
+      "ticker": "HGLG11.SA",
+      "name": "FII HGLG PAXCI",
+      "price": 147.58,
+      "change_pct": -1.43,
       "currency": "BRL",
-      "dividend_yield": 0.1704,
-      "pe_ratio": 5.339144,
+      "dividend_yield": 0.0951,
+      "pe_ratio": 9.773936,
       "sector": "Real Estate",
-      "market_cap": 2189397504,
+      "market_cap": 4966773760,
       "news": [],
-      "score": 60.0,
-      "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.0% ao ano) e o preço subiu 2.9% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 45.0,
+      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.5% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
