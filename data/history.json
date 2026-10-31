@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-23 15:33",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 58.78,
-        "change_pct": 1.64,
-        "currency": "BRL",
-        "dividend_yield": 0.0634,
-        "pe_ratio": 5.6034317,
-        "sector": "Energy",
-        "market_cap": 803139682304,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.3% ao ano) e o preço está em leve alta (1.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 157.97,
-        "change_pct": 0.59,
-        "currency": "BRL",
-        "dividend_yield": 0.0894,
-        "pe_ratio": 9.873125,
-        "sector": "Real Estate",
-        "market_cap": 5337423360,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.9% ao ano) e o preço está em leve alta (0.6%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-23 19:40",
     "tips": {
       "crypto": null,
@@ -1449,6 +1413,42 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está em leve alta (1.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-10-31 07:48",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.0695,
+        "pe_ratio": 5.0247855,
+        "sector": "Energy",
+        "market_cap": 720202301440,
+        "news": [],
+        "score": 45.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": NaN,
+        "change_pct": NaN,
+        "currency": "BRL",
+        "dividend_yield": 0.09390000000000001,
+        "pe_ratio": 9.979974,
+        "sector": "Real Estate",
+        "market_cap": 5051242496,
+        "news": [],
+        "score": 40.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.4% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
