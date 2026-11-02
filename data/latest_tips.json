@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-02T03:39:01.663864",
+  "updated_at": "2026-11-02T11:53:33.906046",
   "tips": {
-    "crypto": {
-      "ticker": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2307.6,
-      "change_pct": 2.43,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 281805324288,
-      "news": [],
-      "score": 45.0,
-      "reason": "Ethereum USD (ETH-USD) está em alta de 2.4%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
