@@ -1,57 +1,39 @@
 {
-  "updated_at": "2026-11-03T23:50:06.413314",
+  "updated_at": "2026-11-04T04:07:15.229278",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 77612.03,
-      "change_pct": 1.22,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1561149571072,
-      "news": [
-        "Brazil's Mercado bitcoin hacked for $40 million",
-        "If You Had Bought XRP the Day Ripple Won Its SEC Case, How Much Would You Have Now?",
-        "Stock Futures Rise as First Polls Close"
-      ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.2%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Brazil's Mercado bitcoin hacked for $40 million\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
-      "ticker": "ABEV3.SA",
-      "name": "AMBEV S/A   ON",
-      "price": 14.7,
-      "change_pct": 0.68,
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 62.02,
+      "change_pct": 3.28,
       "currency": "BRL",
-      "dividend_yield": 0.0501,
-      "pe_ratio": 14.554456,
-      "sector": "Consumer Defensive",
-      "market_cap": 226623275008,
+      "dividend_yield": 0.0704,
+      "pe_ratio": 72.59036,
+      "sector": "Basic Materials",
+      "market_cap": 256409698304,
       "news": [
-        "Ambev Q3 Earnings Call Highlights",
-        "Ambev (ABEV) Q3 2026 Earnings Call Transcript",
-        "Ambev: Q3 Earnings Snapshot"
+        "5 Best High Growth Stocks Outside Big Tech",
+        "Vale Q3 Earnings Call Highlights",
+        "Vale (VALE) Q3 2026 Earnings Call Transcript"
       ],
-      "score": 60.0,
-      "reason": "A ação AMBEV S/A   ON (ABEV3.SA) foi destacada porque paga cerca de 5.0% ao ano em proventos e o preço está em leve alta (0.7%). Nas notícias recentes: \"Ambev Q3 Earnings Call Highlights\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 3.3% recentemente. Nas notícias recentes: \"5 Best High Growth Stocks Outside Big Tech\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "BTLG11.SA",
-      "name": "FII BTLG    CI",
-      "price": 96.85,
-      "change_pct": -1.09,
+      "ticker": "HGLG11.SA",
+      "name": "FII HGLG PAXCI",
+      "price": 149.5,
+      "change_pct": 1.7,
       "currency": "BRL",
-      "dividend_yield": 0.0993,
-      "pe_ratio": 89.42752,
+      "dividend_yield": 0.09390000000000001,
+      "pe_ratio": 9.495732,
       "sector": "Real Estate",
-      "market_cap": 6720387072,
+      "market_cap": 4886359040,
       "news": [],
-      "score": 45.0,
-      "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.9% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 50.0,
+      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.4% ao ano) e o preço está em leve alta (1.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
