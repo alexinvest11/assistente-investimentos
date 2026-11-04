@@ -1,39 +1,57 @@
 {
-  "updated_at": "2026-11-04T04:07:15.229278",
+  "updated_at": "2026-11-04T12:42:23.949558",
   "tips": {
-    "crypto": null,
-    "stocks": {
-      "ticker": "VALE3.SA",
-      "name": "VALE        ON      NM",
-      "price": 62.02,
-      "change_pct": 3.28,
-      "currency": "BRL",
-      "dividend_yield": 0.0704,
-      "pe_ratio": 72.59036,
-      "sector": "Basic Materials",
-      "market_cap": 256409698304,
+    "crypto": {
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 78165.42,
+      "change_pct": 1.06,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 1571587096576,
       "news": [
-        "5 Best High Growth Stocks Outside Big Tech",
-        "Vale Q3 Earnings Call Highlights",
-        "Vale (VALE) Q3 2026 Earnings Call Transcript"
+        "Donald Trump’s Midterm Defeat Tests Bitwise’s $3.67M Bitcoin Bull Case",
+        "Is Altseason Starting? What the Charts and Market Data Show",
+        "Morning Bid: Tangled up in blue"
       ],
-      "score": 70.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 3.3% recentemente. Nas notícias recentes: \"5 Best High Growth Stocks Outside Big Tech\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 40.0,
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Donald Trump’s Midterm Defeat Tests Bitwise’s $3.67M Bitcoin Bull Case\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
+    "stocks": {
+      "ticker": "RENT3.SA",
+      "name": "LOCALIZA    ON      NM",
+      "price": 27.41,
+      "change_pct": -1.58,
+      "currency": "BRL",
+      "dividend_yield": 0.0812,
+      "pe_ratio": 8.565625,
+      "sector": "Industrials",
+      "market_cap": 30282782720,
+      "news": [
+        "Westinghouse Air Brake Technologies (WAB) Tops Q3 Earnings Estimates",
+        "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+        "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth"
+      ],
+      "score": 60.0,
+      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Westinghouse Air Brake Technologies (WAB) Tops Q3 Earnings Estimates\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": 149.5,
-      "change_pct": 1.7,
+      "ticker": "BTLG11.SA",
+      "name": "FII BTLG    CI",
+      "price": 96.85,
+      "change_pct": -1.09,
       "currency": "BRL",
-      "dividend_yield": 0.09390000000000001,
-      "pe_ratio": 9.495732,
+      "dividend_yield": 0.10039999999999999,
+      "pe_ratio": 89.42752,
       "sector": "Real Estate",
-      "market_cap": 4886359040,
+      "market_cap": 6720387072,
       "news": [],
-      "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.4% ao ano) e o preço está em leve alta (1.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 45.0,
+      "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.0% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
