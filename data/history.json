@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-26 11:57",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 58.68,
-        "change_pct": 1.47,
-        "currency": "BRL",
-        "dividend_yield": 0.062400000000000004,
-        "pe_ratio": 5.5938993,
-        "sector": "Energy",
-        "market_cap": 801773387776,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.2% ao ano) e o preço está em leve alta (1.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 159.66,
-        "change_pct": 1.67,
-        "currency": "BRL",
-        "dividend_yield": 0.08789999999999999,
-        "pe_ratio": 9.813153,
-        "sector": "Real Estate",
-        "market_cap": 5394524672,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 8.8% ao ano) e o preço está em leve alta (1.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-26 18:12",
     "tips": {
       "crypto": null,
@@ -1525,6 +1489,64 @@
         "news": [],
         "score": 45.0,
         "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.0% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-04 20:11",
+    "tips": {
+      "crypto": {
+        "ticker": "ETH-USD",
+        "name": "Ethereum USD",
+        "price": 2408.05,
+        "change_pct": 5.95,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 294209880064,
+        "news": [
+          "Bitcoin Dipped Toward $76,000 and Bounced Back Above $78,000 Within Hours. Is the Bottom In?",
+          "Wallets Holding 1 Million XRP Hit a 2026 High as XRP Climbs Back Above $1.30. Can It Hold?",
+          "Bitcoin Tops $81,000 After Midterm Dip, Squeezing Short Sellers"
+        ],
+        "score": 70.0,
+        "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (6.0%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Bitcoin Dipped Toward $76,000 and Bounced Back Above $78,000 Within Hours. Is the Bottom In?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "RENT3.SA",
+        "name": "LOCALIZA    ON      NM",
+        "price": 29.31,
+        "change_pct": 6.93,
+        "currency": "BRL",
+        "dividend_yield": 0.0812,
+        "pe_ratio": 9.159374,
+        "sector": "Industrials",
+        "market_cap": 32381917184,
+        "news": [
+          "Westinghouse Air Brake Technologies (WAB) Tops Q3 Earnings Estimates",
+          "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
+          "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth"
+        ],
+        "score": 75.0,
+        "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço subiu 6.9% recentemente. Nas notícias recentes: \"Westinghouse Air Brake Technologies (WAB) Tops Q3 Earnings Estimates\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "CPTS11.SA",
+        "name": "FII CAPI SECCI",
+        "price": 7.04,
+        "change_pct": 2.62,
+        "currency": "BRL",
+        "dividend_yield": 0.1574,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 2559062016,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.7% ao ano) e o preço subiu 2.6% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
