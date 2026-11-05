@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-05T16:59:59.142442",
+  "updated_at": "2026-11-05T22:35:50.079522",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 62.58,
-      "change_pct": 0.37,
+      "price": 62.67,
+      "change_pct": 0.51,
       "currency": "BRL",
       "dividend_yield": 0.0701,
-      "pe_ratio": 75.39759,
+      "pe_ratio": 75.50603,
       "sector": "Basic Materials",
-      "market_cap": 266325639168,
+      "market_cap": 266708647936,
       "news": [
         "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
         "5 Best High Growth Stocks Outside Big Tech",
         "Vale Q3 Earnings Call Highlights"
       ],
       "score": 60.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.4%). Nas notícias recentes: \"Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "TRXF11.SA",
-      "name": "FII TRX REALCI",
-      "price": 64.33,
-      "change_pct": 2.44,
+      "ticker": "MXRF11.SA",
+      "name": "FII MAXI RENCI",
+      "price": 8.64,
+      "change_pct": 2.98,
       "currency": "BRL",
-      "dividend_yield": 0.1777,
-      "pe_ratio": 5.0974646,
+      "dividend_yield": 0.1359,
+      "pe_ratio": 12.342858,
       "sector": "Real Estate",
-      "market_cap": 2090292992,
+      "market_cap": 3979822848,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.8% ao ano) e o preço subiu 2.4% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.6% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
