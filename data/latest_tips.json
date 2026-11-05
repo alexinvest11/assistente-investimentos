@@ -1,42 +1,24 @@
 {
-  "updated_at": "2026-11-05T01:12:13.912698",
+  "updated_at": "2026-11-05T08:47:53.541217",
   "tips": {
-    "crypto": {
-      "ticker": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2418.9,
-      "change_pct": 6.43,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 295458045952,
+    "crypto": null,
+    "stocks": {
+      "ticker": "VALE3.SA",
+      "name": "VALE        ON      NM",
+      "price": 62.35,
+      "change_pct": 3.49,
+      "currency": "BRL",
+      "dividend_yield": 0.0701,
+      "pe_ratio": 76.9753,
+      "sector": "Basic Materials",
+      "market_cap": 265346793472,
       "news": [
-        "Crypto Market Today, Nov. 4: Bitcoin Stages Sharp Recovery as Wall Street Rallies and Regulatory Hopes Return",
-        "Bitcoin Reverses Election-Night Losses to Finish Above $80,000",
-        "The XRP Ledger Now Ranks 6th for Tokenized Assets With $5 Billion. How Much of It Actually Needs XRP?"
+        "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
+        "5 Best High Growth Stocks Outside Big Tech",
+        "Vale Q3 Earnings Call Highlights"
       ],
       "score": 70.0,
-      "reason": "Ethereum USD (ETH-USD) subiu bastante nos últimos dias (6.4%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"Crypto Market Today, Nov. 4: Bitcoin Stages Sharp Recovery as Wall Street Rallies and Regulatory Hopes Return\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
-    "stocks": {
-      "ticker": "RENT3.SA",
-      "name": "LOCALIZA    ON      NM",
-      "price": 29.46,
-      "change_pct": 7.48,
-      "currency": "BRL",
-      "dividend_yield": 0.0812,
-      "pe_ratio": 9.352381,
-      "sector": "Industrials",
-      "market_cap": 32547637248,
-      "news": [
-        "Westinghouse Air Brake Technologies (WAB) Tops Q3 Earnings Estimates",
-        "Localiza Rent A Car SA (LZRFY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-        "Localiza Rent A Car SA - Sponsored ADR (LZRFY) to Report Q2 Results: Wall Street Expects Earnings Growth"
-      ],
-      "score": 75.0,
-      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço subiu 7.5% recentemente. Nas notícias recentes: \"Westinghouse Air Brake Technologies (WAB) Tops Q3 Earnings Estimates\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 3.5% recentemente. Nas notícias recentes: \"Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -45,13 +27,13 @@
       "price": 7.08,
       "change_pct": 3.21,
       "currency": "BRL",
-      "dividend_yield": 0.1574,
+      "dividend_yield": 0.1525,
       "pe_ratio": null,
       "sector": "Real Estate",
       "market_cap": 2573602048,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.7% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.2% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }

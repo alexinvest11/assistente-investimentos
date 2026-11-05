@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-26 22:57",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 64.38,
-        "change_pct": 4.01,
-        "currency": "BRL",
-        "dividend_yield": 0.0706,
-        "pe_ratio": 24.294338,
-        "sector": "Basic Materials",
-        "market_cap": 273985994752,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.1% ao ano) e o preço subiu 4.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 104.3,
-        "change_pct": -1.18,
-        "currency": "BRL",
-        "dividend_yield": 0.1284,
-        "pe_ratio": 8.626965,
-        "sector": "Real Estate",
-        "market_cap": 7984336896,
-        "news": [],
-        "score": 45.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.8% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-27 01:49",
     "tips": {
       "crypto": null,
@@ -1569,6 +1533,46 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.7% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-05 08:47",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 62.35,
+        "change_pct": 3.49,
+        "currency": "BRL",
+        "dividend_yield": 0.0701,
+        "pe_ratio": 76.9753,
+        "sector": "Basic Materials",
+        "market_cap": 265346793472,
+        "news": [
+          "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
+          "5 Best High Growth Stocks Outside Big Tech",
+          "Vale Q3 Earnings Call Highlights"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 3.5% recentemente. Nas notícias recentes: \"Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "CPTS11.SA",
+        "name": "FII CAPI SECCI",
+        "price": 7.08,
+        "change_pct": 3.21,
+        "currency": "BRL",
+        "dividend_yield": 0.1525,
+        "pe_ratio": null,
+        "sector": "Real Estate",
+        "market_cap": 2573602048,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.2% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
