@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-05T08:47:53.541217",
+  "updated_at": "2026-11-05T16:59:59.142442",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 62.35,
-      "change_pct": 3.49,
+      "price": 62.58,
+      "change_pct": 0.37,
       "currency": "BRL",
       "dividend_yield": 0.0701,
-      "pe_ratio": 76.9753,
+      "pe_ratio": 75.39759,
       "sector": "Basic Materials",
-      "market_cap": 265346793472,
+      "market_cap": 266325639168,
       "news": [
         "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
         "5 Best High Growth Stocks Outside Big Tech",
         "Vale Q3 Earnings Call Highlights"
       ],
-      "score": 70.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 3.5% recentemente. Nas notícias recentes: \"Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.4%). Nas notícias recentes: \"Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "CPTS11.SA",
-      "name": "FII CAPI SECCI",
-      "price": 7.08,
-      "change_pct": 3.21,
+      "ticker": "TRXF11.SA",
+      "name": "FII TRX REALCI",
+      "price": 64.33,
+      "change_pct": 2.44,
       "currency": "BRL",
-      "dividend_yield": 0.1525,
-      "pe_ratio": null,
+      "dividend_yield": 0.1777,
+      "pe_ratio": 5.0974646,
       "sector": "Real Estate",
-      "market_cap": 2573602048,
+      "market_cap": 2090292992,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.2% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.8% ao ano) e o preço subiu 2.4% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
