@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T03:00:18.394413",
+  "updated_at": "2026-11-06T10:32:09.898718",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,7 +8,7 @@
       "price": 62.67,
       "change_pct": 0.51,
       "currency": "BRL",
-      "dividend_yield": 0.0701,
+      "dividend_yield": 0.0697,
       "pe_ratio": 75.50603,
       "sector": "Basic Materials",
       "market_cap": 266708647936,
@@ -22,18 +22,18 @@
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "CPTS11.SA",
-      "name": "FII CAPI SECCI",
-      "price": 7.08,
-      "change_pct": 3.21,
+      "ticker": "MXRF11.SA",
+      "name": "FII MAXI RENCI",
+      "price": 8.64,
+      "change_pct": 2.98,
       "currency": "BRL",
-      "dividend_yield": 0.1525,
-      "pe_ratio": null,
+      "dividend_yield": 0.1319,
+      "pe_ratio": 12.342858,
       "sector": "Real Estate",
-      "market_cap": 2544521984,
+      "market_cap": 3979822848,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.2% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }

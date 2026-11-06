@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-27 19:08",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VIVT3.SA",
-        "name": "TELEF BRASILON",
-        "price": 31.31,
-        "change_pct": 2.49,
-        "currency": "BRL",
-        "dividend_yield": 0.055099999999999996,
-        "pe_ratio": 15.199029,
-        "sector": "Communication Services",
-        "market_cap": 100054433792,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.5% ao ano em proventos e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 105.59,
-        "change_pct": 1.24,
-        "currency": "BRL",
-        "dividend_yield": 0.12990000000000002,
-        "pe_ratio": 8.732837,
-        "sector": "Real Estate",
-        "market_cap": 8082322944,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.0% ao ano) e o preço está em leve alta (1.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-27 23:24",
     "tips": {
       "crypto": null,
@@ -1585,6 +1549,46 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.2% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-06 10:32",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 62.67,
+        "change_pct": 0.51,
+        "currency": "BRL",
+        "dividend_yield": 0.0697,
+        "pe_ratio": 75.50603,
+        "sector": "Basic Materials",
+        "market_cap": 266708647936,
+        "news": [
+          "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
+          "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
+          "5 Best High Growth Stocks Outside Big Tech"
+        ],
+        "score": 60.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"America’s Rare Earth Reckoning Is Less Than 60 Days Away\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "MXRF11.SA",
+        "name": "FII MAXI RENCI",
+        "price": 8.64,
+        "change_pct": 2.98,
+        "currency": "BRL",
+        "dividend_yield": 0.1319,
+        "pe_ratio": 12.342858,
+        "sector": "Real Estate",
+        "market_cap": 3979822848,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
