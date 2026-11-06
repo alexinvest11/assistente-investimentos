@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-27 23:24",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "WEGE3.SA",
-        "name": "WEG         ON      NM",
-        "price": 46.16,
-        "change_pct": 3.66,
-        "currency": "BRL",
-        "dividend_yield": 0.0348,
-        "pe_ratio": 29.589745,
-        "sector": "Industrials",
-        "market_cap": 193679507456,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação WEG         ON      NM (WEGE3.SA) foi destacada porque paga cerca de 3.5% ao ano em proventos e o preço subiu 3.7% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 105.35,
-        "change_pct": 1.01,
-        "currency": "BRL",
-        "dividend_yield": 0.12990000000000002,
-        "pe_ratio": 8.713813,
-        "sector": "Real Estate",
-        "market_cap": 8064715776,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.0% ao ano) e o preço está em leve alta (1.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-28 03:16",
     "tips": {
       "crypto": {
@@ -1589,6 +1553,46 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-06 17:46",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 64.01,
+        "change_pct": 2.14,
+        "currency": "BRL",
+        "dividend_yield": 0.0697,
+        "pe_ratio": 77.12048,
+        "sector": "Basic Materials",
+        "market_cap": 272411377664,
+        "news": [
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating",
+          "America’s Rare Earth Reckoning Is Less Than 60 Days Away"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "MXRF11.SA",
+        "name": "FII MAXI RENCI",
+        "price": 8.86,
+        "change_pct": 2.55,
+        "currency": "BRL",
+        "dividend_yield": 0.1319,
+        "pe_ratio": 12.657143,
+        "sector": "Real Estate",
+        "market_cap": 4081160448,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }

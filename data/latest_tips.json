@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-06T10:32:09.898718",
+  "updated_at": "2026-11-06T17:46:46.702536",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 62.67,
-      "change_pct": 0.51,
+      "price": 64.01,
+      "change_pct": 2.14,
       "currency": "BRL",
       "dividend_yield": 0.0697,
-      "pe_ratio": 75.50603,
+      "pe_ratio": 77.12048,
       "sector": "Basic Materials",
-      "market_cap": 266708647936,
+      "market_cap": 272411377664,
       "news": [
-        "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
-        "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
-        "5 Best High Growth Stocks Outside Big Tech"
+        "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating",
+        "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating",
+        "America’s Rare Earth Reckoning Is Less Than 60 Days Away"
       ],
-      "score": 60.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"America’s Rare Earth Reckoning Is Less Than 60 Days Away\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 2.1% recentemente. Nas notícias recentes: \"Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "MXRF11.SA",
       "name": "FII MAXI RENCI",
-      "price": 8.64,
-      "change_pct": 2.98,
+      "price": 8.86,
+      "change_pct": 2.55,
       "currency": "BRL",
       "dividend_yield": 0.1319,
-      "pe_ratio": 12.342858,
+      "pe_ratio": 12.657143,
       "sector": "Real Estate",
-      "market_cap": 3979822848,
+      "market_cap": 4081160448,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
