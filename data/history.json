@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-28 03:16",
-    "tips": {
-      "crypto": {
-        "ticker": "BTC-USD",
-        "name": "Bitcoin USD",
-        "price": 80836.06,
-        "change_pct": 1.04,
-        "currency": "USD",
-        "dividend_yield": null,
-        "pe_ratio": null,
-        "sector": null,
-        "market_cap": 1625009291264,
-        "news": [],
-        "score": 35.0,
-        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.0%. Foi destacada entre as principais criptomoedas do momento. Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-        "kind": "crypto"
-      },
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 64.38,
-        "change_pct": 4.01,
-        "currency": "BRL",
-        "dividend_yield": 0.0679,
-        "pe_ratio": 23.773584,
-        "sector": "Basic Materials",
-        "market_cap": 268113051648,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 4.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 104.3,
-        "change_pct": -1.18,
-        "currency": "BRL",
-        "dividend_yield": 0.12990000000000002,
-        "pe_ratio": 8.713813,
-        "sector": "Real Estate",
-        "market_cap": 8064715776,
-        "news": [],
-        "score": 45.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.0% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-28 10:13",
     "tips": {
       "crypto": null,
@@ -1593,6 +1543,46 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.2% ao ano) e o preço subiu 2.5% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-06 22:35",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 64.04,
+        "change_pct": 2.19,
+        "currency": "BRL",
+        "dividend_yield": 0.0697,
+        "pe_ratio": 77.15663,
+        "sector": "Basic Materials",
+        "market_cap": 272539041792,
+        "news": [
+          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 2.2% recentemente. Nas notícias recentes: \"Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.0,
+        "change_pct": 2.08,
+        "currency": "BRL",
+        "dividend_yield": 0.115,
+        "pe_ratio": 11.864407,
+        "sector": "Real Estate",
+        "market_cap": 6302189568,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.5% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
