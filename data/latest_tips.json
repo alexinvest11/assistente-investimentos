@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T22:35:50.079522",
+  "updated_at": "2026-11-06T03:00:18.394413",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -13,27 +13,27 @@
       "sector": "Basic Materials",
       "market_cap": 266708647936,
       "news": [
+        "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
         "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
-        "5 Best High Growth Stocks Outside Big Tech",
-        "Vale Q3 Earnings Call Highlights"
+        "5 Best High Growth Stocks Outside Big Tech"
       ],
       "score": 60.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"America’s Rare Earth Reckoning Is Less Than 60 Days Away\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "MXRF11.SA",
-      "name": "FII MAXI RENCI",
-      "price": 8.64,
-      "change_pct": 2.98,
+      "ticker": "CPTS11.SA",
+      "name": "FII CAPI SECCI",
+      "price": 7.08,
+      "change_pct": 3.21,
       "currency": "BRL",
-      "dividend_yield": 0.1359,
-      "pe_ratio": 12.342858,
+      "dividend_yield": 0.1525,
+      "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 3979822848,
+      "market_cap": 2544521984,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.6% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.2% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
