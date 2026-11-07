@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-29 07:52",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "B3SA3.SA",
-        "name": "B3          ON      NM",
-        "price": 15.4,
-        "change_pct": 2.19,
-        "currency": "BRL",
-        "dividend_yield": 0.0512,
-        "pe_ratio": 13.990477,
-        "sector": "Financial Services",
-        "market_cap": 73099329536,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.1% ao ano em proventos e o preço subiu 2.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 105.35,
-        "change_pct": 1.01,
-        "currency": "BRL",
-        "dividend_yield": 0.12960000000000002,
-        "pe_ratio": 8.587849,
-        "sector": "Real Estate",
-        "market_cap": 8007302144,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.0% ao ano) e o preço está em leve alta (1.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-29 14:50",
     "tips": {
       "crypto": null,
@@ -1565,6 +1529,46 @@
   },
   {
     "date": "2026-11-07 19:59",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 64.04,
+        "change_pct": 2.19,
+        "currency": "BRL",
+        "dividend_yield": 0.0682,
+        "pe_ratio": 77.15663,
+        "sector": "Basic Materials",
+        "market_cap": 272539041792,
+        "news": [
+          "Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...",
+          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 2.2% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.0,
+        "change_pct": 2.08,
+        "currency": "BRL",
+        "dividend_yield": 0.1127,
+        "pe_ratio": 11.864407,
+        "sector": "Real Estate",
+        "market_cap": 6302189568,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.3% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-07 23:29",
     "tips": {
       "crypto": null,
       "stocks": {
