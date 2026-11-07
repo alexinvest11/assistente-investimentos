@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-28 10:13",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "WEGE3.SA",
-        "name": "WEG         ON      NM",
-        "price": 46.16,
-        "change_pct": 3.66,
-        "currency": "BRL",
-        "dividend_yield": 0.0336,
-        "pe_ratio": 30.979866,
-        "sector": "Industrials",
-        "market_cap": 193679507456,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação WEG         ON      NM (WEGE3.SA) foi destacada porque paga cerca de 3.4% ao ano em proventos e o preço subiu 3.7% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "KNCR11.SA",
-        "name": "FII KINEA RICI",
-        "price": 105.35,
-        "change_pct": 1.01,
-        "currency": "BRL",
-        "dividend_yield": 0.1286,
-        "pe_ratio": 8.801169,
-        "sector": "Real Estate",
-        "market_cap": 8064715776,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII KINEA RICI (KNCR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.9% ao ano) e o preço está em leve alta (1.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-28 16:55",
     "tips": {
       "crypto": null,
@@ -1549,6 +1513,46 @@
   },
   {
     "date": "2026-11-06 22:35",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 64.04,
+        "change_pct": 2.19,
+        "currency": "BRL",
+        "dividend_yield": 0.0697,
+        "pe_ratio": 77.15663,
+        "sector": "Basic Materials",
+        "market_cap": 272539041792,
+        "news": [
+          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 2.2% recentemente. Nas notícias recentes: \"Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.0,
+        "change_pct": 2.08,
+        "currency": "BRL",
+        "dividend_yield": 0.115,
+        "pe_ratio": 11.864407,
+        "sector": "Real Estate",
+        "market_cap": 6302189568,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.5% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-07 02:29",
     "tips": {
       "crypto": null,
       "stocks": {
