@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:28:24.251873",
+  "updated_at": "2026-11-07T16:00:16.566055",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -9,7 +9,7 @@
       "change_pct": 2.19,
       "currency": "BRL",
       "dividend_yield": 0.0682,
-      "pe_ratio": 78.097565,
+      "pe_ratio": 77.15663,
       "sector": "Basic Materials",
       "market_cap": 272539041792,
       "news": [
@@ -28,7 +28,7 @@
       "change_pct": 2.08,
       "currency": "BRL",
       "dividend_yield": 0.1127,
-      "pe_ratio": 12.11372,
+      "pe_ratio": 11.864407,
       "sector": "Real Estate",
       "market_cap": 6302189568,
       "news": [],
