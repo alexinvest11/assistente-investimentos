@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-29 14:50",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 52.53,
-        "change_pct": 0.04,
-        "currency": "BRL",
-        "dividend_yield": 0.0698,
-        "pe_ratio": 5.0076265,
-        "sector": "Energy",
-        "market_cap": 717742931968,
-        "news": [],
-        "score": 55.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.0%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "TRXF11.SA",
-        "name": "FII TRX REALCI",
-        "price": 66.31,
-        "change_pct": 1.24,
-        "currency": "BRL",
-        "dividend_yield": 0.1704,
-        "pe_ratio": 5.254358,
-        "sector": "Real Estate",
-        "market_cap": 2154629632,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII TRX REALCI (TRXF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.0% ao ano) e o preço está em leve alta (1.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-29 19:59",
     "tips": {
       "crypto": null,
@@ -1569,6 +1533,46 @@
   },
   {
     "date": "2026-11-07 23:29",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 64.04,
+        "change_pct": 2.19,
+        "currency": "BRL",
+        "dividend_yield": 0.0682,
+        "pe_ratio": 77.15663,
+        "sector": "Basic Materials",
+        "market_cap": 272539041792,
+        "news": [
+          "Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...",
+          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 2.2% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI",
+        "price": 98.0,
+        "change_pct": 2.08,
+        "currency": "BRL",
+        "dividend_yield": 0.1127,
+        "pe_ratio": 11.864407,
+        "sector": "Real Estate",
+        "market_cap": 6302189568,
+        "news": [],
+        "score": 60.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.3% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-08 03:37",
     "tips": {
       "crypto": null,
       "stocks": {
