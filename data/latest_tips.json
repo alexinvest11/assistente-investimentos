@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-09T07:30:12.419635",
+  "updated_at": "2026-11-09T18:04:07.826488",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VALE3.SA",
       "name": "VALE        ON      NM",
-      "price": 64.04,
-      "change_pct": 2.19,
+      "price": 65.68,
+      "change_pct": 2.56,
       "currency": "BRL",
       "dividend_yield": 0.0682,
-      "pe_ratio": 77.15663,
+      "pe_ratio": 79.13253,
       "sector": "Basic Materials",
-      "market_cap": 272539041792,
+      "market_cap": 279518478336,
       "news": [
         "Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...",
         "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
         "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
       ],
       "score": 70.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 2.2% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPML11.SA",
-      "name": "FII XP MALLSCI",
-      "price": 98.0,
-      "change_pct": 2.08,
+      "ticker": "XPLG11.SA",
+      "name": "FII XP LOG  CI  ER",
+      "price": 88.71,
+      "change_pct": 0.15,
       "currency": "BRL",
-      "dividend_yield": 0.1127,
-      "pe_ratio": 11.864407,
+      "dividend_yield": 0.11109999999999999,
+      "pe_ratio": 17.53162,
       "sector": "Real Estate",
-      "market_cap": 6302189568,
+      "market_cap": 3549791744,
       "news": [],
-      "score": 60.0,
-      "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.3% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 50.0,
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }

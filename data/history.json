@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-30 21:17",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 62.02,
-        "change_pct": 3.28,
-        "currency": "BRL",
-        "dividend_yield": 0.0727,
-        "pe_ratio": 23.403772,
-        "sector": "Basic Materials",
-        "market_cap": 263942406144,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.3% ao ano) e o preço subiu 3.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 149.5,
-        "change_pct": 1.7,
-        "currency": "BRL",
-        "dividend_yield": 0.0955,
-        "pe_ratio": 9.979974,
-        "sector": "Real Estate",
-        "market_cap": 5051242496,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano) e o preço está em leve alta (1.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-10-31 01:17",
     "tips": {
       "crypto": null,
@@ -1627,6 +1591,46 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.3% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-09 18:04",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "VALE3.SA",
+        "name": "VALE        ON      NM",
+        "price": 65.68,
+        "change_pct": 2.56,
+        "currency": "BRL",
+        "dividend_yield": 0.0682,
+        "pe_ratio": 79.13253,
+        "sector": "Basic Materials",
+        "market_cap": 279518478336,
+        "news": [
+          "Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...",
+          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
+          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
+        ],
+        "score": 70.0,
+        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPLG11.SA",
+        "name": "FII XP LOG  CI  ER",
+        "price": 88.71,
+        "change_pct": 0.15,
+        "currency": "BRL",
+        "dividend_yield": 0.11109999999999999,
+        "pe_ratio": 17.53162,
+        "sector": "Real Estate",
+        "market_cap": 3549791744,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
