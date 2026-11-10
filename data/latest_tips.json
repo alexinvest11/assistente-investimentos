@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-10T16:54:48.878986",
+  "updated_at": "2026-11-10T22:06:53.077484",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 45.65,
-      "change_pct": 1.02,
+      "price": 44.95,
+      "change_pct": -0.53,
       "currency": "BRL",
       "dividend_yield": 0.08109999999999999,
-      "pe_ratio": 4.3600764,
+      "pe_ratio": 4.2850337,
       "sector": "Energy",
-      "market_cap": 623738159104,
+      "market_cap": 614173704192,
       "news": [
         "US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December",
         "Petrobras Signs 3-Year Deal With RINA for Subsea Asset Management",
         "Petrobras Strengthens Oil Spill Response With New Vessel Charter"
       ],
-      "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está em leve alta (1.0%). Nas notícias recentes: \"US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 145.75,
-      "change_pct": 0.45,
+      "price": 145.3,
+      "change_pct": 0.14,
       "currency": "BRL",
       "dividend_yield": 0.0968,
-      "pe_ratio": 9.8612995,
+      "pe_ratio": 9.8308525,
       "sector": "Real Estate",
-      "market_cap": 4924539392,
+      "market_cap": 4909335040,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.5%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
