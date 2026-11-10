@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:50:22.725400",
+  "updated_at": "2026-11-10T09:01:07.611793",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,8 +8,8 @@
       "price": 66.11,
       "change_pct": 3.23,
       "currency": "BRL",
-      "dividend_yield": 0.0682,
-      "pe_ratio": 79.650604,
+      "dividend_yield": 0.0661,
+      "pe_ratio": 81.61729,
       "sector": "Basic Materials",
       "market_cap": 281348472832,
       "news": [
@@ -18,7 +18,7 @@
         "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
       ],
       "score": 70.0,
-      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.6% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -27,8 +27,8 @@
       "price": 88.78,
       "change_pct": 0.23,
       "currency": "BRL",
-      "dividend_yield": 0.11109999999999999,
-      "pe_ratio": 17.545454,
+      "dividend_yield": 0.1108,
+      "pe_ratio": 17.580196,
       "sector": "Real Estate",
       "market_cap": 3552592640,
       "news": [],
