@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:06:53.077484",
+  "updated_at": "2026-11-11T02:26:55.016911",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -13,12 +13,12 @@
       "sector": "Energy",
       "market_cap": 614173704192,
       "news": [
+        "Petrobras: Q3 Earnings Snapshot",
         "US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December",
-        "Petrobras Signs 3-Year Deal With RINA for Subsea Asset Management",
-        "Petrobras Strengthens Oil Spill Response With New Vessel Charter"
+        "Petrobras Signs 3-Year Deal With RINA for Subsea Asset Management"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras: Q3 Earnings Snapshot\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
