@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-11T10:06:04.666271",
+  "updated_at": "2026-11-11T18:15:35.893108",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": 44.95,
-      "change_pct": -0.53,
+      "ticker": "VIVT3.SA",
+      "name": "TELEF BRASILON",
+      "price": 34.63,
+      "change_pct": 6.55,
       "currency": "BRL",
-      "dividend_yield": 0.0815,
-      "pe_ratio": 4.2850337,
-      "sector": "Energy",
-      "market_cap": 614173704192,
+      "dividend_yield": 0.052000000000000005,
+      "pe_ratio": 16.81068,
+      "sector": "Communication Services",
+      "market_cap": 110663852032,
       "news": [
-        "Petrobras Q3 Profit Rises 22% as Oil Production Hits New Record",
-        "Petrobras: Q3 Earnings Snapshot",
-        "US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December"
+        "Telefonica Brasil: Q3 Earnings Snapshot",
+        "Does Telefonica Brasil (VIV) Have the Potential to Rally 28.7% as Wall Street Analysts Expect?",
+        "Is Telefonica Brasil (VIV) Stock Undervalued Right Now?"
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Q3 Profit Rises 22% as Oil Production Hits New Record\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço subiu 6.5% recentemente. Nas notícias recentes: \"Telefonica Brasil: Q3 Earnings Snapshot\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI  ER",
-      "price": 145.3,
-      "change_pct": 0.14,
+      "price": 146.63,
+      "change_pct": 0.92,
       "currency": "BRL",
       "dividend_yield": 0.0966,
-      "pe_ratio": 9.8308525,
+      "pe_ratio": 9.907433,
       "sector": "Real Estate",
-      "market_cap": 4909335040,
+      "market_cap": 4954272256,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
