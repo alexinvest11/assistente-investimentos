@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T02:26:55.016911",
+  "updated_at": "2026-11-11T10:06:04.666271",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -8,17 +8,17 @@
       "price": 44.95,
       "change_pct": -0.53,
       "currency": "BRL",
-      "dividend_yield": 0.08109999999999999,
+      "dividend_yield": 0.0815,
       "pe_ratio": 4.2850337,
       "sector": "Energy",
       "market_cap": 614173704192,
       "news": [
+        "Petrobras Q3 Profit Rises 22% as Oil Production Hits New Record",
         "Petrobras: Q3 Earnings Snapshot",
-        "US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December",
-        "Petrobras Signs 3-Year Deal With RINA for Subsea Asset Management"
+        "US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras: Q3 Earnings Snapshot\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Q3 Profit Rises 22% as Oil Production Hits New Record\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
@@ -27,7 +27,7 @@
       "price": 145.3,
       "change_pct": 0.14,
       "currency": "BRL",
-      "dividend_yield": 0.0968,
+      "dividend_yield": 0.0966,
       "pe_ratio": 9.8308525,
       "sector": "Real Estate",
       "market_cap": 4909335040,

@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-11-01 01:43",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 62.02,
-        "change_pct": 3.28,
-        "currency": "BRL",
-        "dividend_yield": 0.0704,
-        "pe_ratio": 74.72289,
-        "sector": "Basic Materials",
-        "market_cap": 263942406144,
-        "news": [],
-        "score": 65.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço subiu 3.3% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "HGLG11.SA",
-        "name": "FII HGLG PAXCI",
-        "price": 149.5,
-        "change_pct": 1.7,
-        "currency": "BRL",
-        "dividend_yield": 0.09390000000000001,
-        "pe_ratio": 9.816153,
-        "sector": "Real Estate",
-        "market_cap": 5051242496,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.4% ao ano) e o preço está em leve alta (1.7%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-01 08:28",
     "tips": {
       "crypto": null,
@@ -1645,6 +1609,46 @@
         "change_pct": 0.14,
         "currency": "BRL",
         "dividend_yield": 0.0968,
+        "pe_ratio": 9.8308525,
+        "sector": "Real Estate",
+        "market_cap": 4909335040,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-11 10:06",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 44.95,
+        "change_pct": -0.53,
+        "currency": "BRL",
+        "dividend_yield": 0.0815,
+        "pe_ratio": 4.2850337,
+        "sector": "Energy",
+        "market_cap": 614173704192,
+        "news": [
+          "Petrobras Q3 Profit Rises 22% as Oil Production Hits New Record",
+          "Petrobras: Q3 Earnings Snapshot",
+          "US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.2% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Q3 Profit Rises 22% as Oil Production Hits New Record\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI  ER",
+        "price": 145.3,
+        "change_pct": 0.14,
+        "currency": "BRL",
+        "dividend_yield": 0.0966,
         "pe_ratio": 9.8308525,
         "sector": "Real Estate",
         "market_cap": 4909335040,
