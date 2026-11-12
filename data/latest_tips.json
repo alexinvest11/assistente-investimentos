@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:13:15.249124",
+  "updated_at": "2026-11-12T09:01:26.351810",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -9,7 +9,7 @@
       "change_pct": 5.38,
       "currency": "BRL",
       "dividend_yield": 0.052000000000000005,
-      "pe_ratio": 16.626215,
+      "pe_ratio": 17.564102,
       "sector": "Communication Services",
       "market_cap": 109449510912,
       "news": [
@@ -27,13 +27,13 @@
       "price": 31.8,
       "change_pct": 2.09,
       "currency": "BRL",
-      "dividend_yield": 0.1772,
+      "dividend_yield": 0.1736,
       "pe_ratio": null,
       "sector": "Real Estate",
       "market_cap": 749461376,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.7% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.4% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
