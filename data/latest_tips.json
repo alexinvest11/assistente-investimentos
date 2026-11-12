@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-12T17:49:48.189912",
+  "updated_at": "2026-11-12T23:01:40.384417",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 44.58,
-      "change_pct": 2.37,
+      "price": 44.7,
+      "change_pct": 2.64,
       "currency": "BRL",
       "dividend_yield": 0.08410000000000001,
-      "pe_ratio": 4.249762,
+      "pe_ratio": 4.2612014,
       "sector": "Energy",
-      "market_cap": 609118257152,
+      "market_cap": 610757836800,
       "news": [
         "Petrobras Lifts 2026 Cash Flow Forecast on Higher Oil Production",
         "Petroleo Brasileiro S.A.- Petrobras Q3 Earnings Call Highlights",
         "Sector Update: Energy Stocks Edge Higher Pre-Bell Wednesday"
       ],
       "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço subiu 2.4% recentemente. Nas notícias recentes: \"Petrobras Lifts 2026 Cash Flow Forecast on Higher Oil Production\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Petrobras Lifts 2026 Cash Flow Forecast on Higher Oil Production\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "KNRI11.SA",
-      "name": "FII KINEA   CI  ER",
-      "price": 147.09,
-      "change_pct": 0.06,
+      "ticker": "TGAR11.SA",
+      "name": "FII TG ATIVOCI  ER",
+      "price": 31.87,
+      "change_pct": 0.22,
       "currency": "BRL",
-      "dividend_yield": 0.0898,
-      "pe_ratio": 9.981,
+      "dividend_yield": 0.1736,
+      "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 4148533248,
+      "market_cap": 751111168,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.4% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
