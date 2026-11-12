@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-11T18:15:35.893108",
+  "updated_at": "2026-11-12T01:13:15.249124",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "VIVT3.SA",
       "name": "TELEF BRASILON",
-      "price": 34.63,
-      "change_pct": 6.55,
+      "price": 34.25,
+      "change_pct": 5.38,
       "currency": "BRL",
       "dividend_yield": 0.052000000000000005,
-      "pe_ratio": 16.81068,
+      "pe_ratio": 16.626215,
       "sector": "Communication Services",
-      "market_cap": 110663852032,
+      "market_cap": 109449510912,
       "news": [
+        "Telefonica Brasil Q3 Earnings Call Highlights",
         "Telefonica Brasil: Q3 Earnings Snapshot",
-        "Does Telefonica Brasil (VIV) Have the Potential to Rally 28.7% as Wall Street Analysts Expect?",
-        "Is Telefonica Brasil (VIV) Stock Undervalued Right Now?"
+        "Does Telefonica Brasil (VIV) Have the Potential to Rally 28.7% as Wall Street Analysts Expect?"
       ],
       "score": 70.0,
-      "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço subiu 6.5% recentemente. Nas notícias recentes: \"Telefonica Brasil: Q3 Earnings Snapshot\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço subiu 5.4% recentemente. Nas notícias recentes: \"Telefonica Brasil Q3 Earnings Call Highlights\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI  ER",
-      "price": 146.63,
-      "change_pct": 0.92,
+      "ticker": "TGAR11.SA",
+      "name": "FII TG ATIVOCI  ER",
+      "price": 31.8,
+      "change_pct": 2.09,
       "currency": "BRL",
-      "dividend_yield": 0.0966,
-      "pe_ratio": 9.907433,
+      "dividend_yield": 0.1772,
+      "pe_ratio": null,
       "sector": "Real Estate",
-      "market_cap": 4954272256,
+      "market_cap": 749461376,
       "news": [],
-      "score": 50.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI  ER (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.7% ao ano) e o preço está em leve alta (0.9%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.7% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
