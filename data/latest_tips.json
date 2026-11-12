@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-12T09:01:26.351810",
+  "updated_at": "2026-11-12T17:49:48.189912",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "VIVT3.SA",
-      "name": "TELEF BRASILON",
-      "price": 34.25,
-      "change_pct": 5.38,
+      "ticker": "PETR4.SA",
+      "name": "PETROBRAS   PN      N2",
+      "price": 44.58,
+      "change_pct": 2.37,
       "currency": "BRL",
-      "dividend_yield": 0.052000000000000005,
-      "pe_ratio": 17.564102,
-      "sector": "Communication Services",
-      "market_cap": 109449510912,
+      "dividend_yield": 0.08410000000000001,
+      "pe_ratio": 4.249762,
+      "sector": "Energy",
+      "market_cap": 609118257152,
       "news": [
-        "Telefonica Brasil Q3 Earnings Call Highlights",
-        "Telefonica Brasil: Q3 Earnings Snapshot",
-        "Does Telefonica Brasil (VIV) Have the Potential to Rally 28.7% as Wall Street Analysts Expect?"
+        "Petrobras Lifts 2026 Cash Flow Forecast on Higher Oil Production",
+        "Petroleo Brasileiro S.A.- Petrobras Q3 Earnings Call Highlights",
+        "Sector Update: Energy Stocks Edge Higher Pre-Bell Wednesday"
       ],
-      "score": 70.0,
-      "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço subiu 5.4% recentemente. Nas notícias recentes: \"Telefonica Brasil Q3 Earnings Call Highlights\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 80.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço subiu 2.4% recentemente. Nas notícias recentes: \"Petrobras Lifts 2026 Cash Flow Forecast on Higher Oil Production\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "TGAR11.SA",
-      "name": "FII TG ATIVOCI  ER",
-      "price": 31.8,
-      "change_pct": 2.09,
+      "ticker": "KNRI11.SA",
+      "name": "FII KINEA   CI  ER",
+      "price": 147.09,
+      "change_pct": 0.06,
       "currency": "BRL",
-      "dividend_yield": 0.1736,
-      "pe_ratio": null,
+      "dividend_yield": 0.0898,
+      "pe_ratio": 9.981,
       "sector": "Real Estate",
-      "market_cap": 749461376,
+      "market_cap": 4148533248,
       "news": [],
-      "score": 60.0,
-      "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.4% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 50.0,
+      "reason": "O fundo imobiliário FII KINEA   CI  ER (KNRI11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.0% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
