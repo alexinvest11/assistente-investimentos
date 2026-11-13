@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-13T12:45:06.562975",
+  "updated_at": "2026-11-13T20:12:19.735245",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 44.7,
-      "change_pct": 2.64,
+      "price": 45.16,
+      "change_pct": 1.03,
       "currency": "BRL",
       "dividend_yield": 0.08199999999999999,
-      "pe_ratio": 4.16589,
+      "pe_ratio": 4.1017256,
       "sector": "Energy",
-      "market_cap": 610757836800,
+      "market_cap": 617043001344,
       "news": [
-        "Petrobras Lifts 2026 Cash Flow Forecast on Higher Oil Production",
-        "Petroleo Brasileiro S.A.- Petrobras Q3 Earnings Call Highlights",
-        "Sector Update: Energy Stocks Edge Higher Pre-Bell Wednesday"
+        "Computer Modelling Group Q2 Earnings Call Highlights",
+        "Petrobras (PBR) Q3 2026 Earnings Call Transcript",
+        "Is Petroleo Brasileiro (PBR) Stock Outpacing Its Oils-Energy Peers This Year?"
       ],
-      "score": 80.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.2% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Petrobras Lifts 2026 Cash Flow Forecast on Higher Oil Production\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.2% ao ano) e o preço está em leve alta (1.0%). Nas notícias recentes: \"Computer Modelling Group Q2 Earnings Call Highlights\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "TGAR11.SA",
-      "name": "FII TG ATIVOCI  ER",
-      "price": 31.87,
-      "change_pct": 0.22,
+      "ticker": "XPLG11.SA",
+      "name": "FII XP LOG  CI  ER",
+      "price": 91.18,
+      "change_pct": 3.03,
       "currency": "BRL",
-      "dividend_yield": 0.1732,
-      "pe_ratio": null,
+      "dividend_yield": 0.1112,
+      "pe_ratio": 18.019764,
       "sector": "Real Estate",
-      "market_cap": 751111168,
+      "market_cap": 3648630528,
       "news": [],
-      "score": 50.0,
-      "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.3% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
