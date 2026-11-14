@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-14T01:09:32.264818",
+  "updated_at": "2026-11-14T08:22:16.822541",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 45.3,
-      "change_pct": 1.34,
+      "price": NaN,
+      "change_pct": NaN,
       "currency": "BRL",
-      "dividend_yield": 0.08410000000000001,
-      "pe_ratio": 4.221808,
+      "dividend_yield": 0.0809,
+      "pe_ratio": 4.171271,
       "sector": "Energy",
       "market_cap": 618955931648,
       "news": [
         "How Earnings And Guidance Will Impact BP Stock Investors",
-        "Computer Modelling Group Q2 Earnings Call Highlights",
-        "Petrobras (PBR) Q3 2026 Earnings Call Transcript"
+        "What Questerre Energy (QEC) Said on Its Q3 Earnings Call",
+        "Computer Modelling Group Q2 Earnings Call Highlights"
       ],
-      "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.4% ao ano) e o preço está em leve alta (1.3%). Nas notícias recentes: \"How Earnings And Guidance Will Impact BP Stock Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano). Nas notícias recentes: \"How Earnings And Guidance Will Impact BP Stock Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPLG11.SA",
-      "name": "FII XP LOG  CI  ER",
-      "price": 90.9,
-      "change_pct": 2.71,
+      "ticker": "HGLG11.SA",
+      "name": "FII HGLG PAXCI",
+      "price": NaN,
+      "change_pct": NaN,
       "currency": "BRL",
-      "dividend_yield": 0.1112,
-      "pe_ratio": 17.964428,
+      "dividend_yield": 0.0962,
+      "pe_ratio": 9.8396225,
       "sector": "Real Estate",
-      "market_cap": 3637426176,
+      "market_cap": 4933662208,
       "news": [],
-      "score": 60.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço subiu 2.7% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 40.0,
+      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
