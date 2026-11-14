@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-14T08:22:16.822541",
+  "updated_at": "2026-11-14T15:26:50.642767",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": NaN,
-      "change_pct": NaN,
+      "price": 45.3,
+      "change_pct": 1.34,
       "currency": "BRL",
       "dividend_yield": 0.0809,
-      "pe_ratio": 4.171271,
+      "pe_ratio": 4.1144414,
       "sector": "Energy",
       "market_cap": 618955931648,
       "news": [
@@ -17,23 +17,23 @@
         "What Questerre Energy (QEC) Said on Its Q3 Earnings Call",
         "Computer Modelling Group Q2 Earnings Call Highlights"
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano). Nas notícias recentes: \"How Earnings And Guidance Will Impact BP Stock Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está em leve alta (1.3%). Nas notícias recentes: \"How Earnings And Guidance Will Impact BP Stock Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "XPLG11.SA",
+      "name": "FII XP LOG  CI",
+      "price": 90.9,
+      "change_pct": 2.71,
       "currency": "BRL",
-      "dividend_yield": 0.0962,
-      "pe_ratio": 9.8396225,
+      "dividend_yield": 0.10830000000000001,
+      "pe_ratio": 17.964428,
       "sector": "Real Estate",
-      "market_cap": 4933662208,
+      "market_cap": 3637426176,
       "news": [],
-      "score": 40.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço subiu 2.7% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
