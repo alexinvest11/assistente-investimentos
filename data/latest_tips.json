@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-15T15:08:54.959784",
+  "updated_at": "2026-11-15T20:41:36.486373",
   "tips": {
-    "crypto": null,
+    "crypto": {
+      "ticker": "XRP-USD",
+      "name": "XRP USD",
+      "price": 0.96,
+      "change_pct": 5.42,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 61212737536,
+      "news": [
+        "XRP vs Stellar (XLM): Which Could Double First in 2027?",
+        "Will XRP Recover in 2027?",
+        "XRP Hits Its Lowest Price Since 2024: Here’s What It Means for Holders"
+      ],
+      "score": 55.0,
+      "reason": "XRP USD (XRP-USD) subiu bastante nos últimos dias (5.4%). Por isso chamou atenção entre as principais criptomoedas. Nas notícias recentes: \"XRP vs Stellar (XLM): Which Could Double First in 2027?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
