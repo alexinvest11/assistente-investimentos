@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-15T20:41:36.486373",
+  "updated_at": "2026-11-16T00:34:41.097911",
   "tips": {
     "crypto": {
       "ticker": "XRP-USD",
       "name": "XRP USD",
       "price": 0.96,
-      "change_pct": 5.42,
+      "change_pct": 5.44,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 61212737536,
+      "market_cap": 61251084288,
       "news": [
         "XRP vs Stellar (XLM): Which Could Double First in 2027?",
         "Will XRP Recover in 2027?",
@@ -31,12 +31,12 @@
       "sector": "Energy",
       "market_cap": 618955931648,
       "news": [
+        "Hoskinson and Cardano Foundation CEO Clash Over Accountability and Veridian Shares",
         "How Earnings And Guidance Will Impact BP Stock Investors",
-        "What Questerre Energy (QEC) Said on Its Q3 Earnings Call",
-        "Computer Modelling Group Q2 Earnings Call Highlights"
+        "What Questerre Energy (QEC) Said on Its Q3 Earnings Call"
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está em leve alta (1.3%). Nas notícias recentes: \"How Earnings And Guidance Will Impact BP Stock Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano) e o preço está em leve alta (1.3%). Nas notícias recentes: \"Hoskinson and Cardano Foundation CEO Clash Over Accountability and Veridian Shares\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
