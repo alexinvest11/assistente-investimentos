@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-06 03:00",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 62.67,
-        "change_pct": 0.51,
-        "currency": "BRL",
-        "dividend_yield": 0.0701,
-        "pe_ratio": 75.50603,
-        "sector": "Basic Materials",
-        "market_cap": 266708647936,
-        "news": [
-          "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
-          "Here is What to Know Beyond Why VALE S.A. (VALE) is a Trending Stock",
-          "5 Best High Growth Stocks Outside Big Tech"
-        ],
-        "score": 60.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 7.0% ao ano) e o preço está em leve alta (0.5%). Nas notícias recentes: \"America’s Rare Earth Reckoning Is Less Than 60 Days Away\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "CPTS11.SA",
-        "name": "FII CAPI SECCI",
-        "price": 7.08,
-        "change_pct": 3.21,
-        "currency": "BRL",
-        "dividend_yield": 0.1525,
-        "pe_ratio": null,
-        "sector": "Real Estate",
-        "market_cap": 2544521984,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII CAPI SECCI (CPTS11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 15.2% ao ano) e o preço subiu 3.2% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-06 10:32",
     "tips": {
       "crypto": null,
@@ -1628,6 +1588,46 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço subiu 2.7% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-16 17:43",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 44.07,
+        "change_pct": -2.72,
+        "currency": "BRL",
+        "dividend_yield": 0.0809,
+        "pe_ratio": 4.0027246,
+        "sector": "Energy",
+        "market_cap": 602149814272,
+        "news": [
+          "Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal",
+          "Petrobras Stock After Q3 Earnings - Buy, Sell or Hold for Now?",
+          "Hoskinson and Cardano Foundation CEO Clash Over Accountability and Veridian Shares"
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano). Nas notícias recentes: \"Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "BTLG11.SA",
+        "name": "FII BTLG    CI",
+        "price": 97.58,
+        "change_pct": -1.18,
+        "currency": "BRL",
+        "dividend_yield": 0.0984,
+        "pe_ratio": 90.10158,
+        "sector": "Real Estate",
+        "market_cap": 6771041792,
+        "news": [],
+        "score": 45.0,
+        "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }

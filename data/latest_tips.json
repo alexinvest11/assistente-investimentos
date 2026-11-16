@@ -1,38 +1,39 @@
 {
-  "updated_at": "2026-11-16T07:30:13.227340",
+  "updated_at": "2026-11-16T17:43:06.038582",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "B3SA3.SA",
-      "name": "B3          ON      NM",
-      "price": 14.89,
-      "change_pct": 0.88,
+      "ticker": "PETR4.SA",
+      "name": "PETROBRAS   PN      N2",
+      "price": 44.07,
+      "change_pct": -2.72,
       "currency": "BRL",
-      "dividend_yield": 0.050499999999999996,
-      "pe_ratio": 13.787037,
-      "sector": "Financial Services",
-      "market_cap": 74059579392,
+      "dividend_yield": 0.0809,
+      "pe_ratio": 4.0027246,
+      "sector": "Energy",
+      "market_cap": 602149814272,
       "news": [
-        "B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2026 Earnings Call Highlights: Revenue Up 11% as ...",
-        "B3 SA - Brasil Bolsa Balcao (BOLSY) Q4 2025 Earnings Call Highlights: Strong Revenue Growth and ..."
+        "Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal",
+        "Petrobras Stock After Q3 Earnings - Buy, Sell or Hold for Now?",
+        "Hoskinson and Cardano Foundation CEO Clash Over Accountability and Veridian Shares"
       ],
       "score": 60.0,
-      "reason": "A ação B3          ON      NM (B3SA3.SA) foi destacada porque paga cerca de 5.0% ao ano em proventos e o preço está em leve alta (0.9%). Nas notícias recentes: \"B3 SA - Brasil Bolsa Balcao (BOLSY) Q3 2026 Earnings Call Highlights: Revenue Up 11% as ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.1% ao ano). Nas notícias recentes: \"Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "XPLG11.SA",
-      "name": "FII XP LOG  CI",
-      "price": 90.9,
-      "change_pct": 2.71,
+      "ticker": "BTLG11.SA",
+      "name": "FII BTLG    CI",
+      "price": 97.58,
+      "change_pct": -1.18,
       "currency": "BRL",
-      "dividend_yield": 0.10830000000000001,
-      "pe_ratio": 17.964428,
+      "dividend_yield": 0.0984,
+      "pe_ratio": 90.10158,
       "sector": "Real Estate",
-      "market_cap": 3637426176,
+      "market_cap": 6771041792,
       "news": [],
-      "score": 60.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço subiu 2.7% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 45.0,
+      "reason": "O fundo imobiliário FII BTLG    CI (BTLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
