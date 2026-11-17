@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-17T09:56:28.687863",
+  "updated_at": "2026-11-17T18:54:39.970245",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 44.02,
-      "change_pct": -2.83,
+      "price": 44.03,
+      "change_pct": 0.02,
       "currency": "BRL",
       "dividend_yield": 0.0832,
-      "pe_ratio": 3.8852603,
+      "pe_ratio": 3.886143,
       "sector": "Energy",
-      "market_cap": 601466667008,
+      "market_cap": 601603244032,
       "news": [
-        "Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal",
-        "Petrobras Stock After Q3 Earnings - Buy, Sell or Hold for Now?",
-        "Hoskinson and Cardano Foundation CEO Clash Over Accountability and Veridian Shares"
+        "PBR Q3 Earnings Call Highlights Output Growth and Pricing Scrutiny",
+        "UGP Stock After Q3 Earnings: Buy, Sell or Hold for Now?",
+        "Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal"
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.3% ao ano). Nas notícias recentes: \"Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 70.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.3% ao ano) e o preço está em leve alta (0.0%). Nas notícias recentes: \"PBR Q3 Earnings Call Highlights Output Growth and Pricing Scrutiny\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGLG11.SA",
       "name": "FII HGLG PAXCI",
-      "price": 143.12,
-      "change_pct": -1.99,
+      "price": 143.3,
+      "change_pct": 0.13,
       "currency": "BRL",
       "dividend_yield": 0.0981,
-      "pe_ratio": 9.618279,
+      "pe_ratio": 9.828532,
       "sector": "Real Estate",
-      "market_cap": 4835677696,
+      "market_cap": 4841759744,
       "news": [],
-      "score": 45.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está relativamente estável. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 50.0,
+      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.8% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
