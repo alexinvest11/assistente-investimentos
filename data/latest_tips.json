@@ -1,33 +1,15 @@
 {
-  "updated_at": "2026-11-18T01:28:03.694315",
+  "updated_at": "2026-11-18T09:32:16.060207",
   "tips": {
-    "crypto": {
-      "ticker": "SOL-USD",
-      "name": "Solana USD",
-      "price": 74.43,
-      "change_pct": 4.09,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 44102922240,
-      "news": [
-        "Could Solana's CoinGecko stake compromise data neutrality?",
-        "Wells Fargo doubles down on bitcoin ETF, and Chase goes down, but bitcoin stays",
-        "California voters ban new taxes after rejecting billionaire tax"
-      ],
-      "score": 35.0,
-      "reason": "Solana USD (SOL-USD) está em alta de 4.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Could Solana's CoinGecko stake compromise data neutrality?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
       "price": 43.98,
       "change_pct": -0.09,
       "currency": "BRL",
-      "dividend_yield": 0.0832,
-      "pe_ratio": 3.8817298,
+      "dividend_yield": 0.0833,
+      "pe_ratio": 3.9909253,
       "sector": "Energy",
       "market_cap": 600920096768,
       "news": [
@@ -45,8 +27,8 @@
       "price": 88.61,
       "change_pct": 0.21,
       "currency": "BRL",
-      "dividend_yield": 0.11130000000000001,
-      "pe_ratio": 17.511858,
+      "dividend_yield": 0.111,
+      "pe_ratio": 17.546534,
       "sector": "Real Estate",
       "market_cap": 3545790208,
       "news": [],

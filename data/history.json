@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-07 09:28",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 64.04,
-        "change_pct": 2.19,
-        "currency": "BRL",
-        "dividend_yield": 0.0682,
-        "pe_ratio": 78.097565,
-        "sector": "Basic Materials",
-        "market_cap": 272539041792,
-        "news": [
-          "Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...",
-          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
-          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
-        ],
-        "score": 70.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 2.2% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPML11.SA",
-        "name": "FII XP MALLSCI",
-        "price": 98.0,
-        "change_pct": 2.08,
-        "currency": "BRL",
-        "dividend_yield": 0.1127,
-        "pe_ratio": 12.11372,
-        "sector": "Real Estate",
-        "market_cap": 6302189568,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII XP MALLSCI (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.3% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-07 16:00",
     "tips": {
       "crypto": null,
@@ -1641,6 +1601,46 @@
         "currency": "BRL",
         "dividend_yield": 0.11130000000000001,
         "pe_ratio": 17.511858,
+        "sector": "Real Estate",
+        "market_cap": 3545790208,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-18 09:32",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 43.98,
+        "change_pct": -0.09,
+        "currency": "BRL",
+        "dividend_yield": 0.0833,
+        "pe_ratio": 3.9909253,
+        "sector": "Energy",
+        "market_cap": 600920096768,
+        "news": [
+          "PBR Q3 Earnings Call Highlights Output Growth and Pricing Scrutiny",
+          "UGP Stock After Q3 Earnings: Buy, Sell or Hold for Now?",
+          "Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.3% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"PBR Q3 Earnings Call Highlights Output Growth and Pricing Scrutiny\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPLG11.SA",
+        "name": "FII XP LOG  CI",
+        "price": 88.61,
+        "change_pct": 0.21,
+        "currency": "BRL",
+        "dividend_yield": 0.111,
+        "pe_ratio": 17.546534,
         "sector": "Real Estate",
         "market_cap": 3545790208,
         "news": [],
