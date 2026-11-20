@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-19T17:51:47.846076",
+  "updated_at": "2026-11-20T00:04:44.484479",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 42.85,
-      "change_pct": -0.74,
+      "price": 42.67,
+      "change_pct": -1.16,
       "currency": "BRL",
       "dividend_yield": 0.0849,
-      "pe_ratio": 3.819073,
+      "pe_ratio": 3.8755674,
       "sector": "Energy",
-      "market_cap": 585480339456,
+      "market_cap": 583020904448,
       "news": [
-        "Petrobras Awards $410M Subsea Contract to Expand Brazil Operations",
-        "PBR Q3 Earnings Call Highlights Output Growth and Pricing Scrutiny",
-        "UGP Stock After Q3 Earnings: Buy, Sell or Hold for Now?"
+        "Is This Still an \"AI\" Driven Market?",
+        "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
+        "Petrobras Awards $410M Subsea Contract to Expand Brazil Operations"
       ],
       "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Awards $410M Subsea Contract to Expand Brazil Operations\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Is This Still an \"AI\" Driven Market?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "HGRE11.SA",
       "name": "FII HGRE PAXCI",
-      "price": 110.85,
-      "change_pct": 0.08,
+      "price": 111.02,
+      "change_pct": 0.23,
       "currency": "BRL",
       "dividend_yield": 0.09210000000000002,
-      "pe_ratio": 17.401884,
+      "pe_ratio": 17.428572,
       "sector": "Real Estate",
-      "market_cap": 1309999488,
+      "market_cap": 1312008448,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.2% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.2% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
