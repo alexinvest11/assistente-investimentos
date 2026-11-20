@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-20T07:55:46.500206",
+  "updated_at": "2026-11-20T16:32:15.727226",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": NaN,
-      "change_pct": NaN,
+      "price": 42.67,
+      "change_pct": -1.16,
       "currency": "BRL",
       "dividend_yield": 0.0859,
       "pe_ratio": 3.8755674,
       "sector": "Energy",
       "market_cap": 583020904448,
       "news": [
+        "Can PBR's 280,000-BPD Capacity Expansion Drive Cash Flow Growth?",
         "Is This Still an \"AI\" Driven Market?",
-        "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
-        "Petrobras Awards $410M Subsea Contract to Expand Brazil Operations"
+        "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe"
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano). Nas notícias recentes: \"Is This Still an \"AI\" Driven Market?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Can PBR's 280,000-BPD Capacity Expansion Drive Cash Flow Growth?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "HGRE11.SA",
+      "name": "FII HGRE PAXCI",
+      "price": 111.02,
+      "change_pct": 0.23,
       "currency": "BRL",
-      "dividend_yield": 0.099,
-      "pe_ratio": 9.759119,
+      "dividend_yield": 0.0919,
+      "pe_ratio": 17.428572,
       "sector": "Real Estate",
-      "market_cap": 4791078400,
+      "market_cap": 1312008448,
       "news": [],
-      "score": 40.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.9% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 50.0,
+      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.2% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
