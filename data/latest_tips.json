@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T22:53:33.897079",
+  "updated_at": "2026-11-21T03:40:08.239865",
   "tips": {
     "crypto": null,
     "stocks": {
@@ -9,7 +9,7 @@
       "change_pct": -1.16,
       "currency": "BRL",
       "dividend_yield": 0.0859,
-      "pe_ratio": 3.8755674,
+      "pe_ratio": 3.80303,
       "sector": "Energy",
       "market_cap": 583020904448,
       "news": [
@@ -28,7 +28,7 @@
       "change_pct": 0.23,
       "currency": "BRL",
       "dividend_yield": 0.0919,
-      "pe_ratio": 17.428572,
+      "pe_ratio": 17.51104,
       "sector": "Real Estate",
       "market_cap": 1312008448,
       "news": [],
