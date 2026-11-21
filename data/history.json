@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-09 18:04",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 65.68,
-        "change_pct": 2.56,
-        "currency": "BRL",
-        "dividend_yield": 0.0682,
-        "pe_ratio": 79.13253,
-        "sector": "Basic Materials",
-        "market_cap": 279518478336,
-        "news": [
-          "Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...",
-          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
-          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
-        ],
-        "score": 70.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.8% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 88.71,
-        "change_pct": 0.15,
-        "currency": "BRL",
-        "dividend_yield": 0.11109999999999999,
-        "pe_ratio": 17.53162,
-        "sector": "Real Estate",
-        "market_cap": 3549791744,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-10 01:50",
     "tips": {
       "crypto": null,
@@ -1632,6 +1592,64 @@
     "date": "2026-11-21 03:40",
     "tips": {
       "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 42.67,
+        "change_pct": -1.16,
+        "currency": "BRL",
+        "dividend_yield": 0.0859,
+        "pe_ratio": 3.80303,
+        "sector": "Energy",
+        "market_cap": 583020904448,
+        "news": [
+          "Constellation Oil Services Holding SA (FRA:QG21) (Q3 2026) Earnings Call Highlights: EBITDA ...",
+          "Cheniere Energy: 3 Key Takeaways for Long-Term Investors",
+          "Can PBR's 280,000-BPD Capacity Expansion Drive Cash Flow Growth?"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Constellation Oil Services Holding SA (FRA:QG21) (Q3 2026) Earnings Call Highlights: EBITDA ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGRE11.SA",
+        "name": "FII HGRE PAXCI",
+        "price": 111.02,
+        "change_pct": 0.23,
+        "currency": "BRL",
+        "dividend_yield": 0.0919,
+        "pe_ratio": 17.51104,
+        "sector": "Real Estate",
+        "market_cap": 1312008448,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.2% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-21 11:56",
+    "tips": {
+      "crypto": {
+        "ticker": "ETH-USD",
+        "name": "Ethereum USD",
+        "price": 1648.09,
+        "change_pct": 1.77,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 201685958656,
+        "news": [
+          "Peter Schiff Doubles Down On His ‘Black Monday’ Call Again: Ethereum Could Hit $1,000 In Two Days",
+          "ARK Invest Adds More Anthropic Shares While Trimming Crypto Stocks As Bitcoin Slides",
+          "Weekly Wrap: Crypto Falls As Stocks Struggle"
+        ],
+        "score": 35.0,
+        "reason": "Ethereum USD (ETH-USD) teve variação de 1.8%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Peter Schiff Doubles Down On His ‘Black Monday’ Call Again: Ethereum Could Hit $1,000 In Two Days\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
       "stocks": {
         "ticker": "PETR4.SA",
         "name": "PETROBRAS   PN      N2",
