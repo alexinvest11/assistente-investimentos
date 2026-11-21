@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-21T18:31:17.592051",
+  "updated_at": "2026-11-21T23:39:35.760415",
   "tips": {
     "crypto": {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 60081.06,
-      "change_pct": 2.18,
+      "price": 60115.92,
+      "change_pct": 2.24,
       "currency": "USD",
       "dividend_yield": null,
       "pe_ratio": null,
       "sector": null,
-      "market_cap": 1208918999040,
+      "market_cap": 1209081397248,
       "news": [
-        "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
-        "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-        "ChatGPT AI Predicts XRP’s Price for the End of 2029"
+        "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+        "At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner",
+        "Some bought Bitcoin on Kraken for under $20,000"
       ],
       "score": 55.0,
-      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "reason": "Bitcoin USD (BTC-USD) está em alta de 2.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
       "kind": "crypto"
     },
     "stocks": {

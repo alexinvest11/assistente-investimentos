@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-10 09:01",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VALE3.SA",
-        "name": "VALE        ON      NM",
-        "price": 66.11,
-        "change_pct": 3.23,
-        "currency": "BRL",
-        "dividend_yield": 0.0661,
-        "pe_ratio": 81.61729,
-        "sector": "Basic Materials",
-        "market_cap": 281348472832,
-        "news": [
-          "Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...",
-          "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
-          "Wheaton Precious Metals beats Peel Hunt forecasts as broker keeps 'buy' rating"
-        ],
-        "score": 70.0,
-        "reason": "A ação VALE        ON      NM (VALE3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.6% ao ano) e o preço subiu 3.2% recentemente. Nas notícias recentes: \"Vale SA (VALE) (Q3 2026) Earnings Call Highlights: Base Metals Surge and $2. ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 88.78,
-        "change_pct": 0.23,
-        "currency": "BRL",
-        "dividend_yield": 0.1108,
-        "pe_ratio": 17.580196,
-        "sector": "Real Estate",
-        "market_cap": 3552592640,
-        "news": [],
-        "score": 50.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-10 16:54",
     "tips": {
       "crypto": null,
@@ -1666,6 +1626,64 @@
         ],
         "score": 55.0,
         "reason": "Bitcoin USD (BTC-USD) está em alta de 2.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 42.67,
+        "change_pct": -1.16,
+        "currency": "BRL",
+        "dividend_yield": 0.0859,
+        "pe_ratio": 3.8755674,
+        "sector": "Energy",
+        "market_cap": 583020904448,
+        "news": [
+          "Geospace: 3 Key Takeaways for Long-Term Investors",
+          "Constellation Oil Services Holding SA (FRA:QG21) (Q3 2026) Earnings Call Highlights: EBITDA ...",
+          "Cheniere Energy: 3 Key Takeaways for Long-Term Investors"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Geospace: 3 Key Takeaways for Long-Term Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGRE11.SA",
+        "name": "FII HGRE PAXCI",
+        "price": 111.02,
+        "change_pct": 0.23,
+        "currency": "BRL",
+        "dividend_yield": 0.0919,
+        "pe_ratio": 17.51104,
+        "sector": "Real Estate",
+        "market_cap": 1312008448,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.2% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-21 23:39",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 60115.92,
+        "change_pct": 2.24,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1209081397248,
+        "news": [
+          "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+          "At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner",
+          "Some bought Bitcoin on Kraken for under $20,000"
+        ],
+        "score": 55.0,
+        "reason": "Bitcoin USD (BTC-USD) está em alta de 2.2%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
         "kind": "crypto"
       },
       "stocks": {
