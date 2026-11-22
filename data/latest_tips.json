@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-11-22T12:58:11.795130",
+  "updated_at": "2026-11-22T20:08:17.701228",
   "tips": {
-    "crypto": {
-      "ticker": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 60724.04,
-      "change_pct": 1.05,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 1221657624576,
-      "news": [
-        "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over",
-        "Average American spends $13 in Bitcoin, led by coffee",
-        "Coinbase's $21 children's book comes with $50 Bitcoin"
-      ],
-      "score": 40.0,
-      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.1%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
