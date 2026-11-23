@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-22T20:08:17.701228",
+  "updated_at": "2026-11-23T01:16:43.509662",
   "tips": {
-    "crypto": null,
+    "crypto": {
+      "ticker": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 60919.03,
+      "change_pct": 1.37,
+      "currency": "USD",
+      "dividend_yield": null,
+      "pe_ratio": null,
+      "sector": null,
+      "market_cap": 1227175493632,
+      "news": [
+        "XRP’s Next 10 Years: Is It One to Buy, Hold or Avoid?",
+        "Crypto Market Today, Nov. 22: Bitcoin Reclaims $60,000 After $1.8 Billion Liquidation Wipeout. Is the Worst Over?",
+        "Can Bitcoin Still Reach $1 Million by 2035?"
+      ],
+      "score": 40.0,
+      "reason": "Bitcoin USD (BTC-USD) teve variação de 1.4%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"XRP’s Next 10 Years: Is It One to Buy, Hold or Avoid?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+      "kind": "crypto"
+    },
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
