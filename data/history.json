@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-12 01:13",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VIVT3.SA",
-        "name": "TELEF BRASILON",
-        "price": 34.25,
-        "change_pct": 5.38,
-        "currency": "BRL",
-        "dividend_yield": 0.052000000000000005,
-        "pe_ratio": 16.626215,
-        "sector": "Communication Services",
-        "market_cap": 109449510912,
-        "news": [
-          "Telefonica Brasil Q3 Earnings Call Highlights",
-          "Telefonica Brasil: Q3 Earnings Snapshot",
-          "Does Telefonica Brasil (VIV) Have the Potential to Rally 28.7% as Wall Street Analysts Expect?"
-        ],
-        "score": 70.0,
-        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço subiu 5.4% recentemente. Nas notícias recentes: \"Telefonica Brasil Q3 Earnings Call Highlights\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "TGAR11.SA",
-        "name": "FII TG ATIVOCI  ER",
-        "price": 31.8,
-        "change_pct": 2.09,
-        "currency": "BRL",
-        "dividend_yield": 0.1772,
-        "pe_ratio": null,
-        "sector": "Real Estate",
-        "market_cap": 749461376,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.7% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-12 09:01",
     "tips": {
       "crypto": null,
@@ -1772,6 +1732,46 @@
         "news": [],
         "score": 50.0,
         "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.2% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-23 22:20",
+    "tips": {
+      "crypto": null,
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 41.3,
+        "change_pct": -3.21,
+        "currency": "BRL",
+        "dividend_yield": 0.0859,
+        "pe_ratio": 3.751135,
+        "sector": "Energy",
+        "market_cap": 564301987840,
+        "news": [
+          "Prosafe SE (PRSEF) Q3 2026 Earnings Call Highlights: Steady EBITDA, Strong Vessel Uptime and ...",
+          "UGP Drops 34.1% in a Month: Is the Sell-Off an Opportunity?",
+          "Is UGP Worth Buying as Low Valuation Meets Uneven Cash Flows?"
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano). Nas notícias recentes: \"Prosafe SE (PRSEF) Q3 2026 Earnings Call Highlights: Steady EBITDA, Strong Vessel Uptime and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI  ER",
+        "price": 83.0,
+        "change_pct": 1.23,
+        "currency": "BRL",
+        "dividend_yield": 0.11710000000000001,
+        "pe_ratio": 10.048426,
+        "sector": "Real Estate",
+        "market_cap": 5337568768,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI  ER (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.7% ao ano) e o preço está em leve alta (1.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }

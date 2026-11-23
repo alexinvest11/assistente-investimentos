@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-23T10:02:41.392934",
+  "updated_at": "2026-11-23T22:20:43.297457",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 42.67,
-      "change_pct": -1.16,
+      "price": 41.3,
+      "change_pct": -3.21,
       "currency": "BRL",
       "dividend_yield": 0.0859,
-      "pe_ratio": 3.8755674,
+      "pe_ratio": 3.751135,
       "sector": "Energy",
-      "market_cap": 583020904448,
+      "market_cap": 564301987840,
       "news": [
-        "Geospace: 3 Key Takeaways for Long-Term Investors",
-        "Constellation Oil Services Holding SA (FRA:QG21) (Q3 2026) Earnings Call Highlights: EBITDA ...",
-        "Cheniere Energy: 3 Key Takeaways for Long-Term Investors"
+        "Prosafe SE (PRSEF) Q3 2026 Earnings Call Highlights: Steady EBITDA, Strong Vessel Uptime and ...",
+        "UGP Drops 34.1% in a Month: Is the Sell-Off an Opportunity?",
+        "Is UGP Worth Buying as Low Valuation Meets Uneven Cash Flows?"
       ],
-      "score": 65.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Geospace: 3 Key Takeaways for Long-Term Investors\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano). Nas notícias recentes: \"Prosafe SE (PRSEF) Q3 2026 Earnings Call Highlights: Steady EBITDA, Strong Vessel Uptime and ...\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGRE11.SA",
-      "name": "FII HGRE PAXCI",
-      "price": 111.02,
-      "change_pct": 0.23,
+      "ticker": "XPML11.SA",
+      "name": "FII XP MALLSCI  ER",
+      "price": 83.0,
+      "change_pct": 1.23,
       "currency": "BRL",
-      "dividend_yield": 0.0919,
-      "pe_ratio": 17.51104,
+      "dividend_yield": 0.11710000000000001,
+      "pe_ratio": 10.048426,
       "sector": "Real Estate",
-      "market_cap": 1312008448,
+      "market_cap": 5337568768,
       "news": [],
       "score": 50.0,
-      "reason": "O fundo imobiliário FII HGRE PAXCI (HGRE11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.2% ao ano) e o preço está em leve alta (0.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP MALLSCI  ER (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.7% ao ano) e o preço está em leve alta (1.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
