@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-12 09:01",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "VIVT3.SA",
-        "name": "TELEF BRASILON",
-        "price": 34.25,
-        "change_pct": 5.38,
-        "currency": "BRL",
-        "dividend_yield": 0.052000000000000005,
-        "pe_ratio": 17.564102,
-        "sector": "Communication Services",
-        "market_cap": 109449510912,
-        "news": [
-          "Telefonica Brasil Q3 Earnings Call Highlights",
-          "Telefonica Brasil: Q3 Earnings Snapshot",
-          "Does Telefonica Brasil (VIV) Have the Potential to Rally 28.7% as Wall Street Analysts Expect?"
-        ],
-        "score": 70.0,
-        "reason": "A ação TELEF BRASILON (VIVT3.SA) foi destacada porque paga cerca de 5.2% ao ano em proventos e o preço subiu 5.4% recentemente. Nas notícias recentes: \"Telefonica Brasil Q3 Earnings Call Highlights\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "TGAR11.SA",
-        "name": "FII TG ATIVOCI  ER",
-        "price": 31.8,
-        "change_pct": 2.09,
-        "currency": "BRL",
-        "dividend_yield": 0.1736,
-        "pe_ratio": null,
-        "sector": "Real Estate",
-        "market_cap": 749461376,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII TG ATIVOCI  ER (TGAR11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 17.4% ao ano) e o preço subiu 2.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-12 17:49",
     "tips": {
       "crypto": null,
@@ -1767,6 +1727,64 @@
         "currency": "BRL",
         "dividend_yield": 0.11710000000000001,
         "pe_ratio": 10.048426,
+        "sector": "Real Estate",
+        "market_cap": 5337568768,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII XP MALLSCI  ER (XPML11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.7% ao ano) e o preço está em leve alta (1.2%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-24 06:37",
+    "tips": {
+      "crypto": {
+        "ticker": "XRP-USD",
+        "name": "XRP USD",
+        "price": 0.95,
+        "change_pct": 2.08,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 60249927680,
+        "news": [
+          "What Will 7,500 XRP Be Worth by the End of 2027?",
+          "What Could 20,000 XRP, 20,000 Stellar and 20,000 Hedera Be Worth by 2035?",
+          "Is XRP or Bitcoin the Better  Buy After Both Fell About 20% in November?"
+        ],
+        "score": 35.0,
+        "reason": "XRP USD (XRP-USD) está em alta de 2.1%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"What Will 7,500 XRP Be Worth by the End of 2027?\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 41.3,
+        "change_pct": -3.21,
+        "currency": "BRL",
+        "dividend_yield": 0.0859,
+        "pe_ratio": 3.6809268,
+        "sector": "Energy",
+        "market_cap": 564301987840,
+        "news": [
+          "Petrobras Boosts Investment to $122 Billion in New Five-Year Plan",
+          "Prosafe SE (PRSEF) Q3 2026 Earnings Call Highlights: Steady EBITDA, Strong Vessel Uptime and ...",
+          "UGP Drops 34.1% in a Month: Is the Sell-Off an Opportunity?"
+        ],
+        "score": 60.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.6% ao ano). Nas notícias recentes: \"Petrobras Boosts Investment to $122 Billion in New Five-Year Plan\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "XPML11.SA",
+        "name": "FII XP MALLSCI  ER",
+        "price": 83.0,
+        "change_pct": 1.23,
+        "currency": "BRL",
+        "dividend_yield": 0.11710000000000001,
+        "pe_ratio": 9.787736,
         "sector": "Real Estate",
         "market_cap": 5337568768,
         "news": [],
