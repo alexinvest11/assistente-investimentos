@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-13 20:12",
-    "tips": {
-      "crypto": null,
-      "stocks": {
-        "ticker": "PETR4.SA",
-        "name": "PETROBRAS   PN      N2",
-        "price": 45.16,
-        "change_pct": 1.03,
-        "currency": "BRL",
-        "dividend_yield": 0.08199999999999999,
-        "pe_ratio": 4.1017256,
-        "sector": "Energy",
-        "market_cap": 617043001344,
-        "news": [
-          "Computer Modelling Group Q2 Earnings Call Highlights",
-          "Petrobras (PBR) Q3 2026 Earnings Call Transcript",
-          "Is Petroleo Brasileiro (PBR) Stock Outpacing Its Oils-Energy Peers This Year?"
-        ],
-        "score": 70.0,
-        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.2% ao ano) e o preço está em leve alta (1.0%). Nas notícias recentes: \"Computer Modelling Group Q2 Earnings Call Highlights\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "stock"
-      },
-      "fiis": {
-        "ticker": "XPLG11.SA",
-        "name": "FII XP LOG  CI  ER",
-        "price": 91.18,
-        "change_pct": 3.03,
-        "currency": "BRL",
-        "dividend_yield": 0.1112,
-        "pe_ratio": 18.019764,
-        "sector": "Real Estate",
-        "market_cap": 3648630528,
-        "news": [],
-        "score": 60.0,
-        "reason": "O fundo imobiliário FII XP LOG  CI  ER (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.1% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
-        "kind": "fii"
-      }
-    }
-  },
-  {
     "date": "2026-11-14 01:09",
     "tips": {
       "crypto": null,
@@ -1792,6 +1752,64 @@
         "news": [],
         "score": 60.0,
         "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 11.4% ao ano) e o preço subiu 3.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "fii"
+      }
+    }
+  },
+  {
+    "date": "2026-11-26 03:20",
+    "tips": {
+      "crypto": {
+        "ticker": "BTC-USD",
+        "name": "Bitcoin USD",
+        "price": 60727.9,
+        "change_pct": 1.64,
+        "currency": "USD",
+        "dividend_yield": null,
+        "pe_ratio": null,
+        "sector": null,
+        "market_cap": 1221210013696,
+        "news": [
+          "Kraken's new credit cards offer up to 4% bitcoin rewards",
+          "Bitcoin hovers near $59,000, on pace for its worst month since June 2022",
+          "Japan's biggest banks pick Solana as Fidelity adds DeFi tokens"
+        ],
+        "score": 40.0,
+        "reason": "Bitcoin USD (BTC-USD) teve variação de 1.6%. Foi destacada entre as principais criptomoedas do momento. Nas notícias recentes: \"Kraken's new credit cards offer up to 4% bitcoin rewards\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
+        "kind": "crypto"
+      },
+      "stocks": {
+        "ticker": "PETR4.SA",
+        "name": "PETROBRAS   PN      N2",
+        "price": 40.55,
+        "change_pct": -1.82,
+        "currency": "BRL",
+        "dividend_yield": 0.0904,
+        "pe_ratio": 3.756585,
+        "sector": "Energy",
+        "market_cap": 565121777664,
+        "news": [
+          "Petrobras Eyes Corn Ethanol Expansion: Can It Unlock New Value?",
+          "Petrobras Unveils $122 Billion Plan, Sees Potential for $10 Billion More in Dividends",
+          "Brazil's Petrobras sets $122bn five-year plan, over 70% for oil and gas"
+        ],
+        "score": 65.0,
+        "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 9.0% ao ano) e o preço está relativamente estável. Nas notícias recentes: \"Petrobras Eyes Corn Ethanol Expansion: Can It Unlock New Value?\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+        "kind": "stock"
+      },
+      "fiis": {
+        "ticker": "HGLG11.SA",
+        "name": "FII HGLG PAXCI",
+        "price": 140.8,
+        "change_pct": 0.08,
+        "currency": "BRL",
+        "dividend_yield": 0.09970000000000001,
+        "pe_ratio": 9.938409,
+        "sector": "Real Estate",
+        "market_cap": 4852233728,
+        "news": [],
+        "score": 50.0,
+        "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.0% ao ano) e o preço está em leve alta (0.1%). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
         "kind": "fii"
       }
     }
