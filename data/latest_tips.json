@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-26T13:24:21.598039",
+  "updated_at": "2026-11-26T22:43:54.669515",
   "tips": {
     "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 41.36,
-      "change_pct": 2.0,
+      "price": 43.19,
+      "change_pct": 4.42,
       "currency": "BRL",
       "dividend_yield": 0.0886,
-      "pe_ratio": 3.6862745,
+      "pe_ratio": 3.9227972,
       "sector": "Energy",
-      "market_cap": 565121777664,
+      "market_cap": 590125924352,
       "news": [
+        "Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge",
         "OEEG 2026: international offshore buyers meet China’s supply chain as sanctioned investment heads for $137bn",
-        "Petrobras Eyes Corn Ethanol Expansion: Can It Unlock New Value?",
-        "Petrobras Unveils $122 Billion Plan, Sees Potential for $10 Billion More in Dividends"
+        "Petrobras Eyes Corn Ethanol Expansion: Can It Unlock New Value?"
       ],
-      "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (2.0%). Nas notícias recentes: \"OEEG 2026: international offshore buyers meet China’s supply chain as sanctioned investment heads for $137bn\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 80.0,
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço subiu 4.4% recentemente. Nas notícias recentes: \"Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "MXRF11.SA",
       "name": "FII MAXI RENCI",
-      "price": 8.63,
-      "change_pct": 2.01,
+      "price": 8.69,
+      "change_pct": 2.72,
       "currency": "BRL",
       "dividend_yield": 0.1348,
-      "pe_ratio": 12.328572,
+      "pe_ratio": 12.414286,
       "sector": "Real Estate",
-      "market_cap": 3975216384,
+      "market_cap": 4002853888,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.5% ao ano) e o preço subiu 2.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 13.5% ao ano) e o preço subiu 2.7% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
