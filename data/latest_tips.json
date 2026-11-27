@@ -1,57 +1,39 @@
 {
-  "updated_at": "2026-11-27T04:40:57.594594",
+  "updated_at": "2026-11-27T14:32:30.781922",
   "tips": {
-    "crypto": {
-      "ticker": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 1737.37,
-      "change_pct": 2.76,
-      "currency": "USD",
-      "dividend_yield": null,
-      "pe_ratio": null,
-      "sector": null,
-      "market_cap": 212027457536,
-      "news": [
-        "Bitcoin, XRP, Ethereum face brutal crash risk as key levels crack",
-        "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
-        "Why Ethereum Is Racing Toward Hash-Based Signatures: Uneasy Money"
-      ],
-      "score": 50.0,
-      "reason": "Ethereum USD (ETH-USD) está em alta de 2.8%. Foi a que teve melhor movimento entre as criptomoedas acompanhadas. Nas notícias recentes: \"Bitcoin, XRP, Ethereum face brutal crash risk as key levels crack\". Lembre-se: criptomoedas oscilam muito e o risco é alto. Isso não é recomendação de compra.",
-      "kind": "crypto"
-    },
+    "crypto": null,
     "stocks": {
       "ticker": "PETR4.SA",
       "name": "PETROBRAS   PN      N2",
-      "price": 41.36,
-      "change_pct": 2.0,
+      "price": 43.64,
+      "change_pct": 1.04,
       "currency": "BRL",
-      "dividend_yield": 0.0886,
-      "pe_ratio": 3.9227972,
+      "dividend_yield": 0.0848,
+      "pe_ratio": 3.9636693,
       "sector": "Energy",
-      "market_cap": 590125924352,
+      "market_cap": 596274511872,
       "news": [
         "Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge",
         "OEEG 2026: international offshore buyers meet China’s supply chain as sanctioned investment heads for $137bn",
         "Petrobras Eyes Corn Ethanol Expansion: Can It Unlock New Value?"
       ],
       "score": 70.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.9% ao ano) e o preço está em leve alta (2.0%). Nas notícias recentes: \"Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.5% ao ano) e o preço está em leve alta (1.0%). Nas notícias recentes: \"Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
       "ticker": "XPLG11.SA",
       "name": "FII XP LOG  CI",
-      "price": 90.1,
-      "change_pct": 4.04,
+      "price": 92.65,
+      "change_pct": 2.04,
       "currency": "BRL",
-      "dividend_yield": 0.1092,
-      "pe_ratio": 17.944664,
+      "dividend_yield": 0.1084,
+      "pe_ratio": 18.310278,
       "sector": "Real Estate",
-      "market_cap": 3633424640,
+      "market_cap": 3707453440,
       "news": [],
       "score": 60.0,
-      "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.9% ao ano) e o preço subiu 4.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "reason": "O fundo imobiliário FII XP LOG  CI (XPLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 10.8% ao ano) e o preço subiu 2.0% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
