@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-11-28T05:40:49.632373",
+  "updated_at": "2026-11-28T14:49:16.544333",
   "tips": {
     "crypto": null,
     "stocks": {
-      "ticker": "PETR4.SA",
-      "name": "PETROBRAS   PN      N2",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "RENT3.SA",
+      "name": "LOCALIZA    ON      NM",
+      "price": 34.65,
+      "change_pct": 2.61,
       "currency": "BRL",
-      "dividend_yield": 0.087,
-      "pe_ratio": 3.755793,
-      "sector": "Energy",
-      "market_cap": 575779307520,
+      "dividend_yield": 0.0643,
+      "pe_ratio": 8.816794,
+      "sector": "Industrials",
+      "market_cap": 38281265152,
       "news": [
-        "Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge",
-        "OEEG 2026: international offshore buyers meet China’s supply chain as sanctioned investment heads for $137bn",
-        "Petrobras Eyes Corn Ethanol Expansion: Can It Unlock New Value?"
+        "Forward Air (FWRD) Q3 Earnings Top Estimates",
+        "Localiza Rent A Car SA - Sponsored ADR (LZRFY) Earnings Expected to Grow: Should You Buy?",
+        "Localiza Rent A Car SA - Sponsored ADR (LZRFY) Surges 6.8%: Is This an Indication of Further Gains?"
       ],
-      "score": 60.0,
-      "reason": "A ação PETROBRAS   PN      N2 (PETR4.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 8.7% ao ano). Nas notícias recentes: \"Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 65.0,
+      "reason": "A ação LOCALIZA    ON      NM (RENT3.SA) foi destacada porque distribui uma boa parte do resultado aos acionistas (cerca de 6.4% ao ano) e o preço subiu 2.6% recentemente. Nas notícias recentes: \"Forward Air (FWRD) Q3 Earnings Top Estimates\". Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "stock"
     },
     "fiis": {
-      "ticker": "HGLG11.SA",
-      "name": "FII HGLG PAXCI",
-      "price": NaN,
-      "change_pct": NaN,
+      "ticker": "MXRF11.SA",
+      "name": "FII MAXI RENCI",
+      "price": 8.96,
+      "change_pct": 3.11,
       "currency": "BRL",
-      "dividend_yield": 0.096,
-      "pe_ratio": 10.041181,
+      "dividend_yield": 0.1272,
+      "pe_ratio": 12.8,
       "sector": "Real Estate",
-      "market_cap": 4943122432,
+      "market_cap": 4127223552,
       "news": [],
-      "score": 40.0,
-      "reason": "O fundo imobiliário FII HGLG PAXCI (HGLG11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 9.6% ao ano). Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
+      "score": 60.0,
+      "reason": "O fundo imobiliário FII MAXI RENCI (MXRF11.SA) foi destacada porque distribui uma boa parte do resultado aos cotistas (cerca de 12.7% ao ano) e o preço subiu 3.1% recentemente. Isso não é uma recomendação de compra — é só um destaque automático para você avaliar.",
       "kind": "fii"
     }
   }
